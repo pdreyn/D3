@@ -103,7 +103,7 @@
 {
  "children": [
  {
- "name": "43-4151.00 "order" Clerks","code":"43-4151.00","title": ""order" Clerks","score":0.235714285714285,
+ "name": "43-4151.00 Order Clerks","code":"43-4151.00","title": "Order Clerks","score":0.235714285714285,
 "order": 195 
 },
 {
@@ -400,7 +400,7 @@
  {
  "children": [
  {
- "name": "21-1011.00 Substance Abuse and Behavioral Dis"order" Counselors","code":"21-1011.00","title": "Substance Abuse and Behavioral Dis"order" Counselors","score":0.178571428571428,
+ "name": "21-1011.00 Substance Abuse and Behavioral Disorder Counselors","code":"21-1011.00","title": "Substance Abuse and Behavioral Disorder Counselors","score":0.178571428571428,
 "order": 78 
 },
 {
@@ -4337,7 +4337,7 @@
 "order": 9 
 },
 {
- "name": "43-5081.04 "order" Fillers, Wholesale and Retail Sales","code":"43-5081.04","title": ""order" Fillers, Wholesale and Retail Sales","score":0.00807142857142857,
+ "name": "43-5081.04 Order Fillers, Wholesale and Retail Sales","code":"43-5081.04","title": "Order Fillers, Wholesale and Retail Sales","score":0.00807142857142857,
 "order": 521 
 } 
 ],
@@ -4468,7 +4468,7 @@
  {
  "children": [
  {
- "name": "35-2015.00 Cooks, Short "order"","code":"35-2015.00","title": "Cooks, Short "order"","score":0.178571428571428,
+ "name": "35-2015.00 Cooks, Short order","code":"35-2015.00","title": "Cooks, Short order","score":0.178571428571428,
 "order": 15 
 },
 {
