@@ -9,7 +9,7 @@
 }
 
 .node {
-  font: 10px sans-serif;
+  font: 15px sans-serif;
 }
 
 .link {
@@ -55,12 +55,12 @@ d3.json("OccByKeyKSAsTreeV2.json", function(error, root) {
       .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
 
   node.append("circle")
-      .attr("r", 6)
+      .attr("r", function (d) { return 20*d.score/0.54; })
 	  .style("opacity", function (d) { return d.score/0.54; });
 
   node.append("text")
       .attr("dx", function(d) { return d.children ? -8 : 8; })
-      .attr("dy", 8)
+      .attr("dy", 4)
       .style("text-anchor", function(d) { return d.children ? "end" : "start"; })
 	  .style("opacity", function (d) { return d.score/0.54; })
       .text(function(d) { return d.name; });
