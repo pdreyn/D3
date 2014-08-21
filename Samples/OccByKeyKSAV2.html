@@ -55,8 +55,8 @@ d3.json("OccByKeyKSAsTreeV2.json", function(error, root) {
       .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
 
   node.append("circle")
-      .attr("r", 4.5);
-	  .style("fill-opacity", function (d) { return d.score; })
+      .attr("r", 4.5)
+	  .style("opacity", function (d) { return d.score; });
 
   node.append("text")
       .attr("dx", function(d) { return d.children ? -8 : 8; })
