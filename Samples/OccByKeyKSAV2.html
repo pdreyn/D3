@@ -3,9 +3,9 @@
 <style>
 
 .node circle {
-  fill: #fff;
+  fill: black;
   stroke: steelblue;
-  stroke-width: 1.5px;
+  stroke-width: 1px;
 }
 
 .node {
@@ -55,11 +55,12 @@ d3.json("OccByKeyKSAsTreeV2.json", function(error, root) {
       .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
 
   node.append("circle")
-      .attr("r", function (d) { return (10 * d.score *d.score); });
+      .attr("r", 4.5);
+	  .style("fill-opacity", function(d) { return d.score; })
 
   node.append("text")
       .attr("dx", function(d) { return d.children ? -8 : 8; })
-      .attr("dy", 3)
+      .attr("dy", 5)
       .style("text-anchor", function(d) { return d.children ? "end" : "start"; })
       .text(function(d) { return d.name; });
 });
