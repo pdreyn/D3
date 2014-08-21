@@ -24,10 +24,10 @@
 <script>
 
 var width = 960,
-    height = 6200;
+    height = 12000;
 
 var cluster = d3.layout.cluster()
-    .size([height, width - 160]);
+    .size([height, width - 60]);
 
 var diagonal = d3.svg.diagonal()
     .projection(function(d) { return [d.y, d.x]; });
