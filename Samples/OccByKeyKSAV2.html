@@ -55,13 +55,14 @@ d3.json("OccByKeyKSAsTreeV2.json", function(error, root) {
       .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
 
   node.append("circle")
-      .attr("r", 4.5)
-	  .style("opacity", function (d) { return d.score; });
+      .attr("r", 6)
+	  .style("opacity", function (d) { return d.score * d.score; });
 
   node.append("text")
       .attr("dx", function(d) { return d.children ? -8 : 8; })
-      .attr("dy", 5)
+      .attr("dy", 8)
       .style("text-anchor", function(d) { return d.children ? "end" : "start"; })
+	  .style("opacity", function (d) { return d.score * d.score; })
       .text(function(d) { return d.name; });
 });
 
