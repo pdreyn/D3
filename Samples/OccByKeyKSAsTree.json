@@ -1,4 +1,4 @@
-[
+{[
  {
  "children": [
  {
@@ -33,14 +33,8 @@
  "children": [
  {
  "children": [
- {
- "name": "13-1199.01 Energy Auditors",
-"order": 1 
-},
-{
- "name": "15-1199.12 Document Management Specialists",
-"order": 335 
-} 
+ {"name": "13-1199.01 Energy Auditors","order": 1 },
+ {"name": "15-1199.12 Document Management Specialists","order": 335 } 
 ],
 "order": 1 
 },
@@ -8292,4 +8286,4 @@
 ],
 "order": 1 
 } 
-]
+]}
