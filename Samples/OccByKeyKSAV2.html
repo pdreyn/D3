@@ -50,12 +50,16 @@ d3.json("OccByKeyKSAsTreeV2.json", function(error, root) {
 
   var node = svg.selectAll(".node")
       .data(nodes)
-    .enter().append("g")
+	  .enter().append("g")
       .attr("class", "node")
       .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
 
   node.append("circle")
       .attr("r", function (d) { return 8*d.score/0.54*d.score/0.54; })
+	  .attr("fill", function (d) { 
+			var fillColor = "green";
+			if (d.score<0.25) {	fillColor = "red"};
+			return fillColor; })
 	  .style("opacity", function (d) { return d.score/0.54; });
 
   node.append("text")
