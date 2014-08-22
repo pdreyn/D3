@@ -20,7 +20,7 @@
 
 </style>
 <body>
-Occupations 1.1<br>
+Occupations 1.2<br>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
@@ -59,7 +59,7 @@ d3.json("OccByKeyKSAsTreeV2.json", function(error, root) {
       .attr("r", function (d) { return 8*d.score/0.54*d.score/0.54; })
 	  .attr("fill", function (d) { 
 			var fillColor = "green";
-			if (d.score<0.25) {	fillColor = "red"};
+			if (d.score<0.35) {	fillColor = "red"};
 			return fillColor; })
 	  .style("opacity", function (d) { return d.score/0.54; });
 
@@ -70,7 +70,7 @@ d3.json("OccByKeyKSAsTreeV2.json", function(error, root) {
 	  .style("opacity", function (d) { return d.score/0.54; })
 	  .attr("fill", function (d) { 
 			var fillColor = "green";
-			if (d.score<0.25) {	fillColor = "red"};
+			if (d.score<0.35) {	fillColor = "red"};
 			return fillColor; })
       .text(function(d) { return d.name; });
 });
