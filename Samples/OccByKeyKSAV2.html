@@ -20,7 +20,7 @@
 
 </style>
 <body>
-Occupations 1<br>
+Occupations 1.1<br>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
@@ -68,6 +68,10 @@ d3.json("OccByKeyKSAsTreeV2.json", function(error, root) {
       .attr("dy", 4)
       .style("text-anchor", function(d) { return d.children ? "end" : "start"; })
 	  .style("opacity", function (d) { return d.score/0.54; })
+	  .attr("fill", function (d) { 
+			var fillColor = "green";
+			if (d.score<0.25) {	fillColor = "red"};
+			return fillColor; })
       .text(function(d) { return d.name; });
 });
 
