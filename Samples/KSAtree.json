@@ -1,0 +1,1446 @@
+[
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.A.2.b-Active Learning",
+"order": 1 
+},
+{
+ "children": [
+ {
+ "name": "2.B.2.i-Complex Problem Solving",
+"order": 37 
+},
+{
+ "name": "2.B.4.e-Judgment and Decision Making",
+"order": 141 
+} 
+],
+"order": 37 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.B.1.b-Coordination",
+"order": 9 
+},
+{
+ "name": "2.B.5.a-Time Management",
+"order": 78 
+} 
+],
+"order": 9 
+},
+{
+ "name": "2.A.2.d-Monitoring",
+"order": 41 
+} 
+],
+"order": 9 
+},
+{
+ "children": [
+ {
+ "name": "1.A.1.b.7-Category Flexibility",
+"order": 121 
+},
+{
+ "name": "1.A.1.b.6-Information Ordering",
+"order": 130 
+} 
+],
+"order": 121 
+} 
+],
+"order": 9 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "name": "1.A.4.b.4-Speech Recognition",
+"order": 4 
+},
+{
+ "name": "1.A.4.b.5-Speech Clarity",
+"order": 55 
+} 
+],
+"order": 4 
+} 
+],
+"order": 1 
+},
+{
+ "name": "4.A.2.a.1-Judging the Qualities of Things, Services, or People",
+"order": 110 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.A.1.a-Reading Comprehension",
+"order": 2 
+},
+{
+ "name": "1.A.1.a.2-Written Comprehension",
+"order": 137 
+} 
+],
+"order": 2 
+},
+{
+ "children": [
+ {
+ "name": "2.A.1.b-Active Listening",
+"order": 53 
+},
+{
+ "name": "2.A.1.d-Speaking",
+"order": 56 
+} 
+],
+"order": 53 
+} 
+],
+"order": 2 
+},
+{
+ "children": [
+ {
+ "name": "2.A.1.c-Writing",
+"order": 54 
+},
+{
+ "name": "1.A.1.a.4-Written Expression",
+"order": 138 
+} 
+],
+"order": 54 
+} 
+],
+"order": 2 
+},
+{
+ "name": "4.A.4.a.1-Interpreting the Meaning of Information for Others",
+"order": 20 
+} 
+],
+"order": 2 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "4.A.4.b.5-Coaching and Developing Others",
+"order": 13 
+},
+{
+ "name": "4.A.4.b.3-Training and Teaching Others",
+"order": 103 
+} 
+],
+"order": 13 
+},
+{
+ "name": "2.C.6-Education and Training",
+"order": 33 
+} 
+],
+"order": 13 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "4.A.2.b.2-Thinking Creatively",
+"order": 15 
+},
+{
+ "children": [
+ {
+ "name": "2.C.7.a-English Language",
+"order": 38 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "1.A.4.a.1-Near Vision",
+"order": 52 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.A.2.a-Critical Thinking",
+"order": 112 
+},
+{
+ "name": "1.A.1.b.4-Deductive Reasoning",
+"order": 135 
+} 
+],
+"order": 112 
+},
+{
+ "name": "1.A.1.b.5-Inductive Reasoning",
+"order": 146 
+} 
+],
+"order": 112 
+},
+{
+ "name": "1.A.1.b.3-Problem Sensitivity",
+"order": 148 
+} 
+],
+"order": 112 
+} 
+],
+"order": 52 
+},
+{
+ "children": [
+ {
+ "name": "1.A.1.a.3-Oral Expression",
+"order": 124 
+},
+{
+ "name": "1.A.1.a.1-Oral Comprehension",
+"order": 136 
+} 
+],
+"order": 124 
+} 
+],
+"order": 52 
+} 
+],
+"order": 38 
+} 
+],
+"order": 15 
+},
+{
+ "name": "4.A.4.a.3-Communicating with Persons Outside Organization",
+"order": 17 
+} 
+],
+"order": 15 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "4.A.2.a.4-Analyzing Data or Information",
+"order": 21 
+},
+{
+ "name": "4.A.2.a.2-Processing Information",
+"order": 117 
+} 
+],
+"order": 21 
+},
+{
+ "name": "4.A.3.b.6-Documenting/Recording Information",
+"order": 42 
+} 
+],
+"order": 21 
+},
+{
+ "name": "4.A.2.a.3-Evaluating Information to Determine Compliance with Standards",
+"order": 118 
+} 
+],
+"order": 21 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.C.3.a-Computers and Electronics",
+"order": 22 
+},
+{
+ "name": "4.A.3.b.1-Interacting With Computers",
+"order": 83 
+} 
+],
+"order": 22 
+},
+{
+ "name": "2.C.4.a-Mathematics",
+"order": 30 
+} 
+],
+"order": 22 
+} 
+],
+"order": 21 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "4.A.2.b.4-Developing Objectives and Strategies",
+"order": 6 
+},
+{
+ "name": "4.A.4.b.6-Provide Consultation and Advice to Others",
+"order": 12 
+} 
+],
+"order": 6 
+},
+{
+ "children": [
+ {
+ "name": "4.A.4.b.1-Coordinating the Work and Activities of Others",
+"order": 58 
+},
+{
+ "name": "4.A.2.b.5-Scheduling Work and Activities",
+"order": 61 
+} 
+],
+"order": 58 
+} 
+],
+"order": 6 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.B.1.a-Social Perceptiveness",
+"order": 7 
+},
+{
+ "name": "2.B.1.f-Service Orientation",
+"order": 139 
+} 
+],
+"order": 7 
+},
+{
+ "name": "4.A.4.a.7-Resolving Conflicts and Negotiating with Others",
+"order": 93 
+} 
+],
+"order": 7 
+} 
+],
+"order": 6 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "4.A.4.b.4-Guiding, Directing, and Motivating Subordinates",
+"order": 70 
+},
+{
+ "name": "4.A.4.b.2-Developing and Building Teams",
+"order": 104 
+} 
+],
+"order": 70 
+},
+{
+ "name": "4.A.4.c.3-Monitoring and Controlling Resources",
+"order": 108 
+} 
+],
+"order": 70 
+},
+{
+ "name": "2.C.1.a-Administration and Management",
+"order": 75 
+} 
+],
+"order": 70 
+} 
+],
+"order": 6 
+},
+{
+ "children": [
+ {
+ "name": "4.A.4.c.1-Performing Administrative Activities",
+"order": 57 
+},
+{
+ "name": "2.C.1.b-Clerical",
+"order": 80 
+} 
+],
+"order": 57 
+} 
+],
+"order": 6 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.C.1.e-Customer and Personal Service",
+"order": 46 
+},
+{
+ "name": "4.A.4.a.8-Performing for or Working Directly with the Public",
+"order": 160 
+} 
+],
+"order": 46 
+},
+{
+ "name": "4.A.4.a.5-Assisting and Caring for Others",
+"order": 150 
+} 
+],
+"order": 46 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "4.A.2.b.3-Updating and Using Relevant Knowledge",
+"order": 5 
+},
+{
+ "name": "4.A.1.a.1-Getting Information",
+"order": 36 
+} 
+],
+"order": 5 
+},
+{
+ "name": "4.A.2.b.1-Making Decisions and Solving Problems",
+"order": 14 
+} 
+],
+"order": 5 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "4.A.4.a.2-Communicating with Supervisors, Peers, or Subordinates",
+"order": 16 
+},
+{
+ "name": "4.A.2.b.6-Organizing, Planning, and Prioritizing Work",
+"order": 67 
+} 
+],
+"order": 16 
+},
+{
+ "name": "4.A.4.a.4-Establishing and Maintaining Interpersonal Relationships",
+"order": 91 
+} 
+],
+"order": 16 
+} 
+],
+"order": 5 
+},
+{
+ "children": [
+ {
+ "name": "4.A.1.a.2-Monitor Processes, Materials, or Surroundings",
+"order": 39 
+},
+{
+ "name": "4.A.1.b.1-Identifying Objects, Actions, and Events",
+"order": 105 
+} 
+],
+"order": 39 
+} 
+],
+"order": 5 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "4.A.3.a.1-Performing General Physical Activities",
+"order": 65 
+},
+{
+ "name": "4.A.3.a.2-Handling and Moving Objects",
+"order": 66 
+} 
+],
+"order": 65 
+},
+{
+ "children": [
+ {
+ "name": "4.A.3.a.3-Controlling Machines and Processes",
+"order": 87 
+},
+{
+ "name": "4.A.1.b.2-Inspecting Equipment, Structures, or Material",
+"order": 109 
+} 
+],
+"order": 87 
+} 
+],
+"order": 65 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.A.2.c-Learning Strategies",
+"order": 3 
+},
+{
+ "name": "2.B.1.e-Instructing",
+"order": 100 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "name": "1.A.1.b.1-Fluency of Ideas",
+"order": 122 
+},
+{
+ "name": "1.A.1.b.2-Originality",
+"order": 123 
+} 
+],
+"order": 122 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.B.1.c-Persuasion",
+"order": 8 
+},
+{
+ "name": "2.B.1.d-Negotiation",
+"order": 59 
+} 
+],
+"order": 8 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.B.4.h-Systems Evaluation",
+"order": 72 
+},
+{
+ "name": "2.B.4.g-Systems Analysis",
+"order": 143 
+} 
+],
+"order": 72 
+},
+{
+ "name": "2.B.5.d-Management of Personnel Resources",
+"order": 95 
+} 
+],
+"order": 72 
+} 
+],
+"order": 8 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "1.A.1.d.1-Memorization",
+"order": 92 
+},
+{
+ "name": "1.A.1.e.1-Speed of Closure",
+"order": 152 
+} 
+],
+"order": 92 
+},
+{
+ "name": "1.A.1.g.2-Time Sharing",
+"order": 156 
+} 
+],
+"order": 92 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "1.A.4.a.2-Far Vision",
+"order": 60 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "1.A.1.e.2-Flexibility of Closure",
+"order": 89 
+},
+{
+ "name": "1.A.1.e.3-Perceptual Speed",
+"order": 159 
+} 
+],
+"order": 89 
+},
+{
+ "name": "1.A.1.g.1-Selective Attention",
+"order": 154 
+} 
+],
+"order": 89 
+} 
+],
+"order": 60 
+},
+{
+ "name": "4.A.1.b.3-Estimating the Quantifiable Characteristics of Products, Events, or Information",
+"order": 106 
+} 
+],
+"order": 60 
+},
+{
+ "children": [
+ {
+ "name": "1.A.4.a.3-Visual Color Discrimination",
+"order": 69 
+},
+{
+ "name": "1.A.1.f.2-Visualization",
+"order": 161 
+} 
+],
+"order": 69 
+} 
+],
+"order": 60 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "name": "2.C.8.b-Law and Government",
+"order": 40 
+},
+{
+ "name": "2.C.8.a-Public Safety and Security",
+"order": 119 
+} 
+],
+"order": 40 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.C.10-Transportation",
+"order": 25 
+},
+{
+ "name": "2.C.4.g-Geography",
+"order": 85 
+} 
+],
+"order": 25 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.B.3.a-Operations Analysis",
+"order": 32 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "1.A.1.c.1-Mathematical Reasoning",
+"order": 132 
+},
+{
+ "name": "2.A.1.e-Mathematics",
+"order": 147 
+} 
+],
+"order": 132 
+},
+{
+ "name": "1.A.1.c.2-Number Facility",
+"order": 149 
+} 
+],
+"order": 132 
+} 
+],
+"order": 32 
+},
+{
+ "name": "2.C.4.b-Physics",
+"order": 50 
+} 
+],
+"order": 32 
+},
+{
+ "children": [
+ {
+ "name": "2.C.4.c-Chemistry",
+"order": 44 
+},
+{
+ "name": "2.A.1.f-Science",
+"order": 131 
+} 
+],
+"order": 44 
+} 
+],
+"order": 32 
+} 
+],
+"order": 25 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.C.1.c-Economics and Accounting",
+"order": 48 
+},
+{
+ "children": [
+ {
+ "name": "2.C.1.f-Personnel and Human Resources",
+"order": 76 
+},
+{
+ "name": "4.A.4.c.2-Staffing Organizational Units",
+"order": 94 
+} 
+],
+"order": 76 
+} 
+],
+"order": 48 
+},
+{
+ "children": [
+ {
+ "name": "2.C.1.d-Sales and Marketing",
+"order": 49 
+},
+{
+ "name": "4.A.4.a.6-Selling or Influencing Others",
+"order": 90 
+} 
+],
+"order": 49 
+} 
+],
+"order": 48 
+} 
+],
+"order": 25 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "name": "2.C.4.e-Psychology",
+"order": 18 
+},
+{
+ "name": "2.C.5.b-Therapy and Counseling",
+"order": 113 
+} 
+],
+"order": 18 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "name": "2.C.4.d-Biology",
+"order": 45 
+},
+{
+ "name": "2.C.5.a-Medicine and Dentistry",
+"order": 86 
+} 
+],
+"order": 45 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "1.A.4.a.5-Peripheral Vision",
+"order": 10 
+},
+{
+ "name": "1.A.4.a.4-Night Vision",
+"order": 81 
+} 
+],
+"order": 10 
+},
+{
+ "name": "1.A.4.b.3-Sound Localization",
+"order": 145 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "name": "1.A.4.a.7-Glare Sensitivity",
+"order": 62 
+},
+{
+ "name": "1.A.1.f.1-Spatial Orientation",
+"order": 88 
+} 
+],
+"order": 62 
+} 
+],
+"order": 10 
+},
+{
+ "name": "1.A.2.c.2-Wrist-Finger Speed",
+"order": 144 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "name": "2.B.3.e-Programming",
+"order": 28 
+},
+{
+ "name": "2.B.3.b-Technology Design",
+"order": 35 
+} 
+],
+"order": 28 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.C.7.b-Foreign Language",
+"order": 73 
+},
+{
+ "children": [
+ {
+ "name": "1.A.3.a.2-Explosive Strength",
+"order": 102 
+},
+{
+ "name": "1.A.3.c.2-Dynamic Flexibility",
+"order": 157 
+} 
+],
+"order": 102 
+} 
+],
+"order": 73 
+},
+{
+ "children": [
+ {
+ "name": "2.B.5.b-Management of Financial Resources",
+"order": 77 
+},
+{
+ "name": "2.B.5.c-Management of Material Resources",
+"order": 79 
+} 
+],
+"order": 77 
+} 
+],
+"order": 73 
+} 
+],
+"order": 10 
+},
+{
+ "name": "2.C.7.d-History and Archeology",
+"order": 116 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.B.3.d-Installation",
+"order": 27 
+},
+{
+ "children": [
+ {
+ "name": "2.C.4.f-Sociology and Anthropology",
+"order": 47 
+},
+{
+ "name": "2.C.7.e-Philosophy and Theology",
+"order": 120 
+} 
+],
+"order": 47 
+} 
+],
+"order": 27 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.C.9.a-Telecommunications",
+"order": 31 
+},
+{
+ "children": [
+ {
+ "name": "1.A.3.c.4-Gross Body Equilibrium",
+"order": 51 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "1.A.3.a.3-Dynamic Strength",
+"order": 97 
+},
+{
+ "children": [
+ {
+ "name": "1.A.3.b.1-Stamina",
+"order": 111 
+},
+{
+ "name": "1.A.3.c.3-Gross Body Coordination",
+"order": 126 
+} 
+],
+"order": 111 
+} 
+],
+"order": 97 
+},
+{
+ "name": "1.A.2.c.3-Speed of Limb Movement",
+"order": 127 
+} 
+],
+"order": 97 
+} 
+],
+"order": 51 
+} 
+],
+"order": 31 
+},
+{
+ "name": "2.C.9.b-Communications and Media",
+"order": 34 
+} 
+],
+"order": 31 
+} 
+],
+"order": 27 
+} 
+],
+"order": 10 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "1.A.4.a.6-Depth Perception",
+"order": 11 
+},
+{
+ "name": "2.B.3.h-Operation and Control",
+"order": 114 
+} 
+],
+"order": 11 
+},
+{
+ "children": [
+ {
+ "name": "1.A.4.b.1-Hearing Sensitivity",
+"order": 64 
+},
+{
+ "name": "1.A.4.b.2-Auditory Attention",
+"order": 84 
+} 
+],
+"order": 64 
+} 
+],
+"order": 11 
+},
+{
+ "children": [
+ {
+ "name": "2.B.3.g-Operation Monitoring",
+"order": 96 
+},
+{
+ "name": "2.B.3.m-Quality Control Analysis",
+"order": 99 
+} 
+],
+"order": 96 
+} 
+],
+"order": 11 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "1.A.2.a.2-Manual Dexterity",
+"order": 63 
+},
+{
+ "name": "1.A.2.a.1-Arm-Hand Steadiness",
+"order": 151 
+} 
+],
+"order": 63 
+},
+{
+ "name": "1.A.2.a.3-Finger Dexterity",
+"order": 68 
+} 
+],
+"order": 63 
+},
+{
+ "children": [
+ {
+ "name": "1.A.2.b.1-Control Precision",
+"order": 134 
+},
+{
+ "name": "1.A.2.b.2-Multilimb Coordination",
+"order": 153 
+} 
+],
+"order": 134 
+} 
+],
+"order": 63 
+} 
+],
+"order": 11 
+},
+{
+ "name": "2.C.2.a-Production and Processing",
+"order": 26 
+} 
+],
+"order": 11 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.B.3.c-Equipment Selection",
+"order": 29 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "2.B.3.l-Repairing",
+"order": 98 
+},
+{
+ "name": "2.B.3.j-Equipment Maintenance",
+"order": 101 
+} 
+],
+"order": 98 
+},
+{
+ "name": "2.B.3.k-Troubleshooting",
+"order": 142 
+} 
+],
+"order": 98 
+} 
+],
+"order": 29 
+},
+{
+ "name": "4.A.3.b.5-Repairing and Maintaining Electronic Equipment",
+"order": 125 
+} 
+],
+"order": 29 
+} 
+],
+"order": 11 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "4.A.3.b.2-Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",
+"order": 19 
+},
+{
+ "name": "2.C.3.c-Design",
+"order": 115 
+} 
+],
+"order": 19 
+},
+{
+ "name": "2.C.3.b-Engineering and Technology",
+"order": 23 
+} 
+],
+"order": 19 
+} 
+],
+"order": 11 
+},
+{
+ "children": [
+ {
+ "name": "4.A.3.b.4-Repairing and Maintaining Mechanical Equipment",
+"order": 43 
+},
+{
+ "name": "2.C.3.e-Mechanical",
+"order": 74 
+} 
+],
+"order": 43 
+} 
+],
+"order": 11 
+},
+{
+ "children": [
+ {
+ "name": "2.C.2.b-Food Production",
+"order": 24 
+},
+{
+ "name": "2.C.7.c-Fine Arts",
+"order": 107 
+} 
+],
+"order": 24 
+} 
+],
+"order": 11 
+},
+{
+ "children": [
+ {
+ "name": "2.C.3.d-Building and Construction",
+"order": 71 
+},
+{
+ "children": [
+ {
+ "name": "4.A.3.a.4-Operating Vehicles, Mechanized Devices, or Equipment",
+"order": 82 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "1.A.2.c.1-Reaction Time",
+"order": 128 
+},
+{
+ "children": [
+ {
+ "name": "1.A.2.b.3-Response Orientation",
+"order": 133 
+},
+{
+ "name": "1.A.2.b.4-Rate Control",
+"order": 158 
+} 
+],
+"order": 133 
+} 
+],
+"order": 128 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "1.A.3.a.1-Static Strength",
+"order": 129 
+},
+{
+ "name": "1.A.3.a.4-Trunk Strength",
+"order": 140 
+} 
+],
+"order": 129 
+},
+{
+ "name": "1.A.3.c.1-Extent Flexibility",
+"order": 155 
+} 
+],
+"order": 129 
+} 
+],
+"order": 128 
+} 
+],
+"order": 82 
+} 
+],
+"order": 71 
+} 
+],
+"order": 11 
+} 
+],
+"order": 3 
+} 
+],
+"order": 1 
+} 
+]
