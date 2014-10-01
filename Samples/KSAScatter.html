@@ -38,8 +38,8 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.csv("ONetKmaxbyCT.csv", function(data) {
-
+//d3.csv("ONetKmaxbyCT.csv", function(data) {
+d3.json("OccByKeyKSAsTree.json", function(error, root) 
   // Coerce the strings to numbers.
   data.forEach(function(d) {
 	d.ACEScore = +d.ACEScore;
