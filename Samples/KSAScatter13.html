@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {
+  font: 10px sans-serif;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.point {
+  fill: steelblue;
+  stroke: #000;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 800 - margin.left - margin.right,
+    height = 800 - margin.top - margin.bottom,
+	pad = 20,
+    left_pad = 100;
+	
+var x = d3.scale.linear()
+	.domain([0,100])
+    .range([left_pad, width-pad]);
+
+var y = d3.scale.linear()
+	.domain([100,0])
+    .range([pad, height-pad*2]);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+	.append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+//d3.csv("ONetKmaxbyCT.csv", function(data) {
+
+
+  // Compute the scales’ domains.
+  //aceScore.domain(d3.extent(data, function(d) { return d.aceScore; })).nice();
+  //kMax.domain(d3.extent(data, function(d) { return d.kMax; })).nice();
+  //TC.domain(d3.extent(data, function(d) { return d.TC; })).nice();
+  // Add the x-axis.
+var xAxis = d3.svg.axis().scale(x).orient("bottom"),
+    yAxis = d3.svg.axis().scale(y).orient("left");
+
+svg.append("g")
+    .attr("class", "axis")
+    .attr("transform", "translate(0, "+(height-pad)+")")
+    .call(xAxis);
+ 
+svg.append("g")
+    .attr("class", "axis")
+    .attr("transform", "translate("+(left_pad-pad)+", 0)")
+    .call(yAxis);
+
+d3.json("ONetKmaxbyCT.json", function(ksaScatter) {
+	var max_r = d3.max(ksaScatter.map(
+						   function (d) { return d.aceScore; })),
+			r = d3.scale.linear()
+				.domain([0, d3.max(ksaScatter, function (d) { return d.aceScore; })])
+				.range([1, 12]);
+	 
+		svg.selectAll(".loading").remove();
+	 
+		svg.selectAll("circle")
+			.data(ksaScatter)
+			.enter()
+			.append("circle")
+			.attr("class", "circle")
+			.attr("cx", function (d) { return x(d.kMax); })
+			.attr("cy", function (d) { return y(d.kMax); })
+			.transition()
+			.duration(800)
+			.attr("r", function (d) { return r(d.aceScore); });
+});
+	
+/*
+  // Add the points!
+  svg.selectAll(".point")
+      .data(data)
+    .enter().append("path")
+      .attr("class", "point")
+      .attr("d", d3.svg.symbol().type("circle"))
+      .attr("transform", function(d) { return "translate(" + x(d.kMax) + "," + y(d.kMax) + ")"; });
+});
+*/
+</script>
