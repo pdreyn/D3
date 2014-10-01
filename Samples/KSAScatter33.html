@@ -91,7 +91,7 @@ d3.json("ONetKmaxbyCT2.json", function(ksaScatter) {
 			.on("mouseover", function(d) {
 				var tiptext = d.occupation;
 				tooltip.style("visibility", "visible");
-				tooltip.text(tiptext)
+				tooltip.text(tiptext);
 				})
 			.on("mousemove", function() {return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");})
 			.on("mouseout", function() {return tooltip.style("visibility", "hidden");})
