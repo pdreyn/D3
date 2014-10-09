@@ -21,7 +21,7 @@
 </style>
 <body>
 Occupations 1.3<br>
-<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/d3.v3.js"></script>
 <script>
 
 var width = 960,
@@ -39,7 +39,9 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(40,0)");
 
-d3.json("KSATree_V43a.json", function(error, root) {
+
+	
+d3.json("KSAtree_V43a.json", function(error, root) {
   var nodes = cluster.nodes(root),
       links = cluster.links(nodes);
 
@@ -49,6 +51,9 @@ d3.json("KSATree_V43a.json", function(error, root) {
       .attr("class", "link")
       .attr("d", diagonal);
 
+
+		  
+	  
   var node = svg.selectAll(".node")
       .data(nodes)
 	  .enter().append("g")
@@ -56,23 +61,39 @@ d3.json("KSATree_V43a.json", function(error, root) {
       .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
 
   node.append("circle")
-      .attr("r", function (d) { return 8*d.cpIndex/0.54*d.cpIndex/0.54; })
+      .attr("r", function (d) { return 8*d.cpIndex/86; })
 	  .attr("fill", function (d) { 
-			var fillColor = "green";
-			if (d.cpIndex<0.25) {	fillColor = "red"};
+			var fillColor = "green"; // top 10%
+			if (d.cpIndex<53.71) {	fillColor = "blue"}; //top 30%
+			//if (d.cpIndex<50.16) {	fillColor = "purple"};
+			//if (d.cpIndex<47.27) {	fillColor = "yellow"};
+			//if (d.cpIndex<43.13) {	fillColor = "orange"};
+			if (d.cpIndex<47.27) {	fillColor = "red"};
 			return fillColor; })
-	  .style("opacity", function (d) { return d.cpIndex/0.54; });
+	  .style("opacity", function (d) { return d.cpIndex/86; });
+	  
+
 
   node.append("text")
       .attr("dx", function(d) { return d.children ? -8 : 8; })
       .attr("dy", 4)
       .style("text-anchor", function(d) { return d.children ? "end" : "start"; })
-	  .style("opacity", function (d) { return d.cpIndex/0.54; })
+	  .style("opacity", function (d) { return d.cpIndex/86; })
 	  .attr("fill", function (d) { 
-			var fillColor = "green";
-			if (d.cpIndex<0.25) {	fillColor = "red"};
+			var fillColor = "green"; // top 10%
+			if (d.cpIndex<53.71) {	fillColor = "blue"}; //top 30%
+			//if (d.cpIndex<50.16) {	fillColor = "purple"};
+			//if (d.cpIndex<47.27) {	fillColor = "yellow"};
+			//if (d.cpIndex<43.13) {	fillColor = "orange"};
+			if (d.cpIndex<47.27) {	fillColor = "red"};
 			return fillColor; })
       .text(function(d) { return d.name; });
+
+
+
+	
+  
+	  
 });
 
 d3.select(self.frameElement).style("height", height + "px");

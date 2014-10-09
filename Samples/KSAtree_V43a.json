@@ -1,0 +1,8761 @@
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2199.02Validation Engineers","cpIndex":46.8,
+"order": 1 
+},
+{
+ "name": "17-2111.03Product Safety Engineers","cpIndex":43.4,
+"order": 141 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-3029.05Industrial Engineering Technologists","cpIndex":44.86666667,
+"order": 55 
+},
+{
+ "name": "17-2112.00Industrial Engineers","cpIndex":50.2,
+"order": 218 
+} 
+],
+"order": 55 
+},
+{
+ "name": "13-1081.01Logistics Engineers","cpIndex":52.33333333,
+"order": 391 
+} 
+],
+"order": 55 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-9011.00Occupational Health and Safety Specialists","cpIndex":48.46666667,
+"order": 82 
+},
+{
+ "name": "17-2111.01Industrial Safety and Health Engineers","cpIndex":55.73333333,
+"order": 168 
+} 
+],
+"order": 82 
+},
+{
+ "children": [
+ {
+ "name": "19-1012.00Food Scientists and Technologists","cpIndex":51.4,
+"order": 86 
+},
+{
+ "children": [
+ {
+ "name": "19-2031.00Chemists","cpIndex":49.6,
+"order": 102 
+},
+{
+ "name": "11-9041.01Biofuels/Biodiesel Technology and Product Development Managers","cpIndex":52.73333333,
+"order": 201 
+} 
+],
+"order": 102 
+} 
+],
+"order": 86 
+} 
+],
+"order": 82 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2151.00Mining and Geological Engineers, Including Mining Safety Engineers","cpIndex":54.86666667,
+"order": 7 
+},
+{
+ "name": "17-2171.00Petroleum Engineers","cpIndex":52.46666667,
+"order": 52 
+} 
+],
+"order": 7 
+},
+{
+ "children": [
+ {
+ "name": "17-2199.03Energy Engineers","cpIndex":51.33333333,
+"order": 37 
+},
+{
+ "name": "17-2111.02Fire-Prevention and Protection Engineers","cpIndex":52.93333333,
+"order": 140 
+} 
+],
+"order": 37 
+} 
+],
+"order": 7 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2199.10Wind Energy Engineers","cpIndex":48.2,
+"order": 27 
+},
+{
+ "name": "11-9041.00Architectural and Engineering Managers","cpIndex":55.78571429,
+"order": 196 
+} 
+],
+"order": 27 
+},
+{
+ "children": [
+ {
+ "name": "17-2051.00Civil Engineers","cpIndex":56.26666667,
+"order": 32 
+},
+{
+ "name": "17-2051.01Transportation Engineers","cpIndex":53.13333333,
+"order": 213 
+} 
+],
+"order": 32 
+} 
+],
+"order": 27 
+} 
+],
+"order": 7 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2081.01Water/Wastewater Engineers","cpIndex":56.13333333,
+"order": 31 
+},
+{
+ "name": "17-2081.00Environmental Engineers","cpIndex":54.26666667,
+"order": 160 
+} 
+],
+"order": 31 
+},
+{
+ "name": "17-2021.00Agricultural Engineers","cpIndex":53.6,
+"order": 147 
+} 
+],
+"order": 31 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-2043.00Hydrologists","cpIndex":50.86666667,
+"order": 223 
+},
+{
+ "name": "11-9121.02Water Resource Specialists","cpIndex":49.86666667,
+"order": 284 
+} 
+],
+"order": 223 
+},
+{
+ "name": "19-2042.00Geoscientists, Except Hydrologists and Geographers","cpIndex":53.66666667,
+"order": 276 
+} 
+],
+"order": 223 
+} 
+],
+"order": 31 
+} 
+],
+"order": 7 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2141.02Automotive Engineers","cpIndex":57.33333333,
+"order": 5 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2141.00Mechanical Engineers","cpIndex":53.46666667,
+"order": 146 
+},
+{
+ "name": "17-2011.00Aerospace Engineers","cpIndex":52.66666667,
+"order": 187 
+} 
+],
+"order": 146 
+},
+{
+ "name": "17-2121.01Marine Engineers","cpIndex":54.93333333,
+"order": 219 
+} 
+],
+"order": 146 
+} 
+],
+"order": 5 
+},
+{
+ "children": [
+ {
+ "name": "17-2199.05Mechatronics Engineers","cpIndex":50.93333333,
+"order": 75 
+},
+{
+ "name": "17-2121.02Marine Architects","cpIndex":54,
+"order": 137 
+} 
+],
+"order": 75 
+} 
+],
+"order": 5 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2199.07Photonics Engineers","cpIndex":56.4,
+"order": 43 
+},
+{
+ "name": "17-2061.00Computer Hardware Engineers","cpIndex":52.13333333,
+"order": 148 
+} 
+],
+"order": 43 
+},
+{
+ "children": [
+ {
+ "name": "17-2072.00Electronics Engineers, Except Computer","cpIndex":53.4,
+"order": 158 
+},
+{
+ "children": [
+ {
+ "name": "17-2071.00Electrical Engineers","cpIndex":51,
+"order": 163 
+},
+{
+ "name": "17-3029.02Electrical Engineering Technologists","cpIndex":47.06666667,
+"order": 270 
+} 
+],
+"order": 163 
+} 
+],
+"order": 158 
+} 
+],
+"order": 43 
+} 
+],
+"order": 5 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-3029.06Manufacturing Engineering Technologists","cpIndex":54.2,
+"order": 16 
+},
+{
+ "name": "17-2199.04Manufacturing Engineers","cpIndex":57.92857143,
+"order": 22 
+} 
+],
+"order": 16 
+},
+{
+ "name": "17-2199.08Robotics Engineers","cpIndex":57.8,
+"order": 21 
+} 
+],
+"order": 16 
+} 
+],
+"order": 5 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2161.00Nuclear Engineers","cpIndex":52.86666667,
+"order": 6 
+},
+{
+ "name": "17-2041.00Chemical Engineers","cpIndex":58.4,
+"order": 195 
+} 
+],
+"order": 6 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2131.00Materials Engineers","cpIndex":54.86666667,
+"order": 145 
+},
+{
+ "name": "19-2032.00Materials Scientists","cpIndex":53.93333333,
+"order": 452 
+} 
+],
+"order": 145 
+},
+{
+ "name": "17-2141.01Fuel Cell Engineers","cpIndex":53.64285714,
+"order": 364 
+} 
+],
+"order": 145 
+} 
+],
+"order": 6 
+},
+{
+ "children": [
+ {
+ "name": "17-2199.01Biochemical Engineers","cpIndex":54.6,
+"order": 73 
+},
+{
+ "name": "17-2031.00Biomedical Engineers","cpIndex":61.4,
+"order": 457 
+} 
+],
+"order": 73 
+} 
+],
+"order": 6 
+} 
+],
+"order": 5 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "21-1091.00Health Educators","cpIndex":45.33333333,
+"order": 2 
+},
+{
+ "name": "21-2021.00Directors, Religious Activities and Education","cpIndex":43.13333333,
+"order": 832 
+} 
+],
+"order": 2 
+},
+{
+ "children": [
+ {
+ "name": "21-2011.00Clergy","cpIndex":54,
+"order": 882 
+},
+{
+ "name": "27-2022.00Coaches and Scouts","cpIndex":51.93333333,
+"order": 955 
+} 
+],
+"order": 882 
+} 
+],
+"order": 2 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-2012.00Kindergarten Teachers, Except Special Education","cpIndex":42.46666667,
+"order": 312 
+},
+{
+ "children": [
+ {
+ "name": "25-2011.00Preschool Teachers, Except Special Education","cpIndex":41.46666667,
+"order": 322 
+},
+{
+ "name": "39-9032.00Recreation Workers","cpIndex":39.93333333,
+"order": 433 
+} 
+],
+"order": 322 
+} 
+],
+"order": 312 
+},
+{
+ "name": "25-3021.00Self-Enrichment Education Teachers","cpIndex":37.4,
+"order": 350 
+} 
+],
+"order": 312 
+} 
+],
+"order": 2 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-2054.00Special Education Teachers, Secondary School","cpIndex":46.53333333,
+"order": 4 
+},
+{
+ "name": "25-2021.00Elementary School Teachers, Except Special Education","cpIndex":48.8,
+"order": 311 
+} 
+],
+"order": 4 
+},
+{
+ "name": "25-2053.00Special Education Teachers, Middle School","cpIndex":45.4,
+"order": 352 
+} 
+],
+"order": 4 
+},
+{
+ "children": [
+ {
+ "name": "25-2031.00Secondary School Teachers, Except Special and Career/Technical Education","cpIndex":46.06666667,
+"order": 266 
+},
+{
+ "name": "25-2022.00Middle School Teachers, Except Special and Career/Technical Education","cpIndex":44.6,
+"order": 562 
+} 
+],
+"order": 266 
+} 
+],
+"order": 4 
+},
+{
+ "children": [
+ {
+ "name": "25-2023.00Career/Technical Education Teachers, Middle School","cpIndex":44.06666667,
+"order": 261 
+},
+{
+ "name": "25-2032.00Career/Technical Education Teachers, Secondary School","cpIndex":47.93333333,
+"order": 265 
+} 
+],
+"order": 261 
+} 
+],
+"order": 4 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1122.01Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists","cpIndex":44.4,
+"order": 42 
+},
+{
+ "name": "25-2059.01Adapted Physical Education Specialists","cpIndex":45.53333333,
+"order": 348 
+} 
+],
+"order": 42 
+},
+{
+ "children": [
+ {
+ "name": "19-4061.00Social Science Research Assistants","cpIndex":42,
+"order": 44 
+},
+{
+ "name": "31-9099.01Speech-Language Pathology Assistants","cpIndex":38.8,
+"order": 440 
+} 
+],
+"order": 44 
+} 
+],
+"order": 42 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-1191.00Graduate Teaching Assistants","cpIndex":35.53333333,
+"order": 320 
+},
+{
+ "name": "25-3011.00Adult Basic and Secondary Education and Literacy Teachers and Instructors","cpIndex":41.8,
+"order": 347 
+} 
+],
+"order": 320 
+},
+{
+ "name": "25-3099.02Tutors","cpIndex":40.26666667,
+"order": 368 
+} 
+],
+"order": 320 
+} 
+],
+"order": 42 
+} 
+],
+"order": 4 
+} 
+],
+"order": 2 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-3042.00Technical Writers","cpIndex":38.86666667,
+"order": 9 
+},
+{
+ "name": "27-3091.00Interpreters and Translators","cpIndex":37.4,
+"order": 896 
+} 
+],
+"order": 9 
+},
+{
+ "name": "43-9081.00Proofreaders and Copy Markers","cpIndex":28,
+"order": 780 
+} 
+],
+"order": 9 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-3093.00Historians","cpIndex":42.69230769,
+"order": 114 
+},
+{
+ "name": "25-4013.00Museum Technicians and Conservators","cpIndex":42,
+"order": 363 
+} 
+],
+"order": 114 
+},
+{
+ "children": [
+ {
+ "name": "25-4011.00Archivists","cpIndex":41,
+"order": 365 
+},
+{
+ "name": "25-4021.00Librarians","cpIndex":41.33333333,
+"order": 367 
+} 
+],
+"order": 365 
+} 
+],
+"order": 114 
+} 
+],
+"order": 9 
+} 
+],
+"order": 2 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-3041.00Editors","cpIndex":46.8,
+"order": 62 
+},
+{
+ "children": [
+ {
+ "name": "27-3022.00Reporters and Correspondents","cpIndex":43.4,
+"order": 948 
+},
+{
+ "name": "27-3021.00Broadcast News Analysts","cpIndex":49.4,
+"order": 953 
+} 
+],
+"order": 948 
+} 
+],
+"order": 62 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-3011.00Radio and Television Announcers","cpIndex":43.35714286,
+"order": 949 
+},
+{
+ "name": "27-2012.01Producers","cpIndex":48.8,
+"order": 957 
+} 
+],
+"order": 949 
+},
+{
+ "name": "27-3043.04Copy Writers","cpIndex":43,
+"order": 951 
+} 
+],
+"order": 949 
+} 
+],
+"order": 62 
+},
+{
+ "name": "27-3043.05Poets, Lyricists and Creative Writers","cpIndex":51.4,
+"order": 960 
+} 
+],
+"order": 62 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-2012.03Program Directors","cpIndex":55.13333333,
+"order": 130 
+},
+{
+ "name": "11-2011.00Advertising and Promotions Managers","cpIndex":51.46666667,
+"order": 300 
+} 
+],
+"order": 130 
+},
+{
+ "children": [
+ {
+ "name": "27-2012.05Technical Directors/Managers","cpIndex":48.26666667,
+"order": 954 
+},
+{
+ "name": "27-2012.02Directors- Stage, Motion Pictures, Television, and Radio","cpIndex":49.06666667,
+"order": 958 
+} 
+],
+"order": 954 
+} 
+],
+"order": 130 
+} 
+],
+"order": 62 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-3011.01Architectural Drafters","cpIndex":42.73333333,
+"order": 83 
+},
+{
+ "name": "27-1021.00Commercial and Industrial Designers","cpIndex":52.13333333,
+"order": 338 
+} 
+],
+"order": 83 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-1012.00Landscape Architects","cpIndex":52.86666667,
+"order": 149 
+},
+{
+ "name": "17-1011.00Architects, Except Landscape and Naval","cpIndex":59.33333333,
+"order": 184 
+} 
+],
+"order": 149 
+},
+{
+ "name": "25-1031.00Architecture Teachers, Postsecondary","cpIndex":54.46666667,
+"order": 358 
+} 
+],
+"order": 149 
+} 
+],
+"order": 83 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-1024.00Graphic Designers","cpIndex":46.53333333,
+"order": 132 
+},
+{
+ "name": "27-1014.00Multimedia Artists and Animators","cpIndex":46.13333333,
+"order": 169 
+} 
+],
+"order": 132 
+},
+{
+ "name": "27-1011.00Art Directors","cpIndex":53.13333333,
+"order": 334 
+} 
+],
+"order": 132 
+},
+{
+ "name": "15-1199.11Video Game Designers","cpIndex":54.2,
+"order": 152 
+} 
+],
+"order": 132 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-1027.00Set and Exhibit Designers","cpIndex":50.86666667,
+"order": 402 
+},
+{
+ "name": "27-2041.01Music Directors","cpIndex":47.2,
+"order": 966 
+} 
+],
+"order": 402 
+},
+{
+ "name": "27-1025.00Interior Designers","cpIndex":49.73333333,
+"order": 944 
+} 
+],
+"order": 402 
+} 
+],
+"order": 132 
+} 
+],
+"order": 83 
+} 
+],
+"order": 62 
+} 
+],
+"order": 2 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-2012.04Talent Directors","cpIndex":45.6,
+"order": 118 
+},
+{
+ "children": [
+ {
+ "name": "27-2041.04Music Composers and Arrangers","cpIndex":46.66666667,
+"order": 255 
+},
+{
+ "name": "27-4021.00Photographers","cpIndex":41.8,
+"order": 588 
+} 
+],
+"order": 255 
+} 
+],
+"order": 118 
+},
+{
+ "children": [
+ {
+ "name": "27-1012.00Craft Artists","cpIndex":41.53333333,
+"order": 337 
+},
+{
+ "name": "27-1013.00Fine Artists, Including Painters, Sculptors, and Illustrators","cpIndex":45.8,
+"order": 341 
+} 
+],
+"order": 337 
+} 
+],
+"order": 118 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-4031.00Camera Operators, Television, Video, and Motion Picture","cpIndex":39.2,
+"order": 450 
+},
+{
+ "name": "27-4032.00Film and Video Editors","cpIndex":42,
+"order": 616 
+} 
+],
+"order": 450 
+},
+{
+ "name": "27-4014.00Sound Engineering Technicians","cpIndex":45.06666667,
+"order": 593 
+} 
+],
+"order": 450 
+},
+{
+ "name": "43-9031.00Desktop Publishers","cpIndex":44.06666667,
+"order": 743 
+} 
+],
+"order": 450 
+} 
+],
+"order": 118 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-2042.01Singers","cpIndex":32.33333333,
+"order": 258 
+},
+{
+ "children": [
+ {
+ "name": "27-2031.00Dancers","cpIndex":33.6,
+"order": 943 
+},
+{
+ "name": "27-2042.02Musicians, Instrumental","cpIndex":35.06666667,
+"order": 945 
+} 
+],
+"order": 943 
+} 
+],
+"order": 258 
+},
+{
+ "children": [
+ {
+ "name": "27-2011.00Actors","cpIndex":41.46666667,
+"order": 964 
+},
+{
+ "name": "27-2032.00Choreographers","cpIndex":48.93333333,
+"order": 965 
+} 
+],
+"order": 964 
+} 
+],
+"order": 258 
+} 
+],
+"order": 118 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-1023.00Floral Designers","cpIndex":37.06666667,
+"order": 131 
+},
+{
+ "name": "27-1026.00Merchandise Displayers and Window Trimmers","cpIndex":36.26666667,
+"order": 952 
+} 
+],
+"order": 131 
+},
+{
+ "children": [
+ {
+ "name": "39-5012.00Hairdressers, Hairstylists, and Cosmetologists","cpIndex":39.93333333,
+"order": 242 
+},
+{
+ "name": "39-5091.00Makeup Artists, Theatrical and Performance","cpIndex":41.06666667,
+"order": 251 
+} 
+],
+"order": 242 
+} 
+],
+"order": 131 
+},
+{
+ "name": "27-1022.00Fashion Designers","cpIndex":52.46666667,
+"order": 278 
+} 
+],
+"order": 131 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-9071.01Jewelers","cpIndex":38,
+"order": 631 
+},
+{
+ "name": "51-9195.05Potters, Manufacturing","cpIndex":35.4,
+"order": 813 
+} 
+],
+"order": 631 
+},
+{
+ "name": "51-6092.00Fabric and Apparel Patternmakers","cpIndex":42.73333333,
+"order": 809 
+} 
+],
+"order": 631 
+},
+{
+ "children": [
+ {
+ "name": "51-9195.03Stone Cutters and Carvers, Manufacturing","cpIndex":28.6,
+"order": 658 
+},
+{
+ "children": [
+ {
+ "name": "51-6051.00Sewers, Hand","cpIndex":33.06666667,
+"order": 825 
+},
+{
+ "name": "51-6052.00Tailors, Dressmakers, and Custom Sewers","cpIndex":32.53333333,
+"order": 835 
+} 
+],
+"order": 825 
+} 
+],
+"order": 658 
+} 
+],
+"order": 631 
+} 
+],
+"order": 131 
+} 
+],
+"order": 118 
+} 
+],
+"order": 2 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-2041.00Environmental Scientists and Specialists, Including Health","cpIndex":49.2,
+"order": 30 
+},
+{
+ "name": "13-1041.01Environmental Compliance Inspectors","cpIndex":45.53333333,
+"order": 388 
+} 
+],
+"order": 30 
+},
+{
+ "children": [
+ {
+ "name": "19-1032.00Foresters","cpIndex":51.13333333,
+"order": 126 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-1031.01Soil and Water Conservationists","cpIndex":47.73333333,
+"order": 127 
+},
+{
+ "name": "11-9199.11Brownfield Redevelopment Specialists and Site Managers","cpIndex":51.26666667,
+"order": 228 
+} 
+],
+"order": 127 
+},
+{
+ "name": "19-1031.02Range Managers","cpIndex":49,
+"order": 128 
+} 
+],
+"order": 127 
+} 
+],
+"order": 126 
+} 
+],
+"order": 30 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-4061.01City and Regional Planning Aides","cpIndex":40.6,
+"order": 49 
+},
+{
+ "name": "19-3099.01Transportation Planners","cpIndex":52.85714286,
+"order": 106 
+} 
+],
+"order": 49 
+},
+{
+ "children": [
+ {
+ "name": "11-1011.03Chief Sustainability Officers","cpIndex":56.46666667,
+"order": 293 
+},
+{
+ "name": "13-1199.05Sustainability Specialists","cpIndex":46.33333333,
+"order": 416 
+} 
+],
+"order": 293 
+} 
+],
+"order": 49 
+} 
+],
+"order": 30 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-2099.01Remote Sensing Scientists and Technologists","cpIndex":51.06666667,
+"order": 76 
+},
+{
+ "name": "15-1199.04Geospatial Information Scientists and Technologists","cpIndex":49.6,
+"order": 214 
+} 
+],
+"order": 76 
+},
+{
+ "name": "19-2021.00Atmospheric and Space Scientists","cpIndex":49.53333333,
+"order": 151 
+} 
+],
+"order": 76 
+},
+{
+ "children": [
+ {
+ "name": "17-1022.01Geodetic Surveyors","cpIndex":45.93333333,
+"order": 150 
+},
+{
+ "name": "19-4099.03Remote Sensing Technicians","cpIndex":44.8,
+"order": 212 
+} 
+],
+"order": 150 
+} 
+],
+"order": 76 
+} 
+],
+"order": 30 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "13-2099.04Fraud Examiners, Investigators and Analysts","cpIndex":49.73333333,
+"order": 260 
+},
+{
+ "name": "33-3021.06Intelligence Analysts","cpIndex":50.26666667,
+"order": 453 
+} 
+],
+"order": 260 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-9161.00Emergency Management Directors","cpIndex":55.06666667,
+"order": 280 
+},
+{
+ "children": [
+ {
+ "name": "11-9199.07Security Managers","cpIndex":48.73333333,
+"order": 294 
+},
+{
+ "name": "11-9199.08Loss Prevention Managers","cpIndex":48.46666667,
+"order": 309 
+} 
+],
+"order": 294 
+} 
+],
+"order": 280 
+},
+{
+ "children": [
+ {
+ "name": "13-1199.04Business Continuity Planners","cpIndex":53.8,
+"order": 382 
+},
+{
+ "name": "13-1199.02Security Management Specialists","cpIndex":47.33333333,
+"order": 406 
+} 
+],
+"order": 382 
+} 
+],
+"order": 280 
+},
+{
+ "children": [
+ {
+ "name": "33-3031.00Fish and Game Wardens","cpIndex":46.6,
+"order": 461 
+},
+{
+ "name": "33-2022.00Forest Fire Inspectors and Prevention Specialists","cpIndex":41.86666667,
+"order": 547 
+} 
+],
+"order": 461 
+} 
+],
+"order": 280 
+} 
+],
+"order": 260 
+} 
+],
+"order": 30 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-1199.03Web Administrators","cpIndex":47.33333333,
+"order": 154 
+},
+{
+ "name": "15-1134.00Web Developers","cpIndex":48.33333333,
+"order": 413 
+} 
+],
+"order": 154 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-1199.01Software Quality Assurance Engineers and Testers","cpIndex":45.06666667,
+"order": 159 
+},
+{
+ "name": "15-1121.00Computer Systems Analysts","cpIndex":52.26666667,
+"order": 412 
+} 
+],
+"order": 159 
+},
+{
+ "name": "15-1141.00Database Administrators","cpIndex":45.33333333,
+"order": 225 
+} 
+],
+"order": 159 
+} 
+],
+"order": 154 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-1199.02Computer Systems Engineers/Architects","cpIndex":52.66666667,
+"order": 156 
+},
+{
+ "name": "15-1133.00Software Developers, Systems Software","cpIndex":47.4,
+"order": 411 
+} 
+],
+"order": 156 
+},
+{
+ "name": "15-1122.00Information Security Analysts","cpIndex":47,
+"order": 563 
+} 
+],
+"order": 156 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-1131.00Computer Programmers","cpIndex":45.4,
+"order": 262 
+},
+{
+ "name": "15-1132.00Software Developers, Applications","cpIndex":51.66666667,
+"order": 606 
+} 
+],
+"order": 262 
+},
+{
+ "name": "43-9111.01Bioinformatics Technicians","cpIndex":48.4,
+"order": 699 
+} 
+],
+"order": 262 
+} 
+],
+"order": 156 
+} 
+],
+"order": 154 
+} 
+],
+"order": 30 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2112.01Human Factors Engineers and Ergonomists","cpIndex":56.26666667,
+"order": 40 
+},
+{
+ "children": [
+ {
+ "name": "15-1121.01Informatics Nurse Specialists","cpIndex":55,
+"order": 263 
+},
+{
+ "name": "29-2091.00Orthotists and Prosthetists","cpIndex":50.8,
+"order": 555 
+} 
+],
+"order": 263 
+} 
+],
+"order": 40 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-9039.01Distance Learning Coordinators","cpIndex":50.26666667,
+"order": 194 
+},
+{
+ "name": "25-9031.01Instructional Designers and Technologists","cpIndex":53.73333333,
+"order": 356 
+} 
+],
+"order": 194 
+},
+{
+ "children": [
+ {
+ "name": "15-1111.00Computer and Information Research Scientists","cpIndex":56.2,
+"order": 226 
+},
+{
+ "name": "25-1021.00Computer Science Teachers, Postsecondary","cpIndex":50.86666667,
+"order": 345 
+} 
+],
+"order": 226 
+} 
+],
+"order": 194 
+} 
+],
+"order": 40 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-2041.02Environmental Restoration Planners","cpIndex":49.66666667,
+"order": 100 
+},
+{
+ "name": "19-1023.00Zoologists and Wildlife Biologists","cpIndex":44.66666667,
+"order": 584 
+} 
+],
+"order": 100 
+},
+{
+ "children": [
+ {
+ "name": "19-1041.00Epidemiologists","cpIndex":55.4,
+"order": 268 
+},
+{
+ "children": [
+ {
+ "name": "11-9121.00Natural Sciences Managers","cpIndex":54.4,
+"order": 279 
+},
+{
+ "name": "25-9021.00Farm and Home Management Advisors","cpIndex":53.13333333,
+"order": 342 
+} 
+],
+"order": 279 
+} 
+],
+"order": 268 
+} 
+],
+"order": 100 
+},
+{
+ "children": [
+ {
+ "name": "19-3092.00Geographers","cpIndex":52.93333333,
+"order": 101 
+},
+{
+ "children": [
+ {
+ "name": "19-3051.00Urban and Regional Planners","cpIndex":51.93333333,
+"order": 107 
+},
+{
+ "name": "19-2041.01Climate Change Analysts","cpIndex":50.46666667,
+"order": 332 
+} 
+],
+"order": 107 
+} 
+],
+"order": 101 
+} 
+],
+"order": 100 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-1199.08Business Intelligence Analysts","cpIndex":50.13333333,
+"order": 164 
+},
+{
+ "name": "13-1161.00Market Research Analysts and Marketing Specialists","cpIndex":48.46666667,
+"order": 383 
+} 
+],
+"order": 164 
+},
+{
+ "name": "19-3022.00Survey Researchers","cpIndex":49.8,
+"order": 216 
+} 
+],
+"order": 164 
+} 
+],
+"order": 100 
+} 
+],
+"order": 40 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "23-1023.00Judges, Magistrate Judges, and Magistrates","cpIndex":57.33333333,
+"order": 339 
+},
+{
+ "name": "23-1021.00Administrative Law Judges, Adjudicators, and Hearing Officers","cpIndex":51.2,
+"order": 866 
+} 
+],
+"order": 339 
+},
+{
+ "name": "23-1011.00Lawyers","cpIndex":56.26666667,
+"order": 833 
+} 
+],
+"order": 339 
+},
+{
+ "name": "23-1012.00Judicial Law Clerks","cpIndex":41.6,
+"order": 839 
+} 
+],
+"order": 339 
+} 
+],
+"order": 40 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-3011.00Economists","cpIndex":52.86666667,
+"order": 119 
+},
+{
+ "name": "19-3011.01Environmental Economists","cpIndex":53.86666667,
+"order": 233 
+} 
+],
+"order": 119 
+},
+{
+ "name": "25-1063.00Economics Teachers, Postsecondary","cpIndex":48.13333333,
+"order": 374 
+} 
+],
+"order": 119 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-2041.00Statisticians","cpIndex":53.86666667,
+"order": 142 
+},
+{
+ "name": "15-2041.01Biostatisticians","cpIndex":56.6,
+"order": 166 
+} 
+],
+"order": 142 
+},
+{
+ "children": [
+ {
+ "name": "15-2021.00Mathematicians","cpIndex":60.06666667,
+"order": 153 
+},
+{
+ "name": "15-2031.00Operations Research Analysts","cpIndex":58.66666667,
+"order": 165 
+} 
+],
+"order": 153 
+} 
+],
+"order": 142 
+} 
+],
+"order": 119 
+} 
+],
+"order": 40 
+} 
+],
+"order": 30 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-1199.12Document Management Specialists","cpIndex":43.2,
+"order": 136 
+},
+{
+ "name": "15-1199.09Information Technology Project Managers","cpIndex":47.66666667,
+"order": 188 
+} 
+],
+"order": 136 
+},
+{
+ "children": [
+ {
+ "name": "15-1199.10Search Marketing Strategists","cpIndex":48.8,
+"order": 157 
+},
+{
+ "name": "41-9031.00Sales Engineers","cpIndex":50.13333333,
+"order": 193 
+} 
+],
+"order": 157 
+} 
+],
+"order": 136 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "41-3099.01Energy Brokers","cpIndex":43.46666667,
+"order": 189 
+},
+{
+ "name": "13-2021.02Appraisers, Real Estate","cpIndex":39.4,
+"order": 420 
+} 
+],
+"order": 189 
+},
+{
+ "name": "13-1051.00Cost Estimators","cpIndex":45.4,
+"order": 401 
+} 
+],
+"order": 189 
+} 
+],
+"order": 136 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-3031.02Financial Managers, Branch or Department","cpIndex":48.2,
+"order": 308 
+},
+{
+ "name": "13-2052.00Personal Financial Advisors","cpIndex":48.06666667,
+"order": 460 
+} 
+],
+"order": 308 
+},
+{
+ "name": "41-3031.01Sales Agents, Securities and Commodities","cpIndex":51.4,
+"order": 727 
+} 
+],
+"order": 308 
+} 
+],
+"order": 136 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-3071.03Logistics Managers","cpIndex":49.21428571,
+"order": 231 
+},
+{
+ "name": "11-9199.04Supply Chain Managers","cpIndex":49.13333333,
+"order": 277 
+} 
+],
+"order": 231 
+},
+{
+ "name": "11-3061.00Purchasing Managers","cpIndex":46.93333333,
+"order": 306 
+} 
+],
+"order": 231 
+},
+{
+ "name": "13-1023.00Purchasing Agents, Except Wholesale, Retail, and Farm Products","cpIndex":44.93333333,
+"order": 394 
+} 
+],
+"order": 231 
+},
+{
+ "name": "13-1081.02Logistics Analysts","cpIndex":48.86666667,
+"order": 397 
+} 
+],
+"order": 231 
+},
+{
+ "name": "13-1021.00Buyers and Purchasing Agents, Farm Products","cpIndex":41.6,
+"order": 428 
+} 
+],
+"order": 231 
+} 
+],
+"order": 136 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-3111.00Compensation and Benefits Managers","cpIndex":43.06666667,
+"order": 232 
+},
+{
+ "name": "13-1141.00Compensation, Benefits, and Job Analysis Specialists","cpIndex":44.33333333,
+"order": 426 
+} 
+],
+"order": 232 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-9199.01Regulatory Affairs Managers","cpIndex":46.33333333,
+"order": 282 
+},
+{
+ "name": "13-1041.07Regulatory Affairs Specialists","cpIndex":46.8,
+"order": 396 
+} 
+],
+"order": 282 
+},
+{
+ "name": "11-9199.02Compliance Managers","cpIndex":46.93333333,
+"order": 285 
+} 
+],
+"order": 282 
+},
+{
+ "children": [
+ {
+ "name": "13-1041.03Equal Opportunity Representatives and Officers","cpIndex":48.8,
+"order": 387 
+},
+{
+ "name": "23-1022.00Arbitrators, Mediators, and Conciliators","cpIndex":48.46666667,
+"order": 884 
+} 
+],
+"order": 387 
+} 
+],
+"order": 282 
+} 
+],
+"order": 232 
+} 
+],
+"order": 136 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-2011.00Actuaries","cpIndex":56.26666667,
+"order": 155 
+},
+{
+ "children": [
+ {
+ "name": "11-3031.01Treasurers and Controllers","cpIndex":54.33333333,
+"order": 298 
+},
+{
+ "name": "11-9199.03Investment Fund Managers","cpIndex":51.66666667,
+"order": 299 
+} 
+],
+"order": 298 
+} 
+],
+"order": 155 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "13-2099.02Risk Management Specialists","cpIndex":51.13333333,
+"order": 256 
+},
+{
+ "children": [
+ {
+ "name": "13-2011.02Auditors","cpIndex":47.93333333,
+"order": 409 
+},
+{
+ "name": "13-2061.00Financial Examiners","cpIndex":51.8,
+"order": 424 
+} 
+],
+"order": 409 
+} 
+],
+"order": 256 
+},
+{
+ "name": "13-2051.00Financial Analysts","cpIndex":47.6,
+"order": 423 
+} 
+],
+"order": 256 
+},
+{
+ "children": [
+ {
+ "name": "13-2031.00Budget Analysts","cpIndex":42.4,
+"order": 295 
+},
+{
+ "name": "13-2011.01Accountants","cpIndex":42.33333333,
+"order": 407 
+} 
+],
+"order": 295 
+} 
+],
+"order": 256 
+} 
+],
+"order": 155 
+} 
+],
+"order": 136 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-9031.00Education Administrators, Preschool and Childcare Center/Program","cpIndex":45.86666667,
+"order": 202 
+},
+{
+ "name": "11-3121.00Human Resources Managers","cpIndex":49.73333333,
+"order": 305 
+} 
+],
+"order": 202 
+},
+{
+ "name": "11-9151.00Social and Community Service Managers","cpIndex":54.26666667,
+"order": 297 
+} 
+],
+"order": 202 
+},
+{
+ "children": [
+ {
+ "name": "11-3131.00Training and Development Managers","cpIndex":52.33333333,
+"order": 287 
+},
+{
+ "name": "13-1151.00Training and Development Specialists","cpIndex":49.26666667,
+"order": 377 
+} 
+],
+"order": 287 
+} 
+],
+"order": 202 
+},
+{
+ "children": [
+ {
+ "name": "11-1011.00Chief Executives","cpIndex":64.2,
+"order": 229 
+},
+{
+ "name": "11-9111.00Medical and Health Services Managers","cpIndex":51.46666667,
+"order": 286 
+} 
+],
+"order": 229 
+} 
+],
+"order": 202 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-2031.00Public Relations and Fundraising Managers","cpIndex":52.2,
+"order": 227 
+},
+{
+ "name": "11-2021.00Marketing Managers","cpIndex":51.8,
+"order": 275 
+} 
+],
+"order": 227 
+},
+{
+ "name": "27-3031.00Public Relations Specialists","cpIndex":48.33333333,
+"order": 950 
+} 
+],
+"order": 227 
+},
+{
+ "children": [
+ {
+ "name": "11-2022.00Sales Managers","cpIndex":49.26666667,
+"order": 296 
+},
+{
+ "children": [
+ {
+ "name": "13-1131.00Fundraisers","cpIndex":44.53333333,
+"order": 380 
+},
+{
+ "name": "13-1011.00Agents and Business Managers of Artists, Performers, and Athletes","cpIndex":46.13333333,
+"order": 390 
+} 
+],
+"order": 380 
+} 
+],
+"order": 296 
+} 
+],
+"order": 227 
+} 
+],
+"order": 202 
+} 
+],
+"order": 136 
+} 
+],
+"order": 30 
+} 
+],
+"order": 2 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1122.00Occupational Therapists","cpIndex":50.86666667,
+"order": 3 
+},
+{
+ "children": [
+ {
+ "name": "29-1123.00Physical Therapists","cpIndex":48.53333333,
+"order": 8 
+},
+{
+ "name": "29-9091.00Athletic Trainers","cpIndex":49,
+"order": 577 
+} 
+],
+"order": 8 
+} 
+],
+"order": 3 
+},
+{
+ "name": "29-1199.01Acupuncturists","cpIndex":43.93333333,
+"order": 569 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "name": "29-1128.00Exercise Physiologists","cpIndex":48.53333333,
+"order": 68 
+},
+{
+ "name": "29-1031.00Dietitians and Nutritionists","cpIndex":49.53333333,
+"order": 274 
+} 
+],
+"order": 68 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1071.00Physician Assistants","cpIndex":50.93333333,
+"order": 33 
+},
+{
+ "children": [
+ {
+ "name": "29-1171.00Nurse Practitioners","cpIndex":52.8,
+"order": 509 
+},
+{
+ "name": "29-1161.00Nurse Midwives","cpIndex":49.53333333,
+"order": 533 
+} 
+],
+"order": 509 
+} 
+],
+"order": 33 
+},
+{
+ "name": "29-9092.00Genetic Counselors","cpIndex":46.13333333,
+"order": 579 
+} 
+],
+"order": 33 
+},
+{
+ "name": "29-1151.00Nurse Anesthetists","cpIndex":51.46666667,
+"order": 505 
+} 
+],
+"order": 33 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-1072.00Nursing Instructors and Teachers, Postsecondary","cpIndex":52.06666667,
+"order": 366 
+},
+{
+ "name": "29-1141.04Clinical Nurse Specialists","cpIndex":51.46666667,
+"order": 564 
+} 
+],
+"order": 366 
+},
+{
+ "name": "29-1141.02Advanced Practice Psychiatric Nurses","cpIndex":51.4,
+"order": 532 
+} 
+],
+"order": 366 
+} 
+],
+"order": 33 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1125.02Music Therapists","cpIndex":49.6,
+"order": 36 
+},
+{
+ "name": "29-1125.00Recreational Therapists","cpIndex":45.2,
+"order": 587 
+} 
+],
+"order": 36 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "21-1011.00Substance Abuse and Behavioral Disorder Counselors","cpIndex":46,
+"order": 117 
+},
+{
+ "name": "21-1015.00Rehabilitation Counselors","cpIndex":41.66666667,
+"order": 207 
+} 
+],
+"order": 117 
+},
+{
+ "name": "19-3031.02Clinical Psychologists","cpIndex":52.86666667,
+"order": 200 
+} 
+],
+"order": 117 
+} 
+],
+"order": 36 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "21-1092.00Probation Officers and Correctional Treatment Specialists","cpIndex":43,
+"order": 81 
+},
+{
+ "name": "43-4051.03Patient Representatives","cpIndex":41.66666667,
+"order": 738 
+} 
+],
+"order": 81 
+},
+{
+ "children": [
+ {
+ "name": "21-1093.00Social and Human Service Assistants","cpIndex":39.86666667,
+"order": 236 
+},
+{
+ "name": "39-9041.00Residential Advisors","cpIndex":41.6,
+"order": 238 
+} 
+],
+"order": 236 
+} 
+],
+"order": 81 
+} 
+],
+"order": 36 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "21-1022.00Healthcare Social Workers","cpIndex":48.33333333,
+"order": 51 
+},
+{
+ "children": [
+ {
+ "name": "21-1023.00Mental Health and Substance Abuse Social Workers","cpIndex":49.66666667,
+"order": 204 
+},
+{
+ "name": "21-1014.00Mental Health Counselors","cpIndex":53.46666667,
+"order": 215 
+} 
+],
+"order": 204 
+} 
+],
+"order": 51 
+},
+{
+ "name": "21-1012.00Educational, Guidance, School, and Vocational Counselors","cpIndex":49.33333333,
+"order": 220 
+} 
+],
+"order": 51 
+},
+{
+ "children": [
+ {
+ "name": "19-3031.03Counseling Psychologists","cpIndex":53.13333333,
+"order": 217 
+},
+{
+ "name": "29-1125.01Art Therapists","cpIndex":48.73333333,
+"order": 535 
+} 
+],
+"order": 217 
+} 
+],
+"order": 51 
+},
+{
+ "children": [
+ {
+ "name": "29-1127.00Speech-Language Pathologists","cpIndex":49.46666667,
+"order": 94 
+},
+{
+ "name": "19-3031.01School Psychologists","cpIndex":49.8,
+"order": 230 
+} 
+],
+"order": 94 
+} 
+],
+"order": 51 
+} 
+],
+"order": 36 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1131.00Veterinarians","cpIndex":50.66666667,
+"order": 17 
+},
+{
+ "name": "29-1081.00Podiatrists","cpIndex":52.06666667,
+"order": 892 
+} 
+],
+"order": 17 
+},
+{
+ "name": "29-1069.02Dermatologists","cpIndex":52.28571429,
+"order": 635 
+} 
+],
+"order": 17 
+},
+{
+ "children": [
+ {
+ "name": "29-1011.00Chiropractors","cpIndex":49.8,
+"order": 590 
+},
+{
+ "name": "29-1041.00Optometrists","cpIndex":49.8,
+"order": 600 
+} 
+],
+"order": 590 
+} 
+],
+"order": 17 
+},
+{
+ "name": "29-1181.00Audiologists","cpIndex":46.33333333,
+"order": 524 
+} 
+],
+"order": 17 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1023.00Orthodontists","cpIndex":50.8,
+"order": 591 
+},
+{
+ "name": "29-1021.00Dentists, General","cpIndex":54.8,
+"order": 597 
+} 
+],
+"order": 591 
+},
+{
+ "name": "29-1024.00Prosthodontists","cpIndex":48,
+"order": 605 
+} 
+],
+"order": 591 
+} 
+],
+"order": 17 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1069.10Radiologists","cpIndex":52.86666667,
+"order": 18 
+},
+{
+ "name": "29-1069.05Nuclear Medicine Physicians","cpIndex":55.46666667,
+"order": 602 
+} 
+],
+"order": 18 
+},
+{
+ "name": "29-1061.00Anesthesiologists","cpIndex":54.86666667,
+"order": 607 
+} 
+],
+"order": 18 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1067.00Surgeons","cpIndex":60.46666667,
+"order": 328 
+},
+{
+ "name": "29-1069.06Ophthalmologists","cpIndex":57.4,
+"order": 642 
+} 
+],
+"order": 328 
+},
+{
+ "name": "29-1022.00Oral and Maxillofacial Surgeons","cpIndex":56.13333333,
+"order": 609 
+} 
+],
+"order": 328 
+},
+{
+ "name": "29-1069.12Urologists","cpIndex":55,
+"order": 508 
+} 
+],
+"order": 328 
+},
+{
+ "name": "29-1069.07Pathologists","cpIndex":58.66666667,
+"order": 636 
+} 
+],
+"order": 328 
+} 
+],
+"order": 18 
+} 
+],
+"order": 17 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-3039.01Neuropsychologists and Clinical Neuropsychologists","cpIndex":61.26666667,
+"order": 38 
+},
+{
+ "name": "29-1066.00Psychiatrists","cpIndex":56.46666667,
+"order": 645 
+} 
+],
+"order": 38 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1062.00Family and General Practitioners","cpIndex":53.13333333,
+"order": 273 
+},
+{
+ "name": "29-1069.03Hospitalists","cpIndex":54,
+"order": 634 
+} 
+],
+"order": 273 
+},
+{
+ "name": "29-1199.04Naturopathic Physicians","cpIndex":54.73333333,
+"order": 614 
+} 
+],
+"order": 273 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1063.00Internists, General","cpIndex":58.06666667,
+"order": 473 
+},
+{
+ "name": "29-1065.00Pediatricians, General","cpIndex":53.2,
+"order": 611 
+} 
+],
+"order": 473 
+},
+{
+ "children": [
+ {
+ "name": "29-1069.01Allergists and Immunologists","cpIndex":56.93333333,
+"order": 608 
+},
+{
+ "name": "29-1064.00Obstetricians and Gynecologists","cpIndex":55.66666667,
+"order": 640 
+} 
+],
+"order": 608 
+} 
+],
+"order": 473 
+},
+{
+ "name": "29-1069.08Physical Medicine and Rehabilitation Physicians","cpIndex":55.93333333,
+"order": 639 
+} 
+],
+"order": 473 
+},
+{
+ "children": [
+ {
+ "name": "29-1069.09Preventive Medicine Physicians","cpIndex":60,
+"order": 627 
+},
+{
+ "name": "29-1069.04Neurologists","cpIndex":61.4,
+"order": 637 
+} 
+],
+"order": 627 
+} 
+],
+"order": 473 
+} 
+],
+"order": 273 
+} 
+],
+"order": 38 
+} 
+],
+"order": 17 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-1011.00Animal Scientists","cpIndex":53.4,
+"order": 65 
+},
+{
+ "name": "19-1013.00Soil and Plant Scientists","cpIndex":55.4,
+"order": 576 
+} 
+],
+"order": 65 
+},
+{
+ "name": "19-1042.00Medical Scientists, Except Epidemiologists","cpIndex":57.8,
+"order": 267 
+} 
+],
+"order": 65 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-1020.01Biologists","cpIndex":53.28571429,
+"order": 120 
+},
+{
+ "name": "19-1022.00Microbiologists","cpIndex":59.06666667,
+"order": 121 
+} 
+],
+"order": 120 
+},
+{
+ "name": "19-1029.01Bioinformatics Scientists","cpIndex":59.4,
+"order": 289 
+} 
+],
+"order": 120 
+} 
+],
+"order": 65 
+},
+{
+ "children": [
+ {
+ "name": "19-1021.00Biochemists and Biophysicists","cpIndex":62.06666667,
+"order": 123 
+},
+{
+ "children": [
+ {
+ "name": "19-1029.02Molecular and Cellular Biologists","cpIndex":65.07142857,
+"order": 221 
+},
+{
+ "name": "19-1029.03Geneticists","cpIndex":55.46666667,
+"order": 222 
+} 
+],
+"order": 221 
+} 
+],
+"order": 123 
+} 
+],
+"order": 65 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-1193.00Recreation and Fitness Studies Teachers, Postsecondary","cpIndex":46.46666667,
+"order": 245 
+},
+{
+ "name": "25-1071.00Health Specialties Teachers, Postsecondary","cpIndex":50,
+"order": 647 
+} 
+],
+"order": 245 
+},
+{
+ "name": "25-1022.00Mathematical Science Teachers, Postsecondary","cpIndex":47.46666667,
+"order": 355 
+} 
+],
+"order": 245 
+},
+{
+ "name": "25-1112.00Law Teachers, Postsecondary","cpIndex":51.93333333,
+"order": 318 
+} 
+],
+"order": 245 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-1082.00Library Science Teachers, Postsecondary","cpIndex":52.2,
+"order": 314 
+},
+{
+ "name": "25-1042.00Biological Science Teachers, Postsecondary","cpIndex":51.06666667,
+"order": 641 
+} 
+],
+"order": 314 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-1053.00Environmental Science Teachers, Postsecondary","cpIndex":51.66666667,
+"order": 335 
+},
+{
+ "name": "25-1043.00Forestry and Conservation Science Teachers, Postsecondary","cpIndex":50.93333333,
+"order": 373 
+} 
+],
+"order": 335 
+},
+{
+ "name": "25-1041.00Agricultural Sciences Teachers, Postsecondary","cpIndex":53.26666667,
+"order": 359 
+} 
+],
+"order": 335 
+} 
+],
+"order": 314 
+},
+{
+ "name": "25-1064.00Geography Teachers, Postsecondary","cpIndex":50.53333333,
+"order": 324 
+} 
+],
+"order": 314 
+} 
+],
+"order": 245 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-2011.00Astronomers","cpIndex":58.4,
+"order": 269 
+},
+{
+ "name": "25-1054.00Physics Teachers, Postsecondary","cpIndex":55.2,
+"order": 336 
+} 
+],
+"order": 269 
+},
+{
+ "children": [
+ {
+ "name": "25-1032.00Engineering Teachers, Postsecondary","cpIndex":51.46666667,
+"order": 354 
+},
+{
+ "children": [
+ {
+ "name": "25-1051.00Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","cpIndex":54.66666667,
+"order": 375 
+},
+{
+ "name": "25-1052.00Chemistry Teachers, Postsecondary","cpIndex":53.33333333,
+"order": 376 
+} 
+],
+"order": 375 
+} 
+],
+"order": 354 
+} 
+],
+"order": 269 
+},
+{
+ "name": "19-2012.00Physicists","cpIndex":67.13333333,
+"order": 271 
+} 
+],
+"order": 269 
+} 
+],
+"order": 245 
+} 
+],
+"order": 65 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-3094.00Political Scientists","cpIndex":51.8,
+"order": 103 
+},
+{
+ "name": "25-1065.00Political Science Teachers, Postsecondary","cpIndex":47.6,
+"order": 327 
+} 
+],
+"order": 103 
+},
+{
+ "children": [
+ {
+ "name": "25-1125.00History Teachers, Postsecondary","cpIndex":47.46666667,
+"order": 307 
+},
+{
+ "children": [
+ {
+ "name": "25-1061.00Anthropology and Archeology Teachers, Postsecondary","cpIndex":51.4,
+"order": 349 
+},
+{
+ "name": "25-1062.00Area, Ethnic, and Cultural Studies Teachers, Postsecondary","cpIndex":49,
+"order": 357 
+} 
+],
+"order": 349 
+} 
+],
+"order": 307 
+} 
+],
+"order": 103 
+},
+{
+ "children": [
+ {
+ "name": "19-3091.02Archeologists","cpIndex":53.4,
+"order": 108 
+},
+{
+ "name": "19-3091.01Anthropologists","cpIndex":55.06666667,
+"order": 116 
+} 
+],
+"order": 108 
+} 
+],
+"order": 103 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-1122.00Communications Teachers, Postsecondary","cpIndex":50.2,
+"order": 315 
+},
+{
+ "name": "25-1123.00English Language and Literature Teachers, Postsecondary","cpIndex":51.13333333,
+"order": 317 
+} 
+],
+"order": 315 
+},
+{
+ "name": "25-1126.00Philosophy and Religion Teachers, Postsecondary","cpIndex":48.4,
+"order": 321 
+} 
+],
+"order": 315 
+},
+{
+ "name": "25-1124.00Foreign Language and Literature Teachers, Postsecondary","cpIndex":47.66666667,
+"order": 323 
+} 
+],
+"order": 315 
+},
+{
+ "children": [
+ {
+ "name": "25-1121.00Art, Drama, and Music Teachers, Postsecondary","cpIndex":49.13333333,
+"order": 319 
+},
+{
+ "name": "25-4012.00Curators","cpIndex":52.2,
+"order": 362 
+} 
+],
+"order": 319 
+} 
+],
+"order": 315 
+} 
+],
+"order": 103 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-9032.00Education Administrators, Elementary and Secondary School","cpIndex":56.46666667,
+"order": 203 
+},
+{
+ "name": "11-9033.00Education Administrators, Postsecondary","cpIndex":53.66666667,
+"order": 209 
+} 
+],
+"order": 203 
+},
+{
+ "children": [
+ {
+ "name": "25-1111.00Criminal Justice and Law Enforcement Teachers, Postsecondary","cpIndex":48.6,
+"order": 316 
+},
+{
+ "children": [
+ {
+ "name": "25-9031.00Instructional Coordinators","cpIndex":51.2,
+"order": 344 
+},
+{
+ "name": "25-1192.00Home Economics Teachers, Postsecondary","cpIndex":47.93333333,
+"order": 408 
+} 
+],
+"order": 344 
+} 
+],
+"order": 316 
+} 
+],
+"order": 203 
+},
+{
+ "name": "19-3032.00Industrial-Organizational Psychologists","cpIndex":56.33333333,
+"order": 208 
+} 
+],
+"order": 203 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-1066.00Psychology Teachers, Postsecondary","cpIndex":47.73333333,
+"order": 234 
+},
+{
+ "name": "25-1113.00Social Work Teachers, Postsecondary","cpIndex":51.73333333,
+"order": 313 
+} 
+],
+"order": 234 
+},
+{
+ "children": [
+ {
+ "name": "25-1081.00Education Teachers, Postsecondary","cpIndex":51,
+"order": 369 
+},
+{
+ "name": "25-1011.00Business Teachers, Postsecondary","cpIndex":50.33333333,
+"order": 550 
+} 
+],
+"order": 369 
+} 
+],
+"order": 234 
+},
+{
+ "children": [
+ {
+ "name": "25-1067.00Sociology Teachers, Postsecondary","cpIndex":49,
+"order": 326 
+},
+{
+ "name": "19-3041.00Sociologists","cpIndex":51.8,
+"order": 330 
+} 
+],
+"order": 326 
+} 
+],
+"order": 234 
+} 
+],
+"order": 203 
+} 
+],
+"order": 103 
+} 
+],
+"order": 65 
+} 
+],
+"order": 3 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-3023.01Electronics Engineering Technicians","cpIndex":41.53333333,
+"order": 10 
+},
+{
+ "children": [
+ {
+ "name": "17-3023.03Electrical Engineering Technicians","cpIndex":43.8,
+"order": 47 
+},
+{
+ "name": "17-3029.08Photonics Technicians","cpIndex":39.2,
+"order": 48 
+} 
+],
+"order": 47 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "name": "17-3029.03Electromechanical Engineering Technologists","cpIndex":44.2,
+"order": 53 
+},
+{
+ "name": "17-3027.00Mechanical Engineering Technicians","cpIndex":41.46666667,
+"order": 64 
+} 
+],
+"order": 53 
+} 
+],
+"order": 10 
+},
+{
+ "name": "17-3026.00Industrial Engineering Technicians","cpIndex":48.8,
+"order": 45 
+} 
+],
+"order": 10 
+},
+{
+ "name": "51-4012.00Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic","cpIndex":42.06666667,
+"order": 748 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "name": "17-3029.04Electronics Engineering Technologists","cpIndex":47.13333333,
+"order": 70 
+},
+{
+ "children": [
+ {
+ "name": "17-3024.01Robotics Technicians","cpIndex":45.73333333,
+"order": 74 
+},
+{
+ "name": "49-2094.00Electrical and Electronics Repairers, Commercial and Industrial Equipment","cpIndex":43.46666667,
+"order": 870 
+} 
+],
+"order": 74 
+} 
+],
+"order": 70 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-1143.01Telecommunications Engineering Specialists","cpIndex":44.2,
+"order": 138 
+},
+{
+ "children": [
+ {
+ "name": "15-1152.00Computer Network Support Specialists","cpIndex":42.86666667,
+"order": 139 
+},
+{
+ "name": "25-9011.00Audio-Visual and Multimedia Collections Specialists","cpIndex":42.86666667,
+"order": 360 
+} 
+],
+"order": 139 
+} 
+],
+"order": 138 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-1151.00Computer User Support Specialists","cpIndex":41.8,
+"order": 161 
+},
+{
+ "name": "49-2011.00Computer, Automated Teller, and Office Machine Repairers","cpIndex":38.8,
+"order": 843 
+} 
+],
+"order": 161 
+},
+{
+ "name": "43-9011.00Computer Operators","cpIndex":40.86666667,
+"order": 745 
+} 
+],
+"order": 161 
+} 
+],
+"order": 138 
+},
+{
+ "children": [
+ {
+ "name": "15-1142.00Network and Computer Systems Administrators","cpIndex":49.73333333,
+"order": 253 
+},
+{
+ "name": "15-1143.00Computer Network Architects","cpIndex":48.46666667,
+"order": 257 
+} 
+],
+"order": 253 
+} 
+],
+"order": 138 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-4012.00Broadcast Technicians","cpIndex":38.6,
+"order": 595 
+},
+{
+ "name": "27-4011.00Audio and Video Equipment Technicians","cpIndex":39,
+"order": 970 
+} 
+],
+"order": 595 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "49-2097.00Electronic Home Entertainment Equipment Installers and Repairers","cpIndex":36.6,
+"order": 753 
+},
+{
+ "name": "49-2021.01Radio Mechanics","cpIndex":38.06666667,
+"order": 812 
+} 
+],
+"order": 753 
+},
+{
+ "name": "49-2022.00Telecommunications Equipment Installers and Repairers, Except Line Installers","cpIndex":41.06666667,
+"order": 844 
+} 
+],
+"order": 753 
+},
+{
+ "name": "49-2021.00Radio, Cellular, and Tower Equipment Installers and Repairers","cpIndex":35.33333333,
+"order": 816 
+} 
+],
+"order": 753 
+} 
+],
+"order": 595 
+} 
+],
+"order": 138 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-3031.01Surveying Technicians","cpIndex":37.8,
+"order": 11 
+},
+{
+ "name": "17-3022.00Civil Engineering Technicians","cpIndex":40.33333333,
+"order": 124 
+} 
+],
+"order": 11 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-3013.00Mechanical Drafters","cpIndex":40.46666667,
+"order": 84 
+},
+{
+ "children": [
+ {
+ "name": "17-3011.02Civil Drafters","cpIndex":38.53333333,
+"order": 87 
+},
+{
+ "name": "17-3012.02Electrical Drafters","cpIndex":38,
+"order": 98 
+} 
+],
+"order": 87 
+} 
+],
+"order": 84 
+},
+{
+ "name": "17-3012.01Electronic Drafters","cpIndex":36.2,
+"order": 89 
+} 
+],
+"order": 84 
+} 
+],
+"order": 11 
+},
+{
+ "children": [
+ {
+ "name": "17-3031.02Mapping Technicians","cpIndex":36.53333333,
+"order": 90 
+},
+{
+ "name": "17-1021.00Cartographers and Photogrammetrists","cpIndex":40.33333333,
+"order": 162 
+} 
+],
+"order": 90 
+} 
+],
+"order": 11 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-3029.07Mechanical Engineering Technologists","cpIndex":45.6,
+"order": 19 
+},
+{
+ "name": "17-3021.00Aerospace Engineering and Operations Technicians","cpIndex":44.8,
+"order": 92 
+} 
+],
+"order": 19 
+},
+{
+ "name": "53-6051.01Aviation Inspectors","cpIndex":46,
+"order": 466 
+} 
+],
+"order": 19 
+},
+{
+ "children": [
+ {
+ "name": "11-3051.04Biomass Power Plant Managers","cpIndex":47,
+"order": 304 
+},
+{
+ "children": [
+ {
+ "name": "11-3051.02Geothermal Production Managers","cpIndex":48.93333333,
+"order": 325 
+},
+{
+ "name": "49-1011.00First-Line Supervisors of Mechanics, Installers, and Repairers","cpIndex":46.13333333,
+"order": 815 
+} 
+],
+"order": 325 
+} 
+],
+"order": 304 
+} 
+],
+"order": 19 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-9013.02Farm and Ranch Managers","cpIndex":46.4,
+"order": 235 
+},
+{
+ "children": [
+ {
+ "name": "11-9013.01Nursery and Greenhouse Managers","cpIndex":47.6,
+"order": 288 
+},
+{
+ "name": "11-3051.00Industrial Production Managers","cpIndex":51.6,
+"order": 331 
+} 
+],
+"order": 288 
+} 
+],
+"order": 235 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-9013.03Aquacultural Managers","cpIndex":47.6,
+"order": 291 
+},
+{
+ "name": "45-1011.06First-Line Supervisors of Aquacultural Workers","cpIndex":45.4,
+"order": 669 
+} 
+],
+"order": 291 
+},
+{
+ "name": "11-3051.01Quality Control Systems Managers","cpIndex":49.53333333,
+"order": 301 
+} 
+],
+"order": 291 
+} 
+],
+"order": 235 
+} 
+],
+"order": 19 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-1022.00Surveyors","cpIndex":45.6,
+"order": 69 
+},
+{
+ "name": "53-6041.00Traffic Technicians","cpIndex":42.93333333,
+"order": 463 
+} 
+],
+"order": 69 
+},
+{
+ "name": "11-9021.00Construction Managers","cpIndex":47.66666667,
+"order": 198 
+} 
+],
+"order": 69 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "13-1199.01Energy Auditors","cpIndex":41.4,
+"order": 393 
+},
+{
+ "name": "47-4011.00Construction and Building Inspectors","cpIndex":42.6,
+"order": 963 
+} 
+],
+"order": 393 
+},
+{
+ "name": "47-1011.03Solar Energy Installation Managers","cpIndex":44.4,
+"order": 706 
+} 
+],
+"order": 393 
+} 
+],
+"order": 69 
+} 
+],
+"order": 19 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-3025.00Environmental Engineering Technicians","cpIndex":42.33333333,
+"order": 46 
+},
+{
+ "name": "19-4091.00Environmental Science and Protection Technicians, Including Health","cpIndex":40.73333333,
+"order": 50 
+} 
+],
+"order": 46 
+},
+{
+ "children": [
+ {
+ "name": "19-4099.02Precision Agriculture Technicians","cpIndex":42.86666667,
+"order": 252 
+},
+{
+ "name": "19-4041.02Geological Sample Test Technicians","cpIndex":43.46666667,
+"order": 494 
+} 
+],
+"order": 252 
+} 
+],
+"order": 46 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-4041.01Geophysical Data Technicians","cpIndex":33.46666667,
+"order": 99 
+},
+{
+ "name": "19-4011.01Agricultural Technicians","cpIndex":40.86666667,
+"order": 115 
+} 
+],
+"order": 99 
+},
+{
+ "name": "43-9111.00Statistical Assistants","cpIndex":42.2,
+"order": 971 
+} 
+],
+"order": 99 
+} 
+],
+"order": 46 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-3029.01Non-Destructive Testing Specialists","cpIndex":41,
+"order": 61 
+},
+{
+ "name": "47-5031.00Explosives Workers, Ordnance Handling Experts, and Blasters","cpIndex":42.66666667,
+"order": 808 
+} 
+],
+"order": 61 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-4051.02Nuclear Monitoring Technicians","cpIndex":42.46666667,
+"order": 495 
+},
+{
+ "name": "51-8012.00Power Distributors and Dispatchers","cpIndex":42.93333333,
+"order": 863 
+} 
+],
+"order": 495 
+},
+{
+ "name": "45-2011.00Agricultural Inspectors","cpIndex":40.46666667,
+"order": 684 
+} 
+],
+"order": 495 
+} 
+],
+"order": 61 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-2011.00Medical and Clinical Laboratory Technologists","cpIndex":43.26666667,
+"order": 79 
+},
+{
+ "name": "29-2012.00Medical and Clinical Laboratory Technicians","cpIndex":39,
+"order": 618 
+} 
+],
+"order": 79 
+},
+{
+ "children": [
+ {
+ "name": "19-4031.00Chemical Technicians","cpIndex":39.2,
+"order": 105 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-4099.01Quality Control Analysts","cpIndex":37.93333333,
+"order": 135 
+},
+{
+ "name": "19-4011.02Food Science Technicians","cpIndex":37.53333333,
+"order": 649 
+} 
+],
+"order": 135 
+},
+{
+ "name": "29-2011.03Histotechnologists and Histologic Technicians","cpIndex":35.73333333,
+"order": 604 
+} 
+],
+"order": 135 
+} 
+],
+"order": 105 
+} 
+],
+"order": 79 
+} 
+],
+"order": 61 
+} 
+],
+"order": 46 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-4021.00Biological Technicians","cpIndex":42.33333333,
+"order": 104 
+},
+{
+ "children": [
+ {
+ "name": "29-2011.01Cytogenetic Technologists","cpIndex":41.4,
+"order": 619 
+},
+{
+ "name": "29-2011.02Cytotechnologists","cpIndex":38.66666667,
+"order": 622 
+} 
+],
+"order": 619 
+} 
+],
+"order": 104 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-2041.02Clinical Data Managers","cpIndex":41.46666667,
+"order": 144 
+},
+{
+ "name": "13-2053.00Insurance Underwriters","cpIndex":41.46666667,
+"order": 404 
+} 
+],
+"order": 144 
+},
+{
+ "children": [
+ {
+ "name": "11-9121.01Clinical Research Coordinators","cpIndex":47.26666667,
+"order": 283 
+},
+{
+ "name": "29-1199.05Orthoptists","cpIndex":46.13333333,
+"order": 613 
+} 
+],
+"order": 283 
+} 
+],
+"order": 144 
+} 
+],
+"order": 104 
+} 
+],
+"order": 46 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "33-2021.02Fire Investigators","cpIndex":47.26666667,
+"order": 34 
+},
+{
+ "name": "33-2021.01Fire Inspectors","cpIndex":43.86666667,
+"order": 545 
+} 
+],
+"order": 34 
+},
+{
+ "name": "19-4092.00Forensic Science Technicians","cpIndex":45.93333333,
+"order": 78 
+} 
+],
+"order": 34 
+},
+{
+ "children": [
+ {
+ "name": "33-3021.03Criminal Investigators and Special Agents","cpIndex":49.13333333,
+"order": 310 
+},
+{
+ "name": "33-3021.01Police Detectives","cpIndex":49.06666667,
+"order": 534 
+} 
+],
+"order": 310 
+} 
+],
+"order": 34 
+},
+{
+ "children": [
+ {
+ "name": "17-3029.11Nanotechnology Engineering Technologists","cpIndex":48,
+"order": 462 
+},
+{
+ "name": "29-2041.00Emergency Medical Technicians and Paramedics","cpIndex":45.46666667,
+"order": 601 
+} 
+],
+"order": 462 
+} 
+],
+"order": 34 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-2011.00Airline Pilots, Copilots, and Flight Engineers","cpIndex":49.53333333,
+"order": 353 
+},
+{
+ "children": [
+ {
+ "name": "53-2012.00Commercial Pilots","cpIndex":45.93333333,
+"order": 503 
+},
+{
+ "name": "53-5021.03Pilots, Ship","cpIndex":41.06666667,
+"order": 831 
+} 
+],
+"order": 503 
+} 
+],
+"order": 353 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "33-1021.01Municipal Fire Fighting and Prevention Supervisors","cpIndex":48.93333333,
+"order": 405 
+},
+{
+ "name": "33-1021.02Forest Fire Fighting and Prevention Supervisors","cpIndex":49.66666667,
+"order": 445 
+} 
+],
+"order": 405 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "33-2011.01Municipal Firefighters","cpIndex":40.6,
+"order": 410 
+},
+{
+ "name": "33-2011.02Forest Firefighters","cpIndex":43,
+"order": 414 
+} 
+],
+"order": 410 
+},
+{
+ "name": "53-5021.01Ship and Boat Captains","cpIndex":48.13333333,
+"order": 646 
+} 
+],
+"order": 410 
+} 
+],
+"order": 405 
+} 
+],
+"order": 353 
+} 
+],
+"order": 34 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "33-9021.00Private Detectives and Investigators","cpIndex":43.66666667,
+"order": 63 
+},
+{
+ "name": "13-2021.01Assessors","cpIndex":41.46666667,
+"order": 459 
+} 
+],
+"order": 63 
+},
+{
+ "name": "43-4041.01Credit Authorizers","cpIndex":36.6,
+"order": 729 
+} 
+],
+"order": 63 
+},
+{
+ "children": [
+ {
+ "name": "13-1041.02Licensing Examiners and Inspectors","cpIndex":39.33333333,
+"order": 392 
+},
+{
+ "name": "13-1032.00Insurance Appraisers, Auto Damage","cpIndex":33.93333333,
+"order": 399 
+} 
+],
+"order": 392 
+} 
+],
+"order": 63 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "33-9031.00Gaming Surveillance Officers and Gaming Investigators","cpIndex":39.73333333,
+"order": 71 
+},
+{
+ "name": "33-9099.02Retail Loss Prevention Specialists","cpIndex":41.6,
+"order": 479 
+} 
+],
+"order": 71 
+},
+{
+ "children": [
+ {
+ "name": "33-3021.02Police Identification and Records Officers","cpIndex":39.86666667,
+"order": 264 
+},
+{
+ "name": "33-9011.00Animal Control Workers","cpIndex":42.64285714,
+"order": 384 
+} 
+],
+"order": 264 
+} 
+],
+"order": 71 
+} 
+],
+"order": 63 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-6051.08Freight and Cargo Inspectors","cpIndex":37.2,
+"order": 561 
+},
+{
+ "name": "53-2022.00Airfield Operations Specialists","cpIndex":42.26666667,
+"order": 868 
+} 
+],
+"order": 561 
+},
+{
+ "name": "29-9012.00Occupational Health and Safety Technicians","cpIndex":41.8,
+"order": 578 
+} 
+],
+"order": 561 
+} 
+],
+"order": 63 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-4013.00Radio Operators","cpIndex":36.33333333,
+"order": 592 
+},
+{
+ "name": "43-5031.00Police, Fire, and Ambulance Dispatchers","cpIndex":38.2,
+"order": 694 
+} 
+],
+"order": 592 
+},
+{
+ "children": [
+ {
+ "name": "43-4181.00Reservation and Transportation Ticket Agents and Travel Clerks","cpIndex":35.66666667,
+"order": 762 
+},
+{
+ "name": "53-2031.00Flight Attendants","cpIndex":36.46666667,
+"order": 969 
+} 
+],
+"order": 762 
+} 
+],
+"order": 592 
+} 
+],
+"order": 63 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "33-3021.05Immigration and Customs Inspectors","cpIndex":41.13333333,
+"order": 206 
+},
+{
+ "children": [
+ {
+ "name": "33-1011.00First-Line Supervisors of Correctional Officers","cpIndex":45.4,
+"order": 436 
+},
+{
+ "name": "33-3012.00Correctional Officers and Jailers","cpIndex":39.06666667,
+"order": 465 
+} 
+],
+"order": 436 
+} 
+],
+"order": 206 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "33-3051.03Sheriffs and Deputy Sheriffs","cpIndex":45.6,
+"order": 418 
+},
+{
+ "name": "33-3051.01Police Patrol Officers","cpIndex":43.86666667,
+"order": 421 
+} 
+],
+"order": 418 
+},
+{
+ "name": "33-1012.00First-Line Supervisors of Police and Detectives","cpIndex":50.33333333,
+"order": 437 
+} 
+],
+"order": 418 
+} 
+],
+"order": 206 
+} 
+],
+"order": 63 
+} 
+],
+"order": 34 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1124.00Radiation Therapists","cpIndex":41.2,
+"order": 35 
+},
+{
+ "name": "29-1126.00Respiratory Therapists","cpIndex":43.4,
+"order": 565 
+} 
+],
+"order": 35 
+},
+{
+ "name": "29-2054.00Respiratory Therapy Technicians","cpIndex":43.93333333,
+"order": 272 
+} 
+],
+"order": 35 
+},
+{
+ "name": "29-1071.01Anesthesiologist Assistants","cpIndex":43,
+"order": 41 
+} 
+],
+"order": 35 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-2032.00Diagnostic Medical Sonographers","cpIndex":39.46666667,
+"order": 66 
+},
+{
+ "name": "29-2031.00Cardiovascular Technologists and Technicians","cpIndex":40,
+"order": 612 
+} 
+],
+"order": 66 
+},
+{
+ "name": "29-2033.00Nuclear Medicine Technologists","cpIndex":39.4,
+"order": 615 
+} 
+],
+"order": 66 
+},
+{
+ "children": [
+ {
+ "name": "29-2035.00Magnetic Resonance Imaging Technologists","cpIndex":37.66666667,
+"order": 599 
+},
+{
+ "name": "29-2034.00Radiologic Technologists","cpIndex":40,
+"order": 643 
+} 
+],
+"order": 599 
+} 
+],
+"order": 66 
+},
+{
+ "children": [
+ {
+ "name": "29-2056.00Veterinary Technologists and Technicians","cpIndex":38.93333333,
+"order": 93 
+},
+{
+ "name": "29-2099.01Neurodiagnostic Technologists","cpIndex":41.06666667,
+"order": 574 
+} 
+],
+"order": 93 
+} 
+],
+"order": 66 
+} 
+],
+"order": 35 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-2057.00Ophthalmic Medical Technicians","cpIndex":33.33333333,
+"order": 56 
+},
+{
+ "name": "29-2099.05Ophthalmic Medical Technologists","cpIndex":34.33333333,
+"order": 95 
+} 
+],
+"order": 56 
+},
+{
+ "name": "31-9091.00Dental Assistants","cpIndex":34.46666667,
+"order": 476 
+} 
+],
+"order": 56 
+},
+{
+ "name": "31-9097.00Phlebotomists","cpIndex":32.93333333,
+"order": 439 
+} 
+],
+"order": 56 
+},
+{
+ "children": [
+ {
+ "name": "29-2055.00Surgical Technologists","cpIndex":36.4,
+"order": 96 
+},
+{
+ "name": "31-9099.02Endoscopy Technicians","cpIndex":33,
+"order": 438 
+} 
+],
+"order": 96 
+} 
+],
+"order": 56 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "31-2021.00Physical Therapist Assistants","cpIndex":39.13333333,
+"order": 467 
+},
+{
+ "name": "29-2099.06Radiologic Technicians","cpIndex":37.46666667,
+"order": 572 
+} 
+],
+"order": 467 
+},
+{
+ "name": "29-2021.00Dental Hygienists","cpIndex":35.6,
+"order": 575 
+} 
+],
+"order": 467 
+} 
+],
+"order": 56 
+},
+{
+ "children": [
+ {
+ "name": "31-9093.00Medical Equipment Preparers","cpIndex":34.6,
+"order": 448 
+},
+{
+ "name": "31-9096.00Veterinary Assistants and Laboratory Animal Caretakers","cpIndex":30,
+"order": 454 
+} 
+],
+"order": 448 
+} 
+],
+"order": 56 
+} 
+],
+"order": 35 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1141.01Acute Care Nurses","cpIndex":47,
+"order": 54 
+},
+{
+ "name": "29-1141.00Registered Nurses","cpIndex":48.26666667,
+"order": 893 
+} 
+],
+"order": 54 
+},
+{
+ "name": "29-1141.03Critical Care Nurses","cpIndex":48.33333333,
+"order": 451 
+} 
+],
+"order": 54 
+},
+{
+ "name": "29-2061.00Licensed Practical and Licensed Vocational Nurses","cpIndex":43.26666667,
+"order": 57 
+} 
+],
+"order": 54 
+},
+{
+ "name": "29-9099.01Midwives","cpIndex":48.26666667,
+"order": 72 
+} 
+],
+"order": 54 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "13-1111.00Management Analysts","cpIndex":48.46666667,
+"order": 381 
+},
+{
+ "name": "13-1041.06Coroners","cpIndex":45.8,
+"order": 385 
+} 
+],
+"order": 381 
+},
+{
+ "name": "29-1051.00Pharmacists","cpIndex":44.66666667,
+"order": 596 
+} 
+],
+"order": 381 
+} 
+],
+"order": 54 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-1031.03Park Naturalists","cpIndex":39.93333333,
+"order": 125 
+},
+{
+ "name": "29-2092.00Hearing Aid Specialists","cpIndex":42.06666667,
+"order": 557 
+} 
+],
+"order": 125 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "21-1094.00Community Health Workers","cpIndex":45.86666667,
+"order": 246 
+},
+{
+ "name": "25-1194.00Vocational Education Teachers, Postsecondary","cpIndex":42.73333333,
+"order": 477 
+} 
+],
+"order": 246 
+},
+{
+ "name": "39-1021.00First-Line Supervisors of Personal Service Workers","cpIndex":41.93333333,
+"order": 913 
+} 
+],
+"order": 246 
+},
+{
+ "children": [
+ {
+ "name": "31-2011.00Occupational Therapy Assistants","cpIndex":40.06666667,
+"order": 435 
+},
+{
+ "name": "29-2053.00Psychiatric Technicians","cpIndex":41.26666667,
+"order": 598 
+} 
+],
+"order": 435 
+} 
+],
+"order": 246 
+} 
+],
+"order": 125 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "39-4031.00Morticians, Undertakers, and Funeral Directors","cpIndex":39.93333333,
+"order": 180 
+},
+{
+ "name": "11-9061.00Funeral Service Managers","cpIndex":35.8,
+"order": 199 
+} 
+],
+"order": 180 
+},
+{
+ "name": "39-4011.00Embalmers","cpIndex":37.6,
+"order": 431 
+} 
+],
+"order": 180 
+} 
+],
+"order": 125 
+} 
+],
+"order": 54 
+} 
+],
+"order": 35 
+} 
+],
+"order": 34 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "41-4011.00Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","cpIndex":39.13333333,
+"order": 13 
+},
+{
+ "name": "41-4012.00Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products","cpIndex":38,
+"order": 651 
+} 
+],
+"order": 13 
+},
+{
+ "children": [
+ {
+ "name": "41-3011.00Advertising Sales Agents","cpIndex":41.33333333,
+"order": 15 
+},
+{
+ "name": "13-1121.00Meeting, Convention, and Event Planners","cpIndex":41.33333333,
+"order": 378 
+} 
+],
+"order": 15 
+} 
+],
+"order": 13 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "41-3021.00Insurance Sales Agents","cpIndex":40.46666667,
+"order": 14 
+},
+{
+ "name": "13-2072.00Loan Officers","cpIndex":40.66666667,
+"order": 415 
+} 
+],
+"order": 14 
+},
+{
+ "name": "41-3031.02Sales Agents, Financial Services","cpIndex":44.13333333,
+"order": 922 
+} 
+],
+"order": 14 
+},
+{
+ "children": [
+ {
+ "name": "41-4011.07Solar Sales Representatives and Assessors","cpIndex":39.73333333,
+"order": 25 
+},
+{
+ "name": "13-1199.06Online Merchants","cpIndex":40.26666667,
+"order": 427 
+} 
+],
+"order": 25 
+} 
+],
+"order": 14 
+} 
+],
+"order": 13 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "41-9021.00Real Estate Brokers","cpIndex":39.5,
+"order": 23 
+},
+{
+ "name": "41-9022.00Real Estate Sales Agents","cpIndex":39.73333333,
+"order": 133 
+} 
+],
+"order": 23 
+},
+{
+ "children": [
+ {
+ "name": "39-7012.00Travel Guides","cpIndex":38.13333333,
+"order": 244 
+},
+{
+ "name": "39-6012.00Concierges","cpIndex":38.06666667,
+"order": 720 
+} 
+],
+"order": 244 
+} 
+],
+"order": 23 
+} 
+],
+"order": 13 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "43-4011.00Brokerage Clerks","cpIndex":34.53333333,
+"order": 190 
+},
+{
+ "name": "13-2082.00Tax Preparers","cpIndex":34,
+"order": 259 
+} 
+],
+"order": 190 
+},
+{
+ "name": "13-2041.00Credit Analysts","cpIndex":41.73333333,
+"order": 422 
+} 
+],
+"order": 190 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "13-2081.00Tax Examiners and Collectors, and Revenue Agents","cpIndex":41.13333333,
+"order": 254 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "13-1031.01Claims Examiners, Property and Casualty Insurance","cpIndex":42.8,
+"order": 395 
+},
+{
+ "name": "13-1031.02Insurance Adjusters, Examiners, and Investigators","cpIndex":38.46666667,
+"order": 400 
+} 
+],
+"order": 395 
+},
+{
+ "name": "13-2071.00Credit Counselors","cpIndex":41.33333333,
+"order": 425 
+} 
+],
+"order": 395 
+} 
+],
+"order": 254 
+},
+{
+ "name": "23-2011.00Paralegals and Legal Assistants","cpIndex":35.2,
+"order": 340 
+} 
+],
+"order": 254 
+} 
+],
+"order": 190 
+} 
+],
+"order": 13 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "43-4131.00Loan Interviewers and Clerks","cpIndex":40.33333333,
+"order": 111 
+},
+{
+ "name": "41-3041.00Travel Agents","cpIndex":35.33333333,
+"order": 174 
+} 
+],
+"order": 111 
+},
+{
+ "children": [
+ {
+ "name": "43-5011.00Cargo and Freight Agents","cpIndex":34.06666667,
+"order": 708 
+},
+{
+ "name": "43-4041.02Credit Checkers","cpIndex":30.2,
+"order": 731 
+} 
+],
+"order": 708 
+} 
+],
+"order": 111 
+},
+{
+ "children": [
+ {
+ "name": "43-4141.00New Accounts Clerks","cpIndex":34.46666667,
+"order": 113 
+},
+{
+ "children": [
+ {
+ "name": "13-1199.03Customs Brokers","cpIndex":38.66666667,
+"order": 417 
+},
+{
+ "children": [
+ {
+ "name": "43-5032.00Dispatchers, Except Police, Fire, and Ambulance","cpIndex":38.86666667,
+"order": 736 
+},
+{
+ "name": "43-5011.01Freight Forwarders","cpIndex":37.2,
+"order": 757 
+} 
+],
+"order": 736 
+} 
+],
+"order": 417 
+} 
+],
+"order": 113 
+} 
+],
+"order": 111 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "43-4021.00Correspondence Clerks","cpIndex":34.26666667,
+"order": 182 
+},
+{
+ "name": "43-4031.02Municipal Clerks","cpIndex":32.73333333,
+"order": 370 
+} 
+],
+"order": 182 
+},
+{
+ "children": [
+ {
+ "name": "13-1071.00Human Resources Specialists","cpIndex":40.06666667,
+"order": 398 
+},
+{
+ "children": [
+ {
+ "name": "43-9041.02Insurance Policy Processing Clerks","cpIndex":29.6,
+"order": 740 
+},
+{
+ "name": "43-4161.00Human Resources Assistants, Except Payroll and Timekeeping","cpIndex":32.2,
+"order": 760 
+} 
+],
+"order": 740 
+} 
+],
+"order": 398 
+} 
+],
+"order": 182 
+} 
+],
+"order": 111 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "41-2022.00Parts Salespersons","cpIndex":34.28571429,
+"order": 134 
+},
+{
+ "name": "43-4151.00order Clerks","cpIndex":30.26666667,
+"order": 329 
+} 
+],
+"order": 134 
+},
+{
+ "children": [
+ {
+ "name": "35-1012.00First-Line Supervisors of Food Preparation and Serving Workers","cpIndex":35.66666667,
+"order": 372 
+},
+{
+ "name": "37-1011.00First-Line Supervisors of Housekeeping and Janitorial Workers","cpIndex":33.66666667,
+"order": 501 
+} 
+],
+"order": 372 
+} 
+],
+"order": 134 
+},
+{
+ "children": [
+ {
+ "name": "39-1012.00Slot Supervisors","cpIndex":31.86666667,
+"order": 482 
+},
+{
+ "name": "33-9092.00Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","cpIndex":30.46666667,
+"order": 498 
+} 
+],
+"order": 482 
+} 
+],
+"order": 134 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "41-1011.00First-Line Supervisors of Retail Sales Workers","cpIndex":39.26666667,
+"order": 250 
+},
+{
+ "name": "29-2081.00Opticians, Dispensing","cpIndex":37.93333333,
+"order": 583 
+} 
+],
+"order": 250 
+},
+{
+ "name": "39-1011.00Gaming Supervisors","cpIndex":37.93333333,
+"order": 481 
+} 
+],
+"order": 250 
+},
+{
+ "name": "13-1022.00Wholesale and Retail Buyers, Except Farm Products","cpIndex":40.93333333,
+"order": 386 
+} 
+],
+"order": 250 
+} 
+],
+"order": 134 
+} 
+],
+"order": 111 
+} 
+],
+"order": 13 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-3011.00Administrative Services Managers","cpIndex":40.73333333,
+"order": 28 
+},
+{
+ "children": [
+ {
+ "name": "43-1011.00First-Line Supervisors of Office and Administrative Support Workers","cpIndex":44.46666667,
+"order": 171 
+},
+{
+ "name": "11-9071.00Gaming Managers","cpIndex":45.46666667,
+"order": 211 
+} 
+],
+"order": 171 
+} 
+],
+"order": 28 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-9081.00Lodging Managers","cpIndex":47.86666667,
+"order": 210 
+},
+{
+ "name": "41-1012.00First-Line Supervisors of Non-Retail Sales Workers","cpIndex":48.4,
+"order": 668 
+} 
+],
+"order": 210 
+},
+{
+ "name": "39-1021.01Spa Managers","cpIndex":46.6,
+"order": 483 
+} 
+],
+"order": 210 
+} 
+],
+"order": 28 
+},
+{
+ "children": [
+ {
+ "name": "11-9141.00Property, Real Estate, and Community Association Managers","cpIndex":43.13333333,
+"order": 281 
+},
+{
+ "name": "11-1021.00General and Operations Managers","cpIndex":46.73333333,
+"order": 292 
+} 
+],
+"order": 281 
+} 
+],
+"order": 28 
+},
+{
+ "children": [
+ {
+ "name": "13-2071.01Loan Counselors","cpIndex":45.66666667,
+"order": 224 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-3071.01Transportation Managers","cpIndex":48.13333333,
+"order": 302 
+},
+{
+ "name": "53-1031.00First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators","cpIndex":42.6,
+"order": 351 
+} 
+],
+"order": 302 
+},
+{
+ "name": "13-1081.00Logisticians","cpIndex":49.86666667,
+"order": 379 
+} 
+],
+"order": 302 
+} 
+],
+"order": 224 
+} 
+],
+"order": 28 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "43-5061.00Production, Planning, and Expediting Clerks","cpIndex":39.73333333,
+"order": 191 
+},
+{
+ "children": [
+ {
+ "name": "11-3071.02Storage and Distribution Managers","cpIndex":38.46666667,
+"order": 303 
+},
+{
+ "name": "53-1021.00First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","cpIndex":40.46666667,
+"order": 514 
+} 
+],
+"order": 303 
+} 
+],
+"order": 191 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-9051.00Food Service Managers","cpIndex":43,
+"order": 197 
+},
+{
+ "children": [
+ {
+ "name": "11-9131.00Postmasters and Mail Superintendents","cpIndex":40.26666667,
+"order": 290 
+},
+{
+ "name": "53-1021.01Recycling Coordinators","cpIndex":40.8,
+"order": 791 
+} 
+],
+"order": 290 
+} 
+],
+"order": 197 
+},
+{
+ "name": "35-1011.00Chefs and Head Cooks","cpIndex":43.86666667,
+"order": 489 
+} 
+],
+"order": 197 
+} 
+],
+"order": 191 
+} 
+],
+"order": 28 
+} 
+],
+"order": 13 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "43-4061.00Eligibility Interviewers, Government Programs","cpIndex":38.14285714,
+"order": 109 
+},
+{
+ "name": "43-3061.00Procurement Clerks","cpIndex":36.13333333,
+"order": 176 
+} 
+],
+"order": 109 
+},
+{
+ "children": [
+ {
+ "name": "43-4031.01Court Clerks","cpIndex":28.6,
+"order": 185 
+},
+{
+ "name": "23-2093.00Title Examiners, Abstractors, and Searchers","cpIndex":31.71428571,
+"order": 549 
+} 
+],
+"order": 185 
+} 
+],
+"order": 109 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "43-4071.00File Clerks","cpIndex":30.93333333,
+"order": 110 
+},
+{
+ "name": "25-4031.00Library Technicians","cpIndex":29.06666667,
+"order": 346 
+} 
+],
+"order": 110 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "43-4121.00Library Assistants, Clerical","cpIndex":28.06666667,
+"order": 728 
+},
+{
+ "name": "43-9061.00Office Clerks, General","cpIndex":28.13333333,
+"order": 778 
+} 
+],
+"order": 728 
+},
+{
+ "name": "43-9022.00Word Processors and Typists","cpIndex":27.33333333,
+"order": 750 
+} 
+],
+"order": 728 
+} 
+],
+"order": 110 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "43-4031.03License Clerks","cpIndex":28.6,
+"order": 371 
+},
+{
+ "name": "43-9041.01Insurance Claims Clerks","cpIndex":27.8,
+"order": 747 
+} 
+],
+"order": 371 
+},
+{
+ "children": [
+ {
+ "name": "43-6013.00Medical Secretaries","cpIndex":29.06666667,
+"order": 744 
+},
+{
+ "name": "43-9021.00Data Entry Keyers","cpIndex":28.13333333,
+"order": 751 
+} 
+],
+"order": 744 
+} 
+],
+"order": 371 
+},
+{
+ "children": [
+ {
+ "name": "43-6012.00Legal Secretaries","cpIndex":31.26666667,
+"order": 746 
+},
+{
+ "children": [
+ {
+ "name": "43-6014.00Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","cpIndex":30.86666667,
+"order": 749 
+},
+{
+ "name": "43-6011.00Executive Secretaries and Executive Administrative Assistants","cpIndex":34,
+"order": 767 
+} 
+],
+"order": 749 
+} 
+],
+"order": 746 
+} 
+],
+"order": 371 
+} 
+],
+"order": 110 
+},
+{
+ "children": [
+ {
+ "name": "23-2091.00Court Reporters","cpIndex":23.93333333,
+"order": 343 
+},
+{
+ "name": "31-9094.00Medical Transcriptionists","cpIndex":25.33333333,
+"order": 455 
+} 
+],
+"order": 343 
+} 
+],
+"order": 110 
+} 
+],
+"order": 109 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "43-3011.00Bill and Account Collectors","cpIndex":33.2,
+"order": 172 
+},
+{
+ "children": [
+ {
+ "name": "43-3071.00Tellers","cpIndex":31.66666667,
+"order": 177 
+},
+{
+ "name": "43-4081.00Hotel, Motel, and Resort Desk Clerks","cpIndex":30.33333333,
+"order": 638 
+} 
+],
+"order": 177 
+} 
+],
+"order": 172 
+},
+{
+ "children": [
+ {
+ "name": "43-3021.01Statement Clerks","cpIndex":32.2,
+"order": 186 
+},
+{
+ "name": "43-4051.00Customer Service Representatives","cpIndex":34.13333333,
+"order": 730 
+} 
+],
+"order": 186 
+} 
+],
+"order": 172 
+},
+{
+ "children": [
+ {
+ "name": "43-2011.00Switchboard Operators, Including Answering Service","cpIndex":26.73333333,
+"order": 173 
+},
+{
+ "children": [
+ {
+ "name": "29-2071.00Medical Records and Health Information Technicians","cpIndex":31.2,
+"order": 582 
+},
+{
+ "name": "43-4171.00Receptionists and Information Clerks","cpIndex":29.53333333,
+"order": 761 
+} 
+],
+"order": 582 
+} 
+],
+"order": 173 
+} 
+],
+"order": 172 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "43-3021.02Billing, Cost, and Rate Clerks","cpIndex":30.26666667,
+"order": 179 
+},
+{
+ "name": "43-3031.00Bookkeeping, Accounting, and Auditing Clerks","cpIndex":32.4,
+"order": 735 
+} 
+],
+"order": 179 
+},
+{
+ "name": "43-3051.00Payroll and Timekeeping Clerks","cpIndex":30.73333333,
+"order": 181 
+} 
+],
+"order": 179 
+} 
+],
+"order": 172 
+} 
+],
+"order": 109 
+} 
+],
+"order": 13 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-3021.00Computer and Information Systems Managers","cpIndex":51,
+"order": 29 
+},
+{
+ "children": [
+ {
+ "name": "17-3027.01Automotive Engineering Technicians","cpIndex":67,
+"order": 552 
+},
+{
+ "name": "13-1075.00Labor Relations Specialists","cpIndex":67,
+"order": 580 
+} 
+],
+"order": 552 
+} 
+],
+"order": 29 
+},
+{
+ "name": "13-1041.04Government Property Inspectors and Investigators","cpIndex":49.66666667,
+"order": 389 
+} 
+],
+"order": 29 
+},
+{
+ "children": [
+ {
+ "name": "41-3031.03Securities and Commodities Traders","cpIndex":76,
+"order": 506 
+},
+{
+ "name": "53-2021.00Air Traffic Controllers","cpIndex":54.73333333,
+"order": 666 
+} 
+],
+"order": 506 
+} 
+],
+"order": 29 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-3051.06Hydroelectric Production Managers","cpIndex":81,
+"order": 518 
+},
+{
+ "name": "13-2099.03Investment Underwriters","cpIndex":76,
+"order": 628 
+} 
+],
+"order": 518 
+},
+{
+ "children": [
+ {
+ "name": "11-3051.03Biofuels Production Managers","cpIndex":76,
+"order": 519 
+},
+{
+ "name": "11-9199.09Wind Energy Operations Managers","cpIndex":76,
+"order": 585 
+} 
+],
+"order": 519 
+} 
+],
+"order": 518 
+},
+{
+ "children": [
+ {
+ "name": "11-9039.02Fitness and Wellness Coordinators","cpIndex":86,
+"order": 523 
+},
+{
+ "name": "11-9199.10Wind Energy Project Managers","cpIndex":86,
+"order": 586 
+} 
+],
+"order": 523 
+} 
+],
+"order": 518 
+} 
+],
+"order": 29 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "21-1013.00Marriage and Family Therapists","cpIndex":51.6,
+"order": 59 
+},
+{
+ "name": "21-1021.00Child, Family, and School Social Workers","cpIndex":46.46666667,
+"order": 205 
+} 
+],
+"order": 59 
+},
+{
+ "children": [
+ {
+ "name": "11-1031.00Legislators","cpIndex":71,
+"order": 510 
+},
+{
+ "children": [
+ {
+ "name": "25-2051.00Special Education Teachers, Preschool","cpIndex":67,
+"order": 899 
+},
+{
+ "name": "25-2052.00Special Education Teachers, Kindergarten and Elementary School","cpIndex":67,
+"order": 925 
+} 
+],
+"order": 899 
+} 
+],
+"order": 510 
+} 
+],
+"order": 59 
+} 
+],
+"order": 29 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-2091.00Mathematical Technicians","cpIndex":37.84615385,
+"order": 143 
+},
+{
+ "children": [
+ {
+ "name": "15-1199.05Geographic Information Systems Technicians","cpIndex":47.2,
+"order": 167 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-1199.07Data Warehousing Specialists","cpIndex":71,
+"order": 568 
+},
+{
+ "name": "17-2072.01Radio Frequency Identification Device Specialists","cpIndex":71,
+"order": 624 
+} 
+],
+"order": 568 
+},
+{
+ "name": "17-2199.11Solar Energy Systems Engineers","cpIndex":76,
+"order": 968 
+} 
+],
+"order": 568 
+},
+{
+ "name": "15-1199.06Database Architects","cpIndex":76,
+"order": 633 
+} 
+],
+"order": 568 
+} 
+],
+"order": 167 
+} 
+],
+"order": 143 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-2011.01Green Marketers","cpIndex":76,
+"order": 517 
+},
+{
+ "name": "13-2099.01Financial Quantitative Analysts","cpIndex":76,
+"order": 610 
+} 
+],
+"order": 517 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-2041.03Industrial Ecologists","cpIndex":76,
+"order": 560 
+},
+{
+ "children": [
+ {
+ "name": "17-2199.06Microsystems Engineers","cpIndex":81,
+"order": 676 
+},
+{
+ "name": "17-2199.09Nanosystems Engineers","cpIndex":81,
+"order": 701 
+} 
+],
+"order": 676 
+} 
+],
+"order": 560 
+},
+{
+ "name": "29-1069.11Sports Medicine Physicians","cpIndex":57.66666667,
+"order": 891 
+} 
+],
+"order": 560 
+} 
+],
+"order": 517 
+} 
+],
+"order": 143 
+} 
+],
+"order": 29 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "41-9012.00Models","cpIndex":18.4,
+"order": 12 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "39-3031.00Ushers, Lobby Attendants, and Ticket Takers","cpIndex":20.6,
+"order": 129 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "43-5021.00Couriers and Messengers","cpIndex":25.06666667,
+"order": 686 
+},
+{
+ "name": "53-3031.00Driver/Sales Workers","cpIndex":25.53333333,
+"order": 697 
+} 
+],
+"order": 686 
+},
+{
+ "name": "43-5052.00Postal Service Mail Carriers","cpIndex":21.66666667,
+"order": 758 
+} 
+],
+"order": 686 
+} 
+],
+"order": 129 
+},
+{
+ "children": [
+ {
+ "name": "33-9091.00Crossing Guards","cpIndex":22.66666667,
+"order": 497 
+},
+{
+ "name": "45-2041.00Graders and Sorters, Agricultural Products","cpIndex":15.93333333,
+"order": 673 
+} 
+],
+"order": 497 
+} 
+],
+"order": 129 
+} 
+],
+"order": 12 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "35-3041.00Food Servers, Nonrestaurant","cpIndex":21.46666667,
+"order": 58 
+},
+{
+ "children": [
+ {
+ "name": "35-9011.00Dining Room and Cafeteria Attendants and Bartender Helpers","cpIndex":20.73333333,
+"order": 60 
+},
+{
+ "name": "53-7064.00Packers and Packagers, Hand","cpIndex":22.66666667,
+"order": 516 
+} 
+],
+"order": 60 
+} 
+],
+"order": 58 
+},
+{
+ "name": "35-2021.00Food Preparation Workers","cpIndex":19.73333333,
+"order": 924 
+} 
+],
+"order": 58 
+},
+{
+ "children": [
+ {
+ "name": "39-3093.00Locker Room, Coatroom, and Dressing Room Attendants","cpIndex":21,
+"order": 239 
+},
+{
+ "children": [
+ {
+ "name": "37-2012.00Maids and Housekeeping Cleaners","cpIndex":22.06666667,
+"order": 490 
+},
+{
+ "name": "37-2011.00Janitors and Cleaners, Except Maids and Housekeeping Cleaners","cpIndex":22,
+"order": 962 
+} 
+],
+"order": 490 
+} 
+],
+"order": 239 
+} 
+],
+"order": 58 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "43-5081.03Stock Clerks- Stockroom, Warehouse, or Storage Yard","cpIndex":27.07142857,
+"order": 178 
+},
+{
+ "name": "39-2021.00Nonfarm Animal Caretakers","cpIndex":28.4,
+"order": 894 
+} 
+],
+"order": 178 
+},
+{
+ "children": [
+ {
+ "name": "43-5081.04Order Fillers, Wholesale and Retail Sales","cpIndex":21.5,
+"order": 732 
+},
+{
+ "name": "43-5081.02Marking Clerks","cpIndex":23.93333333,
+"order": 737 
+} 
+],
+"order": 732 
+} 
+],
+"order": 178 
+} 
+],
+"order": 58 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "37-3011.00Landscaping and Groundskeeping Workers","cpIndex":26.06666667,
+"order": 248 
+},
+{
+ "children": [
+ {
+ "name": "35-2014.00Cooks, Restaurant","cpIndex":28.33333333,
+"order": 458 
+},
+{
+ "name": "51-6041.00Shoe and Leather Workers and Repairers","cpIndex":21.86666667,
+"order": 889 
+} 
+],
+"order": 458 
+} 
+],
+"order": 248 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-9031.00Cutters and Trimmers, Hand","cpIndex":23.26666667,
+"order": 526 
+},
+{
+ "name": "47-5051.00Rock Splitters, Quarry","cpIndex":24.6,
+"order": 817 
+} 
+],
+"order": 526 
+},
+{
+ "name": "51-4071.00Foundry Mold and Coremakers","cpIndex":22.13333333,
+"order": 530 
+} 
+],
+"order": 526 
+},
+{
+ "name": "51-3023.00Slaughterers and Meat Packers","cpIndex":19.86666667,
+"order": 930 
+} 
+],
+"order": 526 
+},
+{
+ "name": "45-2092.01Nursery Workers","cpIndex":24.66666667,
+"order": 702 
+} 
+],
+"order": 526 
+} 
+],
+"order": 248 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-7062.00Laborers and Freight, Stock, and Material Movers, Hand","cpIndex":21.73333333,
+"order": 361 
+},
+{
+ "name": "47-3014.00Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","cpIndex":22.26666667,
+"order": 443 
+} 
+],
+"order": 361 
+},
+{
+ "name": "51-6063.00Textile Knitting and Weaving Machine Setters, Operators, and Tenders","cpIndex":21,
+"order": 838 
+} 
+],
+"order": 361 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-7061.00Cleaners of Vehicles and Equipment","cpIndex":20.53333333,
+"order": 512 
+},
+{
+ "name": "51-9192.00Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","cpIndex":25.33333333,
+"order": 529 
+} 
+],
+"order": 512 
+},
+{
+ "name": "51-6021.00Pressers, Textile, Garment, and Related Materials","cpIndex":19.6,
+"order": 932 
+} 
+],
+"order": 512 
+} 
+],
+"order": 361 
+} 
+],
+"order": 248 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "35-9021.00Dishwashers","cpIndex":19.8,
+"order": 603 
+},
+{
+ "children": [
+ {
+ "name": "43-5053.00Postal Service Mail Sorters, Processors, and Processing Machine Operators","cpIndex":20.93333333,
+"order": 773 
+},
+{
+ "children": [
+ {
+ "name": "51-6031.00Sewing Machine Operators","cpIndex":22.6,
+"order": 864 
+},
+{
+ "name": "43-9051.00Mail Clerks and Mail Machine Operators, Except Postal Service","cpIndex":23,
+"order": 946 
+} 
+],
+"order": 864 
+} 
+],
+"order": 773 
+} 
+],
+"order": 603 
+},
+{
+ "children": [
+ {
+ "name": "51-2021.00Coil Winders, Tapers, and Finishers","cpIndex":23.66666667,
+"order": 692 
+},
+{
+ "name": "51-9198.00Helpers--Production Workers","cpIndex":23.06666667,
+"order": 792 
+} 
+],
+"order": 692 
+} 
+],
+"order": 603 
+} 
+],
+"order": 248 
+} 
+],
+"order": 58 
+} 
+],
+"order": 12 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "41-9011.00Demonstrators and Product Promoters","cpIndex":29.46666667,
+"order": 24 
+},
+{
+ "name": "43-4111.00Interviewers, Except Eligibility and Loan","cpIndex":26.33333333,
+"order": 112 
+} 
+],
+"order": 24 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "41-2021.00Counter and Rental Clerks","cpIndex":26.33333333,
+"order": 26 
+},
+{
+ "name": "43-5051.00Postal Service Clerks","cpIndex":27.73333333,
+"order": 776 
+} 
+],
+"order": 26 
+},
+{
+ "children": [
+ {
+ "name": "43-5111.00Weighers, Measurers, Checkers, and Samplers, Recordkeeping","cpIndex":28.6,
+"order": 766 
+},
+{
+ "name": "43-5071.00Shipping, Receiving, and Traffic Clerks","cpIndex":29.06666667,
+"order": 798 
+} 
+],
+"order": 766 
+} 
+],
+"order": 26 
+} 
+],
+"order": 24 
+},
+{
+ "children": [
+ {
+ "name": "41-9041.00Telemarketers","cpIndex":22.33333333,
+"order": 175 
+},
+{
+ "name": "41-9091.00Door-To-Door Sales Workers, News and Street Vendors, and Related Workers","cpIndex":29.06666667,
+"order": 192 
+} 
+],
+"order": 175 
+} 
+],
+"order": 24 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "41-2011.00Cashiers","cpIndex":24.73333333,
+"order": 77 
+},
+{
+ "name": "39-3012.00Gaming and Sports Book Writers and Runners","cpIndex":25.6,
+"order": 915 
+} 
+],
+"order": 77 
+},
+{
+ "name": "41-2012.00Gaming Change Persons and Booth Cashiers","cpIndex":24.46666667,
+"order": 707 
+} 
+],
+"order": 77 
+},
+{
+ "name": "43-3041.00Gaming Cage Workers","cpIndex":25.8,
+"order": 799 
+} 
+],
+"order": 77 
+},
+{
+ "name": "39-3011.00Gaming Dealers","cpIndex":28.46666667,
+"order": 895 
+} 
+],
+"order": 77 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "35-9031.00Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","cpIndex":24.66666667,
+"order": 85 
+},
+{
+ "name": "35-3022.00Counter Attendants, Cafeteria, Food Concession, and Coffee Shop","cpIndex":24.06666667,
+"order": 491 
+} 
+],
+"order": 85 
+},
+{
+ "name": "43-5081.01Stock Clerks, Sales Floor","cpIndex":26.4,
+"order": 718 
+} 
+],
+"order": 85 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "35-3031.00Waiters and Waitresses","cpIndex":21.66666667,
+"order": 500 
+},
+{
+ "name": "35-3021.00Combined Food Preparation and Serving Workers, Including Fast Food","cpIndex":21.26666667,
+"order": 507 
+} 
+],
+"order": 500 
+},
+{
+ "name": "35-2011.00Cooks, Fast Food","cpIndex":21.4,
+"order": 621 
+} 
+],
+"order": 500 
+} 
+],
+"order": 85 
+} 
+],
+"order": 77 
+} 
+],
+"order": 24 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "39-6011.00Baggage Porters and Bellhops","cpIndex":24.86666667,
+"order": 183 
+},
+{
+ "name": "53-6021.00Parking Lot Attendants","cpIndex":24.66666667,
+"order": 469 
+} 
+],
+"order": 183 
+},
+{
+ "name": "53-3041.00Taxi Drivers and Chauffeurs","cpIndex":28.53333333,
+"order": 881 
+} 
+],
+"order": 183 
+},
+{
+ "children": [
+ {
+ "name": "33-9093.00Transportation Security Screeners","cpIndex":31.66666667,
+"order": 493 
+},
+{
+ "name": "53-6011.00Bridge and Lock Tenders","cpIndex":25.33333333,
+"order": 558 
+} 
+],
+"order": 493 
+} 
+],
+"order": 183 
+},
+{
+ "children": [
+ {
+ "name": "33-3011.00Bailiffs","cpIndex":27.46666667,
+"order": 444 
+},
+{
+ "children": [
+ {
+ "name": "33-3041.00Parking Enforcement Workers","cpIndex":25.46666667,
+"order": 449 
+},
+{
+ "name": "51-6011.00Laundry and Dry-Cleaning Workers","cpIndex":23.2,
+"order": 887 
+} 
+],
+"order": 449 
+} 
+],
+"order": 444 
+} 
+],
+"order": 183 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "39-9021.00Personal Care Aides","cpIndex":28.93333333,
+"order": 434 
+},
+{
+ "name": "31-1014.00Nursing Assistants","cpIndex":30.46666667,
+"order": 475 
+} 
+],
+"order": 434 
+},
+{
+ "name": "31-1011.00Home Health Aides","cpIndex":33.73333333,
+"order": 571 
+} 
+],
+"order": 434 
+},
+{
+ "children": [
+ {
+ "name": "53-3011.00Ambulance Drivers and Attendants, Except Emergency Medical Technicians","cpIndex":35.26666667,
+"order": 511 
+},
+{
+ "name": "53-6061.00Transportation Attendants, Except Flight Attendants","cpIndex":31.93333333,
+"order": 543 
+} 
+],
+"order": 511 
+} 
+],
+"order": 434 
+} 
+],
+"order": 183 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "39-5093.00Shampooers","cpIndex":22.06666667,
+"order": 237 
+},
+{
+ "name": "53-7081.00Refuse and Recyclable Material Collectors","cpIndex":26.46666667,
+"order": 567 
+} 
+],
+"order": 237 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "31-1015.00Orderlies","cpIndex":29,
+"order": 496 
+},
+{
+ "name": "47-3011.00Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","cpIndex":25.86666667,
+"order": 663 
+} 
+],
+"order": 496 
+},
+{
+ "name": "47-2043.00Floor Sanders and Finishers","cpIndex":25.4,
+"order": 691 
+} 
+],
+"order": 496 
+} 
+],
+"order": 237 
+} 
+],
+"order": 183 
+} 
+],
+"order": 24 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "39-3091.00Amusement and Recreation Attendants","cpIndex":24.5,
+"order": 39 
+},
+{
+ "children": [
+ {
+ "name": "39-4021.00Funeral Attendants","cpIndex":26.13333333,
+"order": 432 
+},
+{
+ "name": "31-9095.00Pharmacy Aides","cpIndex":29.66666667,
+"order": 447 
+} 
+],
+"order": 432 
+} 
+],
+"order": 39 
+},
+{
+ "children": [
+ {
+ "name": "43-2021.00Telephone Operators","cpIndex":27.86666667,
+"order": 170 
+},
+{
+ "name": "39-7011.00Tour Guides and Escorts","cpIndex":27.8,
+"order": 654 
+} 
+],
+"order": 170 
+} 
+],
+"order": 39 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "39-5011.00Barbers","cpIndex":28.73333333,
+"order": 247 
+},
+{
+ "name": "39-5092.00Manicurists and Pedicurists","cpIndex":26.13333333,
+"order": 648 
+} 
+],
+"order": 247 
+},
+{
+ "name": "39-3092.00Costume Attendants","cpIndex":25.53333333,
+"order": 429 
+} 
+],
+"order": 247 
+} 
+],
+"order": 39 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "39-5094.00Skincare Specialists","cpIndex":35.13333333,
+"order": 241 
+},
+{
+ "children": [
+ {
+ "name": "35-3011.00Bartenders","cpIndex":32.93333333,
+"order": 502 
+},
+{
+ "name": "41-2031.00Retail Salespersons","cpIndex":33.26666667,
+"order": 921 
+} 
+],
+"order": 502 
+} 
+],
+"order": 241 
+},
+{
+ "name": "27-3012.00Public Address System and Other Announcers","cpIndex":37.26666667,
+"order": 947 
+} 
+],
+"order": 241 
+},
+{
+ "name": "35-2013.00Cooks, Private Household","cpIndex":36.6,
+"order": 898 
+} 
+],
+"order": 241 
+} 
+],
+"order": 39 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-9041.00Teacher Assistants","cpIndex":33.86666667,
+"order": 122 
+},
+{
+ "name": "39-9011.00Childcare Workers","cpIndex":35.4,
+"order": 848 
+} 
+],
+"order": 122 
+},
+{
+ "name": "39-9011.01Nannies","cpIndex":41.6,
+"order": 430 
+} 
+],
+"order": 122 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "39-9031.00Fitness Trainers and Aerobics Instructors","cpIndex":34.4,
+"order": 240 
+},
+{
+ "name": "31-2022.00Physical Therapist Aides","cpIndex":30.8,
+"order": 446 
+} 
+],
+"order": 240 
+},
+{
+ "children": [
+ {
+ "name": "31-2012.00Occupational Therapy Aides","cpIndex":36.86666667,
+"order": 456 
+},
+{
+ "name": "31-1013.00Psychiatric Aides","cpIndex":37.93333333,
+"order": 472 
+} 
+],
+"order": 456 
+} 
+],
+"order": 240 
+},
+{
+ "children": [
+ {
+ "name": "31-9011.00Massage Therapists","cpIndex":33.8,
+"order": 478 
+},
+{
+ "name": "39-2011.00Animal Trainers","cpIndex":42.2,
+"order": 484 
+} 
+],
+"order": 478 
+} 
+],
+"order": 240 
+} 
+],
+"order": 122 
+} 
+],
+"order": 39 
+} 
+],
+"order": 24 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "13-1074.00Farm Labor Contractors","cpIndex":29.21428571,
+"order": 403 
+},
+{
+ "children": [
+ {
+ "name": "35-2015.00Cooks, Short order","cpIndex":27.66666667,
+"order": 897 
+},
+{
+ "name": "51-3011.00Bakers","cpIndex":29.4,
+"order": 920 
+} 
+],
+"order": 897 
+} 
+],
+"order": 403 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-3021.00Butchers and Meat Cutters","cpIndex":26.66666667,
+"order": 657 
+},
+{
+ "name": "51-3022.00Meat, Poultry, and Fish Cutters and Trimmers","cpIndex":21.76923077,
+"order": 928 
+} 
+],
+"order": 657 
+},
+{
+ "name": "51-9123.00Painting, Coating, and Decorating Workers","cpIndex":24.46666667,
+"order": 934 
+} 
+],
+"order": 657 
+} 
+],
+"order": 403 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "33-9032.00Security Guards","cpIndex":29.8,
+"order": 480 
+},
+{
+ "name": "45-4023.00Log Graders and Scalers","cpIndex":35.73333333,
+"order": 711 
+} 
+],
+"order": 480 
+},
+{
+ "children": [
+ {
+ "name": "27-2023.00Umpires, Referees, and Other Sports Officials","cpIndex":34.2,
+"order": 956 
+},
+{
+ "name": "27-2021.00Athletes and Sports Competitors","cpIndex":33.8,
+"order": 959 
+} 
+],
+"order": 956 
+} 
+],
+"order": 480 
+} 
+],
+"order": 403 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "47-2161.00Plasterers and Stucco Masons","cpIndex":30.93333333,
+"order": 528 
+},
+{
+ "name": "35-2012.00Cooks, Institution and Cafeteria","cpIndex":31.13333333,
+"order": 617 
+} 
+],
+"order": 528 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "47-2181.00Roofers","cpIndex":32,
+"order": 667 
+},
+{
+ "name": "47-4091.00Segmental Pavers","cpIndex":32.53333333,
+"order": 858 
+} 
+],
+"order": 667 
+},
+{
+ "name": "47-2044.00Tile and Marble Setters","cpIndex":33.66666667,
+"order": 689 
+} 
+],
+"order": 667 
+} 
+],
+"order": 528 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-9083.00Ophthalmic Laboratory Technicians","cpIndex":30.73333333,
+"order": 644 
+},
+{
+ "name": "51-6093.00Upholsterers","cpIndex":33.66666667,
+"order": 876 
+} 
+],
+"order": 644 
+},
+{
+ "name": "51-9071.06Gem and Diamond Workers","cpIndex":31.93333333,
+"order": 783 
+} 
+],
+"order": 644 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "43-9071.00Office Machine Operators, Except Computer","cpIndex":29.53333333,
+"order": 771 
+},
+{
+ "children": [
+ {
+ "name": "47-2131.00Insulation Workers, Floor, Ceiling, and Wall","cpIndex":26.66666667,
+"order": 914 
+},
+{
+ "name": "51-6042.00Shoe Machine Operators and Tenders","cpIndex":26.06666667,
+"order": 935 
+} 
+],
+"order": 914 
+} 
+],
+"order": 771 
+},
+{
+ "children": [
+ {
+ "name": "51-5113.00Print Binding and Finishing Workers","cpIndex":27,
+"order": 822 
+},
+{
+ "name": "51-9151.00Photographic Process Workers and Processing Machine Operators","cpIndex":30.6,
+"order": 879 
+} 
+],
+"order": 822 
+} 
+],
+"order": 771 
+} 
+],
+"order": 644 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "49-9093.00Fabric Menders, Except Garment","cpIndex":23.8,
+"order": 659 
+},
+{
+ "name": "45-2021.00Animal Breeders","cpIndex":31.06666667,
+"order": 670 
+} 
+],
+"order": 659 
+},
+{
+ "children": [
+ {
+ "name": "51-5111.00Prepress Technicians and Workers","cpIndex":34.46666667,
+"order": 819 
+},
+{
+ "name": "51-9194.00Etchers and Engravers","cpIndex":30.53333333,
+"order": 830 
+} 
+],
+"order": 819 
+} 
+],
+"order": 659 
+} 
+],
+"order": 644 
+} 
+],
+"order": 528 
+},
+{
+ "children": [
+ {
+ "name": "35-3022.01Baristas","cpIndex":38,
+"order": 827 
+},
+{
+ "name": "51-9071.07Precious Metal Workers","cpIndex":34.4,
+"order": 888 
+} 
+],
+"order": 827 
+} 
+],
+"order": 528 
+} 
+],
+"order": 403 
+} 
+],
+"order": 24 
+} 
+],
+"order": 12 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-2051.00Dietetic Technicians","cpIndex":34.26666667,
+"order": 88 
+},
+{
+ "name": "51-2091.00Fiberglass Laminators and Fabricators","cpIndex":33.06666667,
+"order": 941 
+} 
+],
+"order": 88 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-9061.00Inspectors, Testers, Sorters, Samplers, and Weighers","cpIndex":28.46666667,
+"order": 537 
+},
+{
+ "name": "51-3092.00Food Batchmakers","cpIndex":27.46666667,
+"order": 712 
+} 
+],
+"order": 537 
+},
+{
+ "name": "51-3093.00Food Cooking Machine Operators and Tenders","cpIndex":28.66666667,
+"order": 929 
+} 
+],
+"order": 537 
+},
+{
+ "name": "51-2092.00Team Assemblers","cpIndex":29.6,
+"order": 540 
+} 
+],
+"order": 537 
+} 
+],
+"order": 88 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-7051.00Industrial Truck and Tractor Operators","cpIndex":26.6,
+"order": 546 
+},
+{
+ "name": "51-9197.00Tire Builders","cpIndex":24.26666667,
+"order": 875 
+} 
+],
+"order": 546 
+},
+{
+ "name": "51-4193.00Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic","cpIndex":23.6,
+"order": 801 
+} 
+],
+"order": 546 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-7063.00Machine Feeders and Offbearers","cpIndex":26.33333333,
+"order": 553 
+},
+{
+ "name": "51-9199.01Recycling and Reclamation Workers","cpIndex":25.73333333,
+"order": 793 
+} 
+],
+"order": 553 
+},
+{
+ "name": "51-9051.00Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders","cpIndex":28.53333333,
+"order": 632 
+} 
+],
+"order": 553 
+} 
+],
+"order": 546 
+},
+{
+ "children": [
+ {
+ "name": "51-2023.00Electromechanical Equipment Assemblers","cpIndex":28.6,
+"order": 660 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-4022.00Forging Machine Setters, Operators, and Tenders, Metal and Plastic","cpIndex":27.13333333,
+"order": 661 
+},
+{
+ "name": "51-9196.00Paper Goods Machine Setters, Operators, and Tenders","cpIndex":28.53333333,
+"order": 861 
+} 
+],
+"order": 661 
+},
+{
+ "children": [
+ {
+ "name": "51-4122.00Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","cpIndex":26.66666667,
+"order": 796 
+},
+{
+ "name": "51-7042.00Woodworking Machine Setters, Operators, and Tenders, Except Sawing","cpIndex":28.4,
+"order": 873 
+} 
+],
+"order": 796 
+} 
+],
+"order": 661 
+} 
+],
+"order": 660 
+} 
+],
+"order": 546 
+} 
+],
+"order": 88 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-9012.00Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","cpIndex":32.66666667,
+"order": 520 
+},
+{
+ "name": "51-9023.00Mixing and Blending Machine Setters, Operators, and Tenders","cpIndex":30.4,
+"order": 544 
+} 
+],
+"order": 520 
+},
+{
+ "name": "51-9141.00Semiconductor Processors","cpIndex":29.6,
+"order": 828 
+} 
+],
+"order": 520 
+},
+{
+ "name": "51-4051.00Metal-Refining Furnace Operators and Tenders","cpIndex":27.2,
+"order": 724 
+} 
+],
+"order": 520 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-9041.00Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders","cpIndex":29.8,
+"order": 630 
+},
+{
+ "name": "51-4031.00Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic","cpIndex":26.73333333,
+"order": 927 
+} 
+],
+"order": 630 
+},
+{
+ "name": "51-9121.00Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","cpIndex":27.46666667,
+"order": 836 
+} 
+],
+"order": 630 
+},
+{
+ "children": [
+ {
+ "name": "51-4191.00Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","cpIndex":28.46666667,
+"order": 865 
+},
+{
+ "name": "51-6061.00Textile Bleaching and Dyeing Machine Operators and Tenders","cpIndex":27.73333333,
+"order": 878 
+} 
+],
+"order": 865 
+} 
+],
+"order": 630 
+},
+{
+ "name": "51-9022.00Grinding and Polishing Workers, Hand","cpIndex":31.21428571,
+"order": 936 
+} 
+],
+"order": 630 
+} 
+],
+"order": 520 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-4023.00Rolling Machine Setters, Operators, and Tenders, Metal and Plastic","cpIndex":31.93333333,
+"order": 763 
+},
+{
+ "name": "51-4033.00Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","cpIndex":32.46666667,
+"order": 779 
+} 
+],
+"order": 763 
+},
+{
+ "name": "51-6091.00Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","cpIndex":30.6,
+"order": 805 
+} 
+],
+"order": 763 
+},
+{
+ "name": "51-4194.00Tool Grinders, Filers, and Sharpeners","cpIndex":31.13333333,
+"order": 886 
+} 
+],
+"order": 763 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-6062.00Textile Cutting Machine Setters, Operators, and Tenders","cpIndex":29.8,
+"order": 823 
+},
+{
+ "name": "51-9191.00Adhesive Bonding Machine Operators and Tenders","cpIndex":29.46666667,
+"order": 933 
+} 
+],
+"order": 823 
+},
+{
+ "name": "51-5112.00Printing Press Operators","cpIndex":33.73333333,
+"order": 846 
+} 
+],
+"order": 823 
+} 
+],
+"order": 763 
+} 
+],
+"order": 520 
+} 
+],
+"order": 88 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-7041.00Hoist and Winch Operators","cpIndex":31.06666667,
+"order": 474 
+},
+{
+ "name": "47-5042.00Mine Cutting and Channeling Machine Operators","cpIndex":30.73333333,
+"order": 698 
+} 
+],
+"order": 474 
+},
+{
+ "name": "47-5061.00Roof Bolters, Mining","cpIndex":28.8,
+"order": 841 
+} 
+],
+"order": 474 
+},
+{
+ "name": "37-3013.00Tree Trimmers and Pruners","cpIndex":33.26666667,
+"order": 486 
+} 
+],
+"order": 474 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "37-3012.00Pesticide Handlers, Sprayers, and Applicators, Vegetation","cpIndex":30.26666667,
+"order": 485 
+},
+{
+ "name": "49-3093.00Tire Repairers and Changers","cpIndex":27.86666667,
+"order": 852 
+} 
+],
+"order": 485 
+},
+{
+ "name": "49-3022.00Automotive Glass Installers and Repairers","cpIndex":28.8,
+"order": 772 
+} 
+],
+"order": 485 
+} 
+],
+"order": 474 
+},
+{
+ "children": [
+ {
+ "name": "45-3021.00Hunters and Trappers","cpIndex":37.33333333,
+"order": 680 
+},
+{
+ "name": "51-9122.00Painters, Transportation Equipment","cpIndex":32.33333333,
+"order": 704 
+} 
+],
+"order": 680 
+} 
+],
+"order": 474 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-7033.00Loading Machine Operators, Underground Mining","cpIndex":22.33333333,
+"order": 542 
+},
+{
+ "name": "53-7031.00Dredge Operators","cpIndex":24.73333333,
+"order": 556 
+} 
+],
+"order": 542 
+},
+{
+ "name": "45-2091.00Agricultural Equipment Operators","cpIndex":26.13333333,
+"order": 671 
+} 
+],
+"order": 542 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-7021.00Crane and Tower Operators","cpIndex":26.46666667,
+"order": 551 
+},
+{
+ "children": [
+ {
+ "name": "45-4022.00Logging Equipment Operators","cpIndex":26.53333333,
+"order": 682 
+},
+{
+ "name": "49-9098.00Helpers--Installation, Maintenance, and Repair Workers","cpIndex":28.13333333,
+"order": 784 
+} 
+],
+"order": 682 
+} 
+],
+"order": 551 
+},
+{
+ "children": [
+ {
+ "name": "49-3021.00Automotive Body and Related Repairers","cpIndex":29.86666667,
+"order": 755 
+},
+{
+ "children": [
+ {
+ "name": "45-3011.00Fishers and Related Fishing Workers","cpIndex":28.06666667,
+"order": 777 
+},
+{
+ "name": "49-9045.00Refractory Materials Repairers, Except Brickmasons","cpIndex":28.66666667,
+"order": 850 
+} 
+],
+"order": 777 
+} 
+],
+"order": 755 
+} 
+],
+"order": 551 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-7032.00Excavating and Loading Machine and Dragline Operators","cpIndex":32.06666667,
+"order": 589 
+},
+{
+ "name": "47-4061.00Rail-Track Laying and Maintenance Equipment Operators","cpIndex":29.2,
+"order": 972 
+} 
+],
+"order": 589 
+},
+{
+ "name": "47-2073.00Operating Engineers and Other Construction Equipment Operators","cpIndex":29.2,
+"order": 901 
+} 
+],
+"order": 589 
+},
+{
+ "children": [
+ {
+ "name": "49-3043.00Rail Car Repairers","cpIndex":29.53333333,
+"order": 713 
+},
+{
+ "name": "47-5081.00Helpers--Extraction Workers","cpIndex":32.46666667,
+"order": 807 
+} 
+],
+"order": 713 
+} 
+],
+"order": 589 
+} 
+],
+"order": 551 
+} 
+],
+"order": 542 
+} 
+],
+"order": 474 
+} 
+],
+"order": 88 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "39-3021.00Motion Picture Projectionists","cpIndex":25.06666667,
+"order": 91 
+},
+{
+ "children": [
+ {
+ "name": "53-6031.00Automotive and Watercraft Service Attendants","cpIndex":24.4,
+"order": 536 
+},
+{
+ "name": "53-3033.00Light Truck or Delivery Services Drivers","cpIndex":24.26666667,
+"order": 824 
+} 
+],
+"order": 536 
+} 
+],
+"order": 91 
+},
+{
+ "name": "53-7111.00Mine Shuttle Car Operators","cpIndex":22.85714286,
+"order": 539 
+} 
+],
+"order": 91 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "47-2151.00Pipelayers","cpIndex":28.33333333,
+"order": 653 
+},
+{
+ "name": "47-5071.00Roustabouts, Oil and Gas","cpIndex":25.8,
+"order": 790 
+} 
+],
+"order": 653 
+},
+{
+ "children": [
+ {
+ "name": "45-2093.00Farmworkers, Farm, Ranch, and Aquacultural Animals","cpIndex":29.33333333,
+"order": 715 
+},
+{
+ "children": [
+ {
+ "name": "47-4031.00Fence Erectors","cpIndex":26.4,
+"order": 721 
+},
+{
+ "name": "43-5041.00Meter Readers, Utilities","cpIndex":27.46666667,
+"order": 917 
+} 
+],
+"order": 721 
+} 
+],
+"order": 715 
+} 
+],
+"order": 653 
+} 
+],
+"order": 91 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-9032.00Cutting and Slicing Machine Setters, Operators, and Tenders","cpIndex":31,
+"order": 527 
+},
+{
+ "name": "51-9195.07Molding and Casting Workers","cpIndex":26.66666667,
+"order": 723 
+} 
+],
+"order": 527 
+},
+{
+ "children": [
+ {
+ "name": "51-2022.00Electrical and Electronic Equipment Assemblers","cpIndex":28.2,
+"order": 725 
+},
+{
+ "name": "51-4121.07Solderers and Brazers","cpIndex":26.33333333,
+"order": 797 
+} 
+],
+"order": 725 
+} 
+],
+"order": 527 
+},
+{
+ "children": [
+ {
+ "name": "45-4021.00Fallers","cpIndex":26.86666667,
+"order": 800 
+},
+{
+ "children": [
+ {
+ "name": "51-9111.00Packaging and Filling Machine Operators and Tenders","cpIndex":26.86666667,
+"order": 829 
+},
+{
+ "name": "51-7041.00Sawing Machine Setters, Operators, and Tenders, Wood","cpIndex":26.4,
+"order": 834 
+} 
+],
+"order": 829 
+} 
+],
+"order": 800 
+} 
+],
+"order": 527 
+} 
+],
+"order": 91 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-3091.00Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders","cpIndex":24.4,
+"order": 683 
+},
+{
+ "children": [
+ {
+ "name": "45-2092.02Farmworkers and Laborers, Crop","cpIndex":21.57142857,
+"order": 703 
+},
+{
+ "name": "51-4052.00Pourers and Casters, Metal","cpIndex":22.2,
+"order": 722 
+} 
+],
+"order": 703 
+} 
+],
+"order": 683 
+},
+{
+ "name": "51-4072.00Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic","cpIndex":22.86666667,
+"order": 754 
+} 
+],
+"order": 683 
+},
+{
+ "children": [
+ {
+ "name": "51-6064.00Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","cpIndex":27.4,
+"order": 802 
+},
+{
+ "name": "51-7021.00Furniture Finishers","cpIndex":27.14285714,
+"order": 860 
+} 
+],
+"order": 802 
+} 
+],
+"order": 683 
+} 
+],
+"order": 91 
+} 
+],
+"order": 88 
+} 
+],
+"order": 12 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-3024.00Electro-Mechanical Technicians","cpIndex":40.54545455,
+"order": 20 
+},
+{
+ "children": [
+ {
+ "name": "49-2091.00Avionics Technicians","cpIndex":38.93333333,
+"order": 768 
+},
+{
+ "children": [
+ {
+ "name": "49-9061.00Camera and Photographic Equipment Repairers","cpIndex":37.26666667,
+"order": 923 
+},
+{
+ "name": "49-9062.00Medical Equipment Repairers","cpIndex":41.66666667,
+"order": 938 
+} 
+],
+"order": 923 
+} 
+],
+"order": 768 
+} 
+],
+"order": 20 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-3029.09Manufacturing Production Technicians","cpIndex":39.73333333,
+"order": 573 
+},
+{
+ "name": "51-4011.00Computer-Controlled Machine Tool Operators, Metal and Plastic","cpIndex":37.66666667,
+"order": 726 
+} 
+],
+"order": 573 
+},
+{
+ "children": [
+ {
+ "name": "49-2096.00Electronic Equipment Installers and Repairers, Motor Vehicles","cpIndex":38.66666667,
+"order": 769 
+},
+{
+ "name": "47-5013.00Service Unit Operators, Oil, Gas, and Mining","cpIndex":36.4,
+"order": 806 
+} 
+],
+"order": 769 
+} 
+],
+"order": 573 
+} 
+],
+"order": 20 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "49-3052.00Motorcycle Mechanics","cpIndex":37.53333333,
+"order": 243 
+},
+{
+ "children": [
+ {
+ "name": "49-3023.01Automotive Master Mechanics","cpIndex":39.86666667,
+"order": 759 
+},
+{
+ "name": "49-3042.00Mobile Heavy Equipment Mechanics, Except Engines","cpIndex":36.66666667,
+"order": 775 
+} 
+],
+"order": 759 
+} 
+],
+"order": 243 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "49-3031.00Bus and Truck Mechanics and Diesel Engine Specialists","cpIndex":35.46666667,
+"order": 739 
+},
+{
+ "name": "49-3053.00Outdoor Power Equipment and Other Small Engine Mechanics","cpIndex":36.26666667,
+"order": 847 
+} 
+],
+"order": 739 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "49-3023.02Automotive Specialty Technicians","cpIndex":35.06666667,
+"order": 764 
+},
+{
+ "name": "49-3051.00Motorboat Mechanics and Service Technicians","cpIndex":35.86666667,
+"order": 782 
+} 
+],
+"order": 764 
+},
+{
+ "name": "49-3041.00Farm Equipment Mechanics and Service Technicians","cpIndex":37.33333333,
+"order": 765 
+} 
+],
+"order": 764 
+} 
+],
+"order": 739 
+} 
+],
+"order": 243 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-3051.05Methane/Landfill Gas Collection System Operators","cpIndex":52,
+"order": 629 
+},
+{
+ "name": "49-3011.00Aircraft Mechanics and Service Technicians","cpIndex":43.13333333,
+"order": 733 
+} 
+],
+"order": 629 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "49-9099.01Geothermal Technicians","cpIndex":37.6,
+"order": 818 
+},
+{
+ "name": "47-4099.02Solar Thermal Installers and Technicians","cpIndex":43,
+"order": 918 
+} 
+],
+"order": 818 
+},
+{
+ "name": "49-9081.00Wind Turbine Service Technicians","cpIndex":36.93333333,
+"order": 842 
+} 
+],
+"order": 818 
+},
+{
+ "name": "49-9097.00Signal and Track Switch Repairers","cpIndex":35.93333333,
+"order": 872 
+} 
+],
+"order": 818 
+} 
+],
+"order": 629 
+} 
+],
+"order": 243 
+} 
+],
+"order": 20 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-5031.00Ship Engineers","cpIndex":42.93333333,
+"order": 333 
+},
+{
+ "name": "49-2095.00Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","cpIndex":39.2,
+"order": 752 
+} 
+],
+"order": 333 
+},
+{
+ "children": [
+ {
+ "name": "49-9095.00Manufactured Building and Mobile Home Installers","cpIndex":43.13333333,
+"order": 664 
+},
+{
+ "children": [
+ {
+ "name": "49-9092.00Commercial Divers","cpIndex":44.2,
+"order": 795 
+},
+{
+ "name": "49-9021.02Refrigeration Mechanics and Installers","cpIndex":42.66666667,
+"order": 849 
+} 
+],
+"order": 795 
+} 
+],
+"order": 664 
+} 
+],
+"order": 333 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "49-9041.00Industrial Machinery Mechanics","cpIndex":35.8,
+"order": 710 
+},
+{
+ "children": [
+ {
+ "name": "49-9043.00Maintenance Workers, Machinery","cpIndex":34.8,
+"order": 717 
+},
+{
+ "name": "49-9044.00Millwrights","cpIndex":41.06666667,
+"order": 719 
+} 
+],
+"order": 717 
+} 
+],
+"order": 710 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "47-2152.02Plumbers","cpIndex":37.4,
+"order": 781 
+},
+{
+ "name": "47-2111.00Electricians","cpIndex":42,
+"order": 903 
+} 
+],
+"order": 781 
+},
+{
+ "children": [
+ {
+ "name": "49-9021.01Heating and Air Conditioning Mechanics and Installers","cpIndex":41.13333333,
+"order": 854 
+},
+{
+ "name": "47-4021.00Elevator Installers and Repairers","cpIndex":41.53333333,
+"order": 973 
+} 
+],
+"order": 854 
+} 
+],
+"order": 781 
+} 
+],
+"order": 710 
+} 
+],
+"order": 333 
+} 
+],
+"order": 20 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-1011.00Aircraft Cargo Handling Supervisors","cpIndex":39.86666667,
+"order": 67 
+},
+{
+ "name": "33-3052.00Transit and Railroad Police","cpIndex":39,
+"order": 419 
+} 
+],
+"order": 67 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-4093.00Forest and Conservation Technicians","cpIndex":40.26666667,
+"order": 80 
+},
+{
+ "name": "45-4011.00Forest and Conservation Workers","cpIndex":37.53333333,
+"order": 681 
+} 
+],
+"order": 80 
+},
+{
+ "children": [
+ {
+ "name": "53-5022.00Motorboat Operators","cpIndex":35.26666667,
+"order": 559 
+},
+{
+ "name": "53-7121.00Tank Car, Truck, and Ship Loaders","cpIndex":34.2,
+"order": 566 
+} 
+],
+"order": 559 
+} 
+],
+"order": 80 
+} 
+],
+"order": 67 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "37-1012.00First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","cpIndex":37.86666667,
+"order": 441 
+},
+{
+ "name": "47-1011.00First-Line Supervisors of Construction Trades and Extraction Workers","cpIndex":41.46666667,
+"order": 705 
+} 
+],
+"order": 441 
+},
+{
+ "name": "37-2021.00Pest Control Workers","cpIndex":40.2,
+"order": 492 
+} 
+],
+"order": 441 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "45-1011.08First-Line Supervisors of Animal Husbandry and Animal Care Workers","cpIndex":44.4,
+"order": 672 
+},
+{
+ "children": [
+ {
+ "name": "45-1011.05First-Line Supervisors of Logging Workers","cpIndex":41.93333333,
+"order": 700 
+},
+{
+ "name": "51-1011.00First-Line Supervisors of Production and Operating Workers","cpIndex":42.86666667,
+"order": 862 
+} 
+],
+"order": 700 
+} 
+],
+"order": 672 
+},
+{
+ "name": "45-1011.07First-Line Supervisors of Agricultural Crop and Horticultural Workers","cpIndex":39.4,
+"order": 693 
+} 
+],
+"order": 672 
+} 
+],
+"order": 441 
+} 
+],
+"order": 67 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-4011.00Locomotive Engineers","cpIndex":30.53333333,
+"order": 655 
+},
+{
+ "name": "53-4031.00Railroad Conductors and Yardmasters","cpIndex":35.93333333,
+"order": 871 
+} 
+],
+"order": 655 
+},
+{
+ "name": "53-5021.02Mates- Ship, Boat, and Barge","cpIndex":35.26666667,
+"order": 688 
+} 
+],
+"order": 655 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-3032.00Heavy and Tractor-Trailer Truck Drivers","cpIndex":31.66666667,
+"order": 714 
+},
+{
+ "name": "53-4012.00Locomotive Firers","cpIndex":29.66666667,
+"order": 774 
+} 
+],
+"order": 714 
+},
+{
+ "name": "53-4013.00Rail Yard Engineers, Dinkey Operators, and Hostlers","cpIndex":34,
+"order": 867 
+} 
+],
+"order": 714 
+},
+{
+ "name": "53-4041.00Subway and Streetcar Operators","cpIndex":29.06666667,
+"order": 826 
+} 
+],
+"order": 714 
+} 
+],
+"order": 655 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-3022.00Bus Drivers, School or Special Client","cpIndex":27.26666667,
+"order": 677 
+},
+{
+ "name": "53-3021.00Bus Drivers, Transit and Intercity","cpIndex":28.8,
+"order": 695 
+} 
+],
+"order": 677 
+},
+{
+ "name": "53-4021.00Railroad Brake, Signal, and Switch Operators","cpIndex":29.4,
+"order": 840 
+} 
+],
+"order": 677 
+} 
+],
+"order": 655 
+} 
+],
+"order": 67 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-2052.00Pharmacy Technicians","cpIndex":32.2,
+"order": 97 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-3029.12Nanotechnology Engineering Technicians","cpIndex":43,
+"order": 464 
+},
+{
+ "name": "51-8099.02Methane/Landfill Gas Generation System Technicians","cpIndex":43,
+"order": 554 
+} 
+],
+"order": 464 
+},
+{
+ "name": "51-8099.04Hydroelectric Plant Technicians","cpIndex":43,
+"order": 919 
+} 
+],
+"order": 464 
+},
+{
+ "name": "31-9092.00Medical Assistants","cpIndex":37.66666667,
+"order": 470 
+} 
+],
+"order": 464 
+} 
+],
+"order": 97 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-2099.07Surgical Assistants","cpIndex":38,
+"order": 488 
+},
+{
+ "name": "17-3029.10Fuel Cell Technicians","cpIndex":38,
+"order": 940 
+} 
+],
+"order": 488 
+},
+{
+ "name": "51-9021.00Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","cpIndex":31.86666667,
+"order": 521 
+} 
+],
+"order": 488 
+},
+{
+ "name": "53-5011.00Sailors and Marine Oilers","cpIndex":30.66666667,
+"order": 877 
+} 
+],
+"order": 488 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-8099.03Biomass Plant Technicians","cpIndex":34.73333333,
+"order": 656 
+},
+{
+ "name": "51-8099.01Biofuels Processing Technicians","cpIndex":38,
+"order": 905 
+} 
+],
+"order": 656 
+},
+{
+ "name": "49-2093.00Electrical and Electronics Installers and Repairers, Transportation Equipment","cpIndex":31.73333333,
+"order": 869 
+} 
+],
+"order": 656 
+} 
+],
+"order": 488 
+},
+{
+ "name": "47-5041.00Continuous Mining Machine Operators","cpIndex":30,
+"order": 786 
+} 
+],
+"order": 488 
+} 
+],
+"order": 97 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-4081.00Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic","cpIndex":31.73333333,
+"order": 442 
+},
+{
+ "name": "51-4035.00Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","cpIndex":30.6,
+"order": 874 
+} 
+],
+"order": 442 
+},
+{
+ "name": "51-2093.00Timing Device Assemblers and Adjusters","cpIndex":29.2,
+"order": 904 
+} 
+],
+"order": 442 
+},
+{
+ "name": "51-7011.00Cabinetmakers and Bench Carpenters","cpIndex":28.73333333,
+"order": 857 
+} 
+],
+"order": 442 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "47-2211.00Sheet Metal Workers","cpIndex":33.13333333,
+"order": 499 
+},
+{
+ "name": "51-4121.06Welders, Cutters, and Welder Fitters","cpIndex":32.53333333,
+"order": 789 
+} 
+],
+"order": 499 
+},
+{
+ "name": "51-2031.00Engine and Other Machine Assemblers","cpIndex":31.4,
+"order": 623 
+} 
+],
+"order": 499 
+} 
+],
+"order": 442 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-4041.00Machinists","cpIndex":33.66666667,
+"order": 531 
+},
+{
+ "name": "51-4032.00Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic","cpIndex":30.86666667,
+"order": 665 
+} 
+],
+"order": 531 
+},
+{
+ "name": "51-4034.00Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","cpIndex":29.33333333,
+"order": 662 
+} 
+],
+"order": 531 
+},
+{
+ "name": "51-4061.00Model Makers, Metal and Plastic","cpIndex":30.86666667,
+"order": 931 
+} 
+],
+"order": 531 
+} 
+],
+"order": 442 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-9081.00Dental Laboratory Technicians","cpIndex":35.66666667,
+"order": 522 
+},
+{
+ "name": "51-9082.00Medical Appliance Technicians","cpIndex":41.46666667,
+"order": 626 
+} 
+],
+"order": 522 
+},
+{
+ "children": [
+ {
+ "name": "49-9063.00Musical Instrument Repairers and Tuners","cpIndex":40.6,
+"order": 716 
+},
+{
+ "name": "51-9195.04Glass Blowers, Molders, Benders, and Finishers","cpIndex":35.66666667,
+"order": 794 
+} 
+],
+"order": 716 
+} 
+],
+"order": 522 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-4062.00Patternmakers, Metal and Plastic","cpIndex":35.6,
+"order": 742 
+},
+{
+ "name": "51-7032.00Patternmakers, Wood","cpIndex":31.6,
+"order": 820 
+} 
+],
+"order": 742 
+},
+{
+ "name": "51-4111.00Tool and Die Makers","cpIndex":39.33333333,
+"order": 788 
+} 
+],
+"order": 742 
+},
+{
+ "name": "51-7031.00Model Makers, Wood","cpIndex":39.73333333,
+"order": 859 
+} 
+],
+"order": 742 
+} 
+],
+"order": 522 
+} 
+],
+"order": 442 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-6051.07Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","cpIndex":30.8,
+"order": 468 
+},
+{
+ "name": "49-9012.00Control and Valve Installers and Repairers, Except Mechanical Door","cpIndex":31.46666667,
+"order": 937 
+} 
+],
+"order": 468 
+},
+{
+ "children": [
+ {
+ "name": "53-7072.00Pump Operators, Except Wellhead Pumpers","cpIndex":31,
+"order": 538 
+},
+{
+ "children": [
+ {
+ "name": "53-7073.00Wellhead Pumpers","cpIndex":29.4,
+"order": 594 
+},
+{
+ "name": "47-5011.00Derrick Operators, Oil and Gas","cpIndex":31.2,
+"order": 967 
+} 
+],
+"order": 594 
+} 
+],
+"order": 538 
+} 
+],
+"order": 468 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-9193.00Cooling and Freezing Equipment Operators and Tenders","cpIndex":35.46666667,
+"order": 513 
+},
+{
+ "name": "51-8021.00Stationary Engineers and Boiler Operators","cpIndex":36.66666667,
+"order": 541 
+} 
+],
+"order": 513 
+},
+{
+ "name": "47-5021.00Earth Drillers, Except Oil and Gas","cpIndex":32.93333333,
+"order": 804 
+} 
+],
+"order": 513 
+} 
+],
+"order": 468 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-8093.00Petroleum Pump System Operators, Refinery Operators, and Gaugers","cpIndex":40.13333333,
+"order": 504 
+},
+{
+ "children": [
+ {
+ "name": "51-9011.00Chemical Equipment Operators and Tenders","cpIndex":35.66666667,
+"order": 515 
+},
+{
+ "name": "51-8013.00Power Plant Operators","cpIndex":36.4,
+"order": 581 
+} 
+],
+"order": 515 
+} 
+],
+"order": 504 
+},
+{
+ "children": [
+ {
+ "name": "47-4041.00Hazardous Materials Removal Workers","cpIndex":39.26666667,
+"order": 734 
+},
+{
+ "name": "47-5012.00Rotary Drill Operators, Oil and Gas","cpIndex":37.4,
+"order": 811 
+} 
+],
+"order": 734 
+} 
+],
+"order": 504 
+} 
+],
+"order": 468 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-4051.01Nuclear Equipment Operation Technicians","cpIndex":35.86666667,
+"order": 487 
+},
+{
+ "name": "51-8011.00Nuclear Power Reactor Operators","cpIndex":40.8,
+"order": 803 
+} 
+],
+"order": 487 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-7011.00Conveyor Operators and Tenders","cpIndex":33.86666667,
+"order": 548 
+},
+{
+ "name": "51-8031.00Water and Wastewater Treatment Plant and System Operators","cpIndex":36.46666667,
+"order": 625 
+} 
+],
+"order": 548 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "53-7071.00Gas Compressor and Gas Pumping Station Operators","cpIndex":34,
+"order": 570 
+},
+{
+ "name": "51-8092.00Gas Plant Operators","cpIndex":38.13333333,
+"order": 902 
+} 
+],
+"order": 570 
+},
+{
+ "name": "51-8091.00Chemical Plant and System Operators","cpIndex":38.2,
+"order": 620 
+} 
+],
+"order": 570 
+} 
+],
+"order": 548 
+} 
+],
+"order": 487 
+} 
+],
+"order": 468 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "49-9052.00Telecommunications Line Installers and Repairers","cpIndex":34.8,
+"order": 756 
+},
+{
+ "name": "49-2098.00Security and Fire Alarm Systems Installers","cpIndex":34.6,
+"order": 770 
+} 
+],
+"order": 756 
+},
+{
+ "children": [
+ {
+ "name": "49-9094.00Locksmiths and Safe Repairers","cpIndex":35.33333333,
+"order": 810 
+},
+{
+ "children": [
+ {
+ "name": "51-2011.00Aircraft Structure, Surfaces, Rigging, and Systems Assemblers","cpIndex":34.46666667,
+"order": 885 
+},
+{
+ "name": "47-4071.00Septic Tank Servicers and Sewer Pipe Cleaners","cpIndex":35.4,
+"order": 912 
+} 
+],
+"order": 885 
+} 
+],
+"order": 810 
+} 
+],
+"order": 756 
+},
+{
+ "children": [
+ {
+ "name": "49-9091.00Coin, Vending, and Amusement Machine Servicers and Repairers","cpIndex":37,
+"order": 814 
+},
+{
+ "children": [
+ {
+ "name": "49-9031.00Home Appliance Repairers","cpIndex":36.6,
+"order": 856 
+},
+{
+ "name": "49-9051.00Electrical Power-Line Installers and Repairers","cpIndex":40.2,
+"order": 880 
+} 
+],
+"order": 856 
+} 
+],
+"order": 814 
+} 
+],
+"order": 756 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "49-9071.00Maintenance and Repair Workers, General","cpIndex":32.6,
+"order": 837 
+},
+{
+ "name": "49-3092.00Recreational Vehicle Service Technicians","cpIndex":35.86666667,
+"order": 926 
+} 
+],
+"order": 837 
+},
+{
+ "children": [
+ {
+ "name": "49-9011.00Mechanical Door Repairers","cpIndex":34,
+"order": 853 
+},
+{
+ "name": "49-2092.00Electric Motor, Power Tool, and Related Repairers","cpIndex":35.66666667,
+"order": 883 
+} 
+],
+"order": 853 
+} 
+],
+"order": 837 
+},
+{
+ "children": [
+ {
+ "name": "49-3091.00Bicycle Repairers","cpIndex":33.4,
+"order": 851 
+},
+{
+ "name": "49-9064.00Watch Repairers","cpIndex":34.4,
+"order": 939 
+} 
+],
+"order": 851 
+} 
+],
+"order": 837 
+} 
+],
+"order": 756 
+} 
+],
+"order": 468 
+} 
+],
+"order": 442 
+} 
+],
+"order": 97 
+} 
+],
+"order": 67 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "47-2231.00Solar Photovoltaic Installers","cpIndex":35,
+"order": 249 
+},
+{
+ "children": [
+ {
+ "name": "47-2152.01Pipe Fitters and Steamfitters","cpIndex":38.06666667,
+"order": 650 
+},
+{
+ "name": "47-2011.00Boilermakers","cpIndex":36.33333333,
+"order": 696 
+} 
+],
+"order": 650 
+} 
+],
+"order": 249 
+},
+{
+ "name": "47-2221.00Structural Iron and Steel Workers","cpIndex":34.66666667,
+"order": 890 
+} 
+],
+"order": 249 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "47-2031.02Rough Carpenters","cpIndex":35.8,
+"order": 674 
+},
+{
+ "name": "47-2021.00Brickmasons and Blockmasons","cpIndex":31.93333333,
+"order": 685 
+} 
+],
+"order": 674 
+},
+{
+ "children": [
+ {
+ "name": "47-2031.01Construction Carpenters","cpIndex":33.6,
+"order": 678 
+},
+{
+ "name": "47-2081.00Drywall and Ceiling Tile Installers","cpIndex":33.4,
+"order": 911 
+} 
+],
+"order": 678 
+} 
+],
+"order": 674 
+},
+{
+ "children": [
+ {
+ "name": "47-2022.00Stonemasons","cpIndex":34.33333333,
+"order": 687 
+},
+{
+ "name": "47-3012.00Helpers--Carpenters","cpIndex":31.13333333,
+"order": 916 
+} 
+],
+"order": 687 
+} 
+],
+"order": 674 
+} 
+],
+"order": 249 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "47-3015.00Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","cpIndex":30.46666667,
+"order": 471 
+},
+{
+ "name": "47-3016.00Helpers--Roofers","cpIndex":29.2,
+"order": 974 
+} 
+],
+"order": 471 
+},
+{
+ "children": [
+ {
+ "name": "47-2171.00Reinforcing Iron and Rebar Workers","cpIndex":28.26666667,
+"order": 525 
+},
+{
+ "children": [
+ {
+ "name": "47-2121.00Glaziers","cpIndex":28.66666667,
+"order": 907 
+},
+{
+ "name": "47-2082.00Tapers","cpIndex":27.92857143,
+"order": 908 
+} 
+],
+"order": 907 
+} 
+],
+"order": 525 
+} 
+],
+"order": 471 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "47-2142.00Paperhangers","cpIndex":25.73333333,
+"order": 652 
+},
+{
+ "name": "47-2141.00Painters, Construction and Maintenance","cpIndex":30,
+"order": 910 
+} 
+],
+"order": 652 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "47-2053.00Terrazzo Workers and Finishers","cpIndex":27.2,
+"order": 675 
+},
+{
+ "name": "47-2041.00Carpet Installers","cpIndex":30.53333333,
+"order": 679 
+} 
+],
+"order": 675 
+},
+{
+ "name": "47-2051.00Cement Masons and Concrete Finishers","cpIndex":30.53333333,
+"order": 821 
+} 
+],
+"order": 675 
+} 
+],
+"order": 652 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "47-2042.00Floor Layers, Except Carpet, Wood, and Hard Tiles","cpIndex":30.86666667,
+"order": 690 
+},
+{
+ "name": "51-2041.00Structural Metal Fabricators and Fitters","cpIndex":26.13333333,
+"order": 709 
+} 
+],
+"order": 690 
+},
+{
+ "name": "51-4192.00Layout Workers, Metal and Plastic","cpIndex":33.4,
+"order": 785 
+} 
+],
+"order": 690 
+},
+{
+ "name": "47-2132.00Insulation Workers, Mechanical","cpIndex":35.13333333,
+"order": 906 
+} 
+],
+"order": 690 
+} 
+],
+"order": 652 
+} 
+],
+"order": 471 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "51-4021.00Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic","cpIndex":28.86666667,
+"order": 741 
+},
+{
+ "children": [
+ {
+ "name": "47-4051.00Highway Maintenance Workers","cpIndex":30.73333333,
+"order": 855 
+},
+{
+ "name": "47-2072.00Pile-Driver Operators","cpIndex":28,
+"order": 900 
+} 
+],
+"order": 855 
+} 
+],
+"order": 741 
+},
+{
+ "children": [
+ {
+ "name": "47-2061.00Construction Laborers","cpIndex":26.46666667,
+"order": 787 
+},
+{
+ "name": "47-2071.00Paving, Surfacing, and Tamping Equipment Operators","cpIndex":28.53333333,
+"order": 909 
+} 
+],
+"order": 787 
+} 
+],
+"order": 741 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "49-9096.00Riggers","cpIndex":32.13333333,
+"order": 845 
+},
+{
+ "name": "47-4099.03Weatherization Installers and Technicians","cpIndex":33.66666667,
+"order": 961 
+} 
+],
+"order": 845 
+},
+{
+ "name": "47-3013.00Helpers--Electricians","cpIndex":28.53333333,
+"order": 942 
+} 
+],
+"order": 845 
+} 
+],
+"order": 741 
+} 
+],
+"order": 471 
+} 
+],
+"order": 249 
+} 
+],
+"order": 67 
+} 
+],
+"order": 20 
+} 
+],
+"order": 12 
+} 
+],
+"order": 10 
+} 
+],
+"order": 1 
+}
