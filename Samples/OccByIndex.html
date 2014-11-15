@@ -6,8 +6,15 @@
 	
 	<style>
 		#title {font-family: sans-serif;}
-		.bar.creative { fill: steelblue; }
-		.bar.probsolv { fill: red; }
+		.bar.creative { 
+			fill: steelblue; 
+			opacity:0.9;
+		}
+		
+		.bar.probsolv { 
+			fill: red; 
+			opacity:0.9;
+		}
 		.axis text {
 		  font: 10px sans-serif;
 		}
@@ -26,6 +33,12 @@
 		  stroke: lightgrey;
 		  shape-rendering: crispEdges;
 		}
+		
+		.line.one {
+		  fill: none;
+		  stroke: grey;
+		  shape-rendering: crispEdges;
+		}
 		#creative { 
 			background-color: steelblue; 
 			font: 12px sans-serif;
@@ -34,6 +47,7 @@
 			width:400px;
 			padding:6px;
 			margin-bottom:2px;
+			opacity:0.8;
 			}
 		#probsolve { 
 			background-color: red; 
@@ -43,6 +57,7 @@
 			width:400px;
 			padding:6px;
 			margin-bottom:2px;
+			opacity:0.8;
 			}
 		#threshold { 
 			background-color: lightgrey;
@@ -126,6 +141,48 @@ d3.json("KSA_v8Short.json", function(json) {
     .append("line")
       .attr("x1", x(0))
       .attr("x2", x(0))
+      .attr("y2", height);
+	
+	svg.append("g") 
+	.attr("class", "line zero")
+    .append("line")
+      .attr("x1", x(-1))
+      .attr("x2", x(-1))
+      .attr("y2", height);
+	  
+	svg.append("g") 
+	.attr("class", "line zero")
+    .append("line")
+      .attr("x1", x(-2))
+      .attr("x2", x(-2))
+      .attr("y2", height);
+	  
+	svg.append("g") 
+	.attr("class", "line one")
+    .append("line")
+      .attr("x1", x(1.5))
+      .attr("x2", x(1.5))
+      .attr("y2", height);
+	  
+	svg.append("g") 
+	.attr("class", "line one")
+    .append("line")
+      .attr("x1", x(2))
+      .attr("x2", x(2))
+      .attr("y2", height);
+	  
+	svg.append("g") 
+	.attr("class", "line one")
+    .append("line")
+      .attr("x1", x(2.5))
+      .attr("x2", x(2.5))
+      .attr("y2", height);
+	  
+	svg.append("g") 
+	.attr("class", "line one")
+    .append("line")
+      .attr("x1", x(3))
+      .attr("x2", x(3))
       .attr("y2", height);
 	
   var bar = svg.selectAll(".bar")
