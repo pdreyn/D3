@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title >Creative Occupations</title>
+	<script type="text/javascript" src="http://d3js.org/d3.v2.js"></script>
+	
+	<style>
+		#title {font-family: sans-serif;}
+		.bar.creative { fill: steelblue; }
+		.bar.probsolv { fill: red; }
+		.axis text {
+		  font: 10px sans-serif;
+		}
+		.text.occtitles{
+		  font: 10px sans-serif;
+		}
+		.rect.threshold { fill: lightgrey; }
+		.axis path,
+		.axis line {
+		  fill: none;
+		  stroke: lightgrey;
+		  shape-rendering: crispEdges;
+		}
+		.line.zero {
+		  fill: none;
+		  stroke: lightgrey;
+		  shape-rendering: crispEdges;
+		}
+		#creative { 
+			background-color: steelblue; 
+			font: 12px sans-serif;
+			font-weight:bold;
+			height:18px;
+			width:400px;
+			padding:6px;
+			margin-bottom:2px;
+			}
+		#probsolve { 
+			background-color: red; 
+			font: 12px sans-serif;
+			font-weight:bold;
+			height:18px;
+			width:400px;
+			padding:6px;
+			margin-bottom:2px;
+			}
+		#threshold { 
+			background-color: lightgrey;
+			position:relative;
+			left:630px;
+			top:20px;
+			font: 12px sans-serif;
+			font-weight:bold;
+			height:18px;
+			width:320px;
+			padding:6px;
+			margin-bottom:2px;
+			}
+	</style>
+
+</head>
+<body>
+<h1 id="title">Occupations by Divergent & Convergent Indicies</h1>
+<div id="creative">Divergent is Greather than Convergent  -- Creatives</div>
+<div id="probsolve">Convergent is Greater than Divergent  -- Problem Solvers</div>
+<div id="threshold">Threshold for inclusion</div>
+<label><input type="checkbox">Sort By Divergent Skills Index</label>
+	<div id="chart"></div>
+</body>
+
+<script>
+
+var margin = {top: 30, right: 10, bottom: 10, left: 10},
+    width = 960 - margin.left - margin.right,
+    height = 22500 - margin.top - margin.bottom;
+
+var x = d3.scale.linear()
+    .range([0, width])
+
+var y = d3.scale.ordinal()
+    .rangeRoundBands([0, height], .2);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("top");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("right")
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+d3.json("KSA_v8Short.json", function(json) {	
+	var data = json.occupations;
+
+  x.domain(d3.extent(data, function(d) { return d.ZProblemSolvers; })).nice();
+  y.domain(data.map(function(d) { return d.occupation + " (" + d.ZCreatives  + " / " + d.ZProblemSolvers + ")"; }));
+
+ 
+  
+   svg.append("g")
+      .attr("class", "rect threshold")
+	.append("rect")
+      .attr("x", x(1))
+      .attr("width", x(2))
+	  .attr("y", 0)
+      .attr("height", height);
+  
+    svg.append("g")
+      .attr("class", "y axis")
+	  .call(yAxis)
+	  .append("text")
+     // .attr("transform", "rotate(-90)")
+      .attr("x", 60)
+	  .attr("y", 15)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Occupation");
+	 
+	svg.append("g") 
+	.attr("class", "line zero")
+    .append("line")
+      .attr("x1", x(0))
+      .attr("x2", x(0))
+      .attr("y2", height);
+	
+  var bar = svg.selectAll(".bar")
+      .data(data)
+	  
+    .enter().append("rect")
+	
+      .attr("class", function(d) { return d.ZProblemSolvers < d.ZCreatives ? "bar creative" : "bar probsolv"; })
+      .attr("x", function(d) { return x(Math.min(d.ZCreatives, d.ZProblemSolvers)); })
+      .attr("y", function(d) { return y(d.occupation); })
+      .attr("width", function(d) { return Math.abs(x(d.ZProblemSolvers) - x(d.ZCreatives)); })
+      .attr("height", y.rangeBand());
+
+	 
+/*
+	svg.selectAll("text")
+		.data(data)
+			.enter().append("text")
+			.attr("class", "text occtitles")
+			.attr("x", x(-1))
+			.attr("y", function(d) { return y(d.occupation) + 12; })
+			.text( function(d) {return d.occupation + " (" + d.ZCreatives  + " / " + d.ZProblemSolvers + ")";})
+			.attr("font-size", "15px")
+			.style("font-weight", "bold");
+	 */
+	  
+  svg.append("g")
+      .attr("class", "x axis")
+      .call(xAxis);
+
+
+
+  d3.select("input").on("change", change);
+
+  var sortTimeout = setTimeout(function() {
+    d3.select("input").property("checked", true).each(change);
+  }, 2000);
+
+  function change() {
+    clearTimeout(sortTimeout);
+
+    // Copy-on-write since tweens are evaluated after a delay.
+    var y0 = y.domain(data.sort(this.checked
+        ? function(a, b) { return b.ZCreatives - a.ZCreatives; }
+        : function(a, b) { return d3.ascending(b.ZProblemSolvers, a.ZProblemSolvers); })
+        .map(function(d) { return d.occupation; }))
+        .copy();
+
+    var transition = svg.transition().duration(75),
+        delay = function(d, i) { return i * 3; };
+
+    transition.selectAll(".bar")
+        .delay(delay)
+        .attr("y", function(d) { return y0(d.occupation); });
+
+    transition.select(".y.axis")
+        .call(yAxis)
+      .selectAll("g")
+        .delay(delay);
+  }
+
+		
+	  
+});
+
+function type(d) {
+  d.value = +d.value;
+  return d;
+}
+
+</script>
+
+
+	<script type="text/javascript">
+/*
+		var w = 500,
+		    h = 50000;
+
+		var svg = d3.select("#chart")
+			.append("svg")
+			.attr("width", w)
+			.attr("height", h);
+	
+	
+	
+	
+		d3.json("KSA_v8Short.json", function(json) {
+	
+			var data = json.occupations;
+	
+			var max_score = 0;
+			for (var d in data) {
+				max_score = Math.max(data[d].ZProblemSolvers, max_score);
+				max_score = Math.max(data[d].ZCreatives, max_score);
+				max_score = Math.max(data[d].zIdxW_Artistic, max_score);
+			}
+		
+			var dx = w / max_score;
+			var dy = h / data.length;
+	
+			// bars
+			var bars = svg.selectAll(".bar")
+				.data(data)
+				.enter()
+				.append("rect")
+				.attr("class", function(d, i) {return "bar " + d.occupation;})
+				.attr("x", function(d, i) {return d.ZCreatives*i;})
+				.attr("y", function(d, i) {return dy*i;})
+				.attr("width", function(d, i) {return dx*d.ZProblemSolvers})
+				.attr("height", dy);
+	
+			// labels
+			var text = svg.selectAll("text")
+				.data(data)
+				.enter()
+				.append("text")
+				.attr("class", function(d, i) {return "occupation " + d.occupation;})
+				.attr("x", 5)
+				.attr("y", function(d, i) {return dy*i + 15;})
+				.text( function(d) {return d.occupation + " (" + d.ZProblemSolvers  + ")";})
+				.attr("font-size", "15px")
+				.style("font-weight", "bold");
+		});
+		*/
+	</script>
+</html>
