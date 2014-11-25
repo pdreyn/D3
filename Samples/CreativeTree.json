@@ -1,0 +1,1571 @@
+
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-1061.00_Anthropology and Archeology Teachers, Postsecondary",
+"order": 1 
+},
+{
+ "name": "25-1062.00_Area, Ethnic, and Cultural Studies Teachers, Postsecondary",
+"order": 166 
+} 
+],
+"order": 1 
+},
+{
+ "name": "25-1124.00_Foreign Language and Literature Teachers, Postsecondary",
+"order": 130 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-1113.00_Social Work Teachers, Postsecondary",
+"order": 15 
+},
+{
+ "name": "25-1067.00_Sociology Teachers, Postsecondary",
+"order": 64 
+} 
+],
+"order": 15 
+},
+{
+ "children": [
+ {
+ "name": "25-1122.00_Communications Teachers, Postsecondary",
+"order": 132 
+},
+{
+ "name": "25-1123.00_English Language and Literature Teachers, Postsecondary",
+"order": 145 
+} 
+],
+"order": 132 
+} 
+],
+"order": 15 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-1082.00_Library Science Teachers, Postsecondary",
+"order": 16 
+},
+{
+ "name": "25-1081.00_Education Teachers, Postsecondary",
+"order": 36 
+} 
+],
+"order": 16 
+},
+{
+ "name": "25-1011.00_Business Teachers, Postsecondary",
+"order": 111 
+} 
+],
+"order": 16 
+} 
+],
+"order": 15 
+},
+{
+ "name": "25-1031.00_Architecture Teachers, Postsecondary",
+"order": 27 
+} 
+],
+"order": 15 
+},
+{
+ "children": [
+ {
+ "name": "25-1121.00_Art, Drama, and Music Teachers, Postsecondary",
+"order": 28 
+},
+{
+ "name": "25-1021.00_Computer Science Teachers, Postsecondary",
+"order": 98 
+} 
+],
+"order": 28 
+} 
+],
+"order": 15 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-1053.00_Environmental Science Teachers, Postsecondary",
+"order": 25 
+},
+{
+ "name": "25-1064.00_Geography Teachers, Postsecondary",
+"order": 26 
+} 
+],
+"order": 25 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-1043.00_Forestry and Conservation Science Teachers, Postsecondary",
+"order": 75 
+},
+{
+ "name": "25-1041.00_Agricultural Sciences Teachers, Postsecondary",
+"order": 100 
+} 
+],
+"order": 75 
+},
+{
+ "children": [
+ {
+ "name": "25-1042.00_Biological Science Teachers, Postsecondary",
+"order": 84 
+},
+{
+ "name": "25-1052.00_Chemistry Teachers, Postsecondary",
+"order": 99 
+} 
+],
+"order": 84 
+} 
+],
+"order": 75 
+} 
+],
+"order": 25 
+},
+{
+ "children": [
+ {
+ "name": "25-1032.00_Engineering Teachers, Postsecondary",
+"order": 73 
+},
+{
+ "children": [
+ {
+ "name": "25-1054.00_Physics Teachers, Postsecondary",
+"order": 76 
+},
+{
+ "name": "25-1051.00_Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
+"order": 85 
+} 
+],
+"order": 76 
+} 
+],
+"order": 73 
+} 
+],
+"order": 25 
+} 
+],
+"order": 15 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-9161.00_Emergency Management Directors",
+"order": 9 
+},
+{
+ "name": "27-2012.03_Program Directors",
+"order": 135 
+} 
+],
+"order": 9 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-9032.00_Education Administrators, Elementary and Secondary School",
+"order": 71 
+},
+{
+ "name": "11-9151.00_Social and Community Service Managers",
+"order": 88 
+} 
+],
+"order": 71 
+},
+{
+ "name": "11-9033.00_Education Administrators, Postsecondary",
+"order": 86 
+} 
+],
+"order": 71 
+} 
+],
+"order": 9 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-2031.00_Public Relations and Fundraising Managers",
+"order": 14 
+},
+{
+ "name": "11-2021.00_Marketing Managers",
+"order": 103 
+} 
+],
+"order": 14 
+},
+{
+ "name": "27-3031.00_Public Relations Specialists",
+"order": 53 
+} 
+],
+"order": 14 
+},
+{
+ "name": "11-2022.00_Sales Managers",
+"order": 138 
+} 
+],
+"order": 14 
+} 
+],
+"order": 9 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-9021.00_Farm and Home Management Advisors",
+"order": 10 
+},
+{
+ "name": "25-9031.00_Instructional Coordinators",
+"order": 121 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "name": "13-1151.00_Training and Development Specialists",
+"order": 22 
+},
+{
+ "name": "11-3131.00_Training and Development Managers",
+"order": 128 
+} 
+],
+"order": 22 
+} 
+],
+"order": 10 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-9031.01_Instructional Designers and Technologists",
+"order": 17 
+},
+{
+ "name": "11-9039.01_Distance Learning Coordinators",
+"order": 87 
+} 
+],
+"order": 17 
+},
+{
+ "children": [
+ {
+ "name": "13-1199.04_Business Continuity Planners",
+"order": 19 
+},
+{
+ "name": "11-1011.03_Chief Sustainability Officers",
+"order": 159 
+} 
+],
+"order": 19 
+} 
+],
+"order": 17 
+} 
+],
+"order": 10 
+},
+{
+ "name": "19-3032.00_Industrial-Organizational Psychologists",
+"order": 79 
+} 
+],
+"order": 10 
+} 
+],
+"order": 9 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-3051.00_Industrial Production Managers",
+"order": 48 
+},
+{
+ "name": "11-3021.00_Computer and Information Systems Managers",
+"order": 59 
+} 
+],
+"order": 48 
+},
+{
+ "name": "13-1081.00_Logisticians",
+"order": 146 
+} 
+],
+"order": 48 
+},
+{
+ "children": [
+ {
+ "name": "25-4012.00_Curators",
+"order": 56 
+},
+{
+ "name": "11-9121.00_Natural Sciences Managers",
+"order": 96 
+} 
+],
+"order": 56 
+} 
+],
+"order": 48 
+} 
+],
+"order": 9 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "23-1011.00_Lawyers",
+"order": 42 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "21-1014.00_Mental Health Counselors",
+"order": 118 
+},
+{
+ "name": "21-1023.00_Mental Health and Substance Abuse Social Workers",
+"order": 129 
+} 
+],
+"order": 118 
+},
+{
+ "name": "19-3031.03_Counseling Psychologists",
+"order": 124 
+} 
+],
+"order": 118 
+} 
+],
+"order": 42 
+},
+{
+ "name": "21-2011.00_Clergy",
+"order": 136 
+} 
+],
+"order": 42 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1141.04_Clinical Nurse Specialists",
+"order": 50 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1069.04_Neurologists",
+"order": 94 
+},
+{
+ "name": "29-1069.08_Physical Medicine and Rehabilitation Physicians",
+"order": 170 
+} 
+],
+"order": 94 
+},
+{
+ "name": "29-1069.09_Preventive Medicine Physicians",
+"order": 156 
+} 
+],
+"order": 94 
+} 
+],
+"order": 50 
+},
+{
+ "name": "29-1067.00_Surgeons",
+"order": 63 
+} 
+],
+"order": 50 
+} 
+],
+"order": 42 
+} 
+],
+"order": 9 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-3091.02_Archeologists",
+"order": 3 
+},
+{
+ "name": "19-3091.01_Anthropologists",
+"order": 119 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-1011.00_Animal Scientists",
+"order": 7 
+},
+{
+ "name": "19-1013.00_Soil and Plant Scientists",
+"order": 24 
+} 
+],
+"order": 7 
+},
+{
+ "name": "19-1020.01_Biologists",
+"order": 163 
+} 
+],
+"order": 7 
+},
+{
+ "children": [
+ {
+ "name": "19-1029.01_Bioinformatics Scientists",
+"order": 44 
+},
+{
+ "children": [
+ {
+ "name": "19-1022.00_Microbiologists",
+"order": 78 
+},
+{
+ "name": "19-1029.03_Geneticists",
+"order": 165 
+} 
+],
+"order": 78 
+} 
+],
+"order": 44 
+} 
+],
+"order": 7 
+},
+{
+ "children": [
+ {
+ "name": "19-1042.00_Medical Scientists, Except Epidemiologists",
+"order": 61 
+},
+{
+ "name": "19-1041.00_Epidemiologists",
+"order": 172 
+} 
+],
+"order": 61 
+} 
+],
+"order": 7 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-3099.01_Transportation Planners",
+"order": 90 
+},
+{
+ "name": "19-3051.00_Urban and Regional Planners",
+"order": 91 
+} 
+],
+"order": 90 
+},
+{
+ "children": [
+ {
+ "name": "19-3092.00_Geographers",
+"order": 117 
+},
+{
+ "name": "33-3021.06_Intelligence Analysts",
+"order": 127 
+} 
+],
+"order": 117 
+} 
+],
+"order": 90 
+} 
+],
+"order": 7 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-3041.00_Sociologists",
+"order": 4 
+},
+{
+ "name": "19-3094.00_Political Scientists",
+"order": 125 
+} 
+],
+"order": 4 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-3011.00_Economists",
+"order": 6 
+},
+{
+ "name": "19-3011.01_Environmental Economists",
+"order": 34 
+} 
+],
+"order": 6 
+},
+{
+ "name": "25-1063.00_Economics Teachers, Postsecondary",
+"order": 93 
+} 
+],
+"order": 6 
+} 
+],
+"order": 4 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2121.02_Marine Architects",
+"order": 5 
+},
+{
+ "name": "17-2141.00_Mechanical Engineers",
+"order": 43 
+} 
+],
+"order": 5 
+},
+{
+ "name": "27-1021.00_Commercial and Industrial Designers",
+"order": 144 
+} 
+],
+"order": 5 
+},
+{
+ "children": [
+ {
+ "name": "17-2072.00_Electronics Engineers, Except Computer",
+"order": 18 
+},
+{
+ "children": [
+ {
+ "name": "17-2071.00_Electrical Engineers",
+"order": 74 
+},
+{
+ "name": "17-2011.00_Aerospace Engineers",
+"order": 157 
+} 
+],
+"order": 74 
+} 
+],
+"order": 18 
+} 
+],
+"order": 5 
+},
+{
+ "children": [
+ {
+ "name": "17-2199.05_Mechatronics Engineers",
+"order": 80 
+},
+{
+ "name": "17-2061.00_Computer Hardware Engineers",
+"order": 102 
+} 
+],
+"order": 80 
+} 
+],
+"order": 5 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-1121.00_Computer Systems Analysts",
+"order": 21 
+},
+{
+ "name": "15-1134.00_Web Developers",
+"order": 45 
+} 
+],
+"order": 21 
+},
+{
+ "name": "15-1132.00_Software Developers, Applications",
+"order": 81 
+} 
+],
+"order": 21 
+},
+{
+ "name": "15-1199.11_Video Game Designers",
+"order": 69 
+} 
+],
+"order": 21 
+},
+{
+ "children": [
+ {
+ "name": "15-1199.05_Geographic Information Systems Technicians",
+"order": 33 
+},
+{
+ "name": "15-1133.00_Software Developers, Systems Software",
+"order": 82 
+} 
+],
+"order": 33 
+} 
+],
+"order": 21 
+} 
+],
+"order": 5 
+} 
+],
+"order": 3 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2112.00_Industrial Engineers",
+"order": 13 
+},
+{
+ "children": [
+ {
+ "name": "19-1012.00_Food Scientists and Technologists",
+"order": 92 
+},
+{
+ "name": "11-9041.01_Biofuels/Biodiesel Technology and Product Development Managers",
+"order": 105 
+} 
+],
+"order": 92 
+} 
+],
+"order": 13 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2151.00_Mining and Geological Engineers, Including Mining Safety Engineers",
+"order": 40 
+},
+{
+ "name": "17-2171.00_Petroleum Engineers",
+"order": 107 
+} 
+],
+"order": 40 
+},
+{
+ "children": [
+ {
+ "name": "11-9041.00_Architectural and Engineering Managers",
+"order": 149 
+},
+{
+ "name": "13-1081.01_Logistics Engineers",
+"order": 173 
+} 
+],
+"order": 149 
+} 
+],
+"order": 40 
+},
+{
+ "children": [
+ {
+ "name": "17-2021.00_Agricultural Engineers",
+"order": 101 
+},
+{
+ "children": [
+ {
+ "name": "17-2121.01_Marine Engineers",
+"order": 113 
+},
+{
+ "name": "17-2051.00_Civil Engineers",
+"order": 161 
+} 
+],
+"order": 113 
+} 
+],
+"order": 101 
+} 
+],
+"order": 40 
+},
+{
+ "children": [
+ {
+ "name": "17-2111.01_Industrial Safety and Health Engineers",
+"order": 83 
+},
+{
+ "name": "17-2081.00_Environmental Engineers",
+"order": 89 
+} 
+],
+"order": 83 
+} 
+],
+"order": 40 
+} 
+],
+"order": 13 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-2032.00_Materials Scientists",
+"order": 114 
+},
+{
+ "name": "17-2131.00_Materials Engineers",
+"order": 153 
+} 
+],
+"order": 114 
+},
+{
+ "name": "17-2199.01_Biochemical Engineers",
+"order": 171 
+} 
+],
+"order": 114 
+},
+{
+ "children": [
+ {
+ "name": "17-2199.07_Photonics Engineers",
+"order": 123 
+},
+{
+ "name": "17-2141.01_Fuel Cell Engineers",
+"order": 169 
+} 
+],
+"order": 123 
+} 
+],
+"order": 114 
+},
+{
+ "name": "17-2031.00_Biomedical Engineers",
+"order": 160 
+} 
+],
+"order": 114 
+},
+{
+ "children": [
+ {
+ "name": "19-2042.00_Geoscientists, Except Hydrologists and Geographers",
+"order": 116 
+},
+{
+ "name": "19-2043.00_Hydrologists",
+"order": 164 
+} 
+],
+"order": 116 
+} 
+],
+"order": 114 
+} 
+],
+"order": 13 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-1012.00_Landscape Architects",
+"order": 29 
+},
+{
+ "name": "17-1011.00_Architects, Except Landscape and Naval",
+"order": 131 
+} 
+],
+"order": 29 
+},
+{
+ "children": [
+ {
+ "name": "17-2051.01_Transportation Engineers",
+"order": 58 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2081.01_Water/Wastewater Engineers",
+"order": 126 
+},
+{
+ "name": "17-2141.02_Automotive Engineers",
+"order": 148 
+} 
+],
+"order": 126 
+},
+{
+ "name": "17-2041.00_Chemical Engineers",
+"order": 162 
+} 
+],
+"order": 126 
+} 
+],
+"order": 58 
+} 
+],
+"order": 29 
+} 
+],
+"order": 13 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-1121.01_Informatics Nurse Specialists",
+"order": 32 
+},
+{
+ "name": "17-2112.01_Human Factors Engineers and Ergonomists",
+"order": 158 
+} 
+],
+"order": 32 
+},
+{
+ "children": [
+ {
+ "name": "15-1199.02_Computer Systems Engineers/Architects",
+"order": 97 
+},
+{
+ "name": "15-1111.00_Computer and Information Research Scientists",
+"order": 154 
+} 
+],
+"order": 97 
+} 
+],
+"order": 32 
+},
+{
+ "children": [
+ {
+ "name": "41-9031.00_Sales Engineers",
+"order": 37 
+},
+{
+ "name": "15-1199.10_Search Marketing Strategists",
+"order": 70 
+} 
+],
+"order": 37 
+} 
+],
+"order": 32 
+} 
+],
+"order": 13 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "19-1021.00_Biochemists and Biophysicists",
+"order": 30 
+},
+{
+ "name": "19-1029.02_Molecular and Cellular Biologists",
+"order": 120 
+} 
+],
+"order": 30 
+},
+{
+ "name": "19-2011.00_Astronomers",
+"order": 122 
+} 
+],
+"order": 30 
+},
+{
+ "name": "19-2012.00_Physicists",
+"order": 112 
+} 
+],
+"order": 30 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "15-2021.00_Mathematicians",
+"order": 134 
+},
+{
+ "name": "15-2031.00_Operations Research Analysts",
+"order": 143 
+} 
+],
+"order": 134 
+},
+{
+ "name": "15-2041.01_Biostatisticians",
+"order": 167 
+} 
+],
+"order": 134 
+} 
+],
+"order": 30 
+} 
+],
+"order": 13 
+} 
+],
+"order": 3 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "17-2199.04_Manufacturing Engineers",
+"order": 46 
+},
+{
+ "name": "17-3029.06_Manufacturing Engineering Technologists",
+"order": 95 
+} 
+],
+"order": 46 
+},
+{
+ "name": "17-2199.08_Robotics Engineers",
+"order": 57 
+} 
+],
+"order": 46 
+},
+{
+ "name": "11-1011.00_Chief Executives",
+"order": 72 
+} 
+],
+"order": 46 
+} 
+],
+"order": 1 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-4014.00_Sound Engineering Technicians",
+"order": 2 
+},
+{
+ "children": [
+ {
+ "name": "27-4032.00_Film and Video Editors",
+"order": 110 
+},
+{
+ "name": "27-1014.00_Multimedia Artists and Animators",
+"order": 151 
+} 
+],
+"order": 110 
+} 
+],
+"order": 2 
+},
+{
+ "children": [
+ {
+ "name": "43-9031.00_Desktop Publishers",
+"order": 67 
+},
+{
+ "name": "51-6092.00_Fabric and Apparel Patternmakers",
+"order": 175 
+} 
+],
+"order": 67 
+} 
+],
+"order": 2 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-1012.00_Craft Artists",
+"order": 8 
+},
+{
+ "name": "51-9195.05_Potters, Manufacturing",
+"order": 39 
+} 
+],
+"order": 8 
+},
+{
+ "name": "27-1013.00_Fine Artists, Including Painters, Sculptors, and Illustrators",
+"order": 49 
+} 
+],
+"order": 8 
+},
+{
+ "children": [
+ {
+ "name": "27-1023.00_Floral Designers",
+"order": 47 
+},
+{
+ "children": [
+ {
+ "name": "39-5012.00_Hairdressers, Hairstylists, and Cosmetologists",
+"order": 51 
+},
+{
+ "children": [
+ {
+ "name": "27-4021.00_Photographers",
+"order": 60 
+},
+{
+ "name": "39-5091.00_Makeup Artists, Theatrical and Performance",
+"order": 147 
+} 
+],
+"order": 60 
+} 
+],
+"order": 51 
+} 
+],
+"order": 47 
+} 
+],
+"order": 8 
+} 
+],
+"order": 2 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-3011.00_Radio and Television Announcers",
+"order": 11 
+},
+{
+ "name": "27-3021.00_Broadcast News Analysts",
+"order": 12 
+} 
+],
+"order": 11 
+},
+{
+ "children": [
+ {
+ "name": "27-2011.00_Actors",
+"order": 41 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-3043.04_Copy Writers",
+"order": 62 
+},
+{
+ "name": "27-1024.00_Graphic Designers",
+"order": 150 
+} 
+],
+"order": 62 
+},
+{
+ "name": "27-2012.04_Talent Directors",
+"order": 115 
+} 
+],
+"order": 62 
+} 
+],
+"order": 41 
+} 
+],
+"order": 11 
+},
+{
+ "children": [
+ {
+ "name": "27-2041.04_Music Composers and Arrangers",
+"order": 23 
+},
+{
+ "name": "27-3043.05_Poets, Lyricists and Creative Writers",
+"order": 142 
+} 
+],
+"order": 23 
+} 
+],
+"order": 11 
+},
+{
+ "name": "27-2032.00_Choreographers",
+"order": 141 
+} 
+],
+"order": 11 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "27-1022.00_Fashion Designers",
+"order": 20 
+},
+{
+ "children": [
+ {
+ "name": "27-1027.00_Set and Exhibit Designers",
+"order": 133 
+},
+{
+ "name": "27-1025.00_Interior Designers",
+"order": 155 
+} 
+],
+"order": 133 
+} 
+],
+"order": 20 
+},
+{
+ "children": [
+ {
+ "name": "27-3041.00_Editors",
+"order": 35 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "11-2011.00_Advertising and Promotions Managers",
+"order": 65 
+},
+{
+ "name": "27-2012.01_Producers",
+"order": 66 
+} 
+],
+"order": 65 
+},
+{
+ "name": "27-1011.00_Art Directors",
+"order": 139 
+} 
+],
+"order": 65 
+},
+{
+ "children": [
+ {
+ "name": "27-2012.02_Directors- Stage, Motion Pictures, Television, and Radio",
+"order": 106 
+},
+{
+ "name": "27-2012.05_Technical Directors/Managers",
+"order": 140 
+} 
+],
+"order": 106 
+} 
+],
+"order": 65 
+} 
+],
+"order": 35 
+} 
+],
+"order": 20 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1127.00_Speech-Language Pathologists",
+"order": 31 
+},
+{
+ "children": [
+ {
+ "name": "29-1125.02_Music Therapists",
+"order": 77 
+},
+{
+ "name": "29-1125.01_Art Therapists",
+"order": 109 
+} 
+],
+"order": 77 
+} 
+],
+"order": 31 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "name": "29-1122.00_Occupational Therapists",
+"order": 55 
+},
+{
+ "name": "29-1125.00_Recreational Therapists",
+"order": 168 
+} 
+],
+"order": 55 
+},
+{
+ "name": "25-2059.01_Adapted Physical Education Specialists",
+"order": 152 
+} 
+],
+"order": 55 
+} 
+],
+"order": 31 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "name": "25-2022.00_Middle School Teachers, Except Special and Career/Technical Education",
+"order": 38 
+},
+{
+ "children": [
+ {
+ "name": "25-2031.00_Secondary School Teachers, Except Special and Career/Technical Education",
+"order": 54 
+},
+{
+ "name": "25-2021.00_Elementary School Teachers, Except Special Education",
+"order": 174 
+} 
+],
+"order": 54 
+} 
+],
+"order": 38 
+},
+{
+ "name": "25-2032.00_Career/Technical Education Teachers, Secondary School",
+"order": 108 
+} 
+],
+"order": 38 
+},
+{
+ "children": [
+ {
+ "name": "25-2012.00_Kindergarten Teachers, Except Special Education",
+"order": 52 
+},
+{
+ "name": "25-2011.00_Preschool Teachers, Except Special Education",
+"order": 68 
+} 
+],
+"order": 52 
+} 
+],
+"order": 38 
+} 
+],
+"order": 31 
+},
+{
+ "children": [
+ {
+ "name": "27-2022.00_Coaches and Scouts",
+"order": 104 
+},
+{
+ "name": "27-2041.01_Music Directors",
+"order": 137 
+} 
+],
+"order": 104 
+} 
+],
+"order": 31 
+} 
+],
+"order": 20 
+} 
+],
+"order": 11 
+} 
+],
+"order": 2 
+} 
+],
+"order": 1 
+} 
