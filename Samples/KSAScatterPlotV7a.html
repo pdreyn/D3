@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {
+  font: 12px sans-serif;
+}
+.label{
+  font: 14px sans-serif;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.mLine {
+  fill: none;
+  stroke: grey;
+  shape-rendering: crispEdges;
+}
+
+.cLine {
+  fill: none;
+  stroke: red;
+  shape-rendering: crispEdges;
+}
+
+.cRect {
+  fill: lightgrey;
+  stroke: none;
+  shape-rendering: crispEdges;
+}
+
+.qRect {
+  fill: none;
+  stroke: steelblue;
+  shape-rendering: crispEdges;
+}
+.circle {
+  fill: steelblue;
+  stroke: steelblue;
+  stroke-opacity:50;
+}
+
+.tip {
+  background: red;
+  font: 14px sans-serif;
+}
+
+
+</style>
+<body>
+<h1> Analytic Index(x) by Artistic Index (y)</h1>
+<br>
+Shading indicates score on Creative measure -- darker points have a higher score.
+<br>
+mouse over point to view occupation title<br>
+<!--
+X Axis: <select id="XAxis">
+	<option value="CreativeIndex">CreativeIndex</option>
+	<option value="ThinkersIndex">ThinkersIndex</option>
+	<option value="KcommIndex">KcommIndex</option>
+	<option value="PctBAPlus">PctBAPlus</option>
+	<option value="PCTMAPlus">PCTMAPlus</option>
+
+</select>
+<br>
+
+Y Axis: <select id="YAxis">
+	<option value="CreativeIndex">CreativeIndex</option>
+	<option value="ThinkersIndex">ThinkersIndex</option>
+	<option value="KcommIndex">KcommIndex</option>
+	<option value="PctBAPlus">PctBAPlus</option>
+	<option value="PCTMAPlus">PCTMAPlus</option>
+
+</select>
+<br>
+-->
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 800 - margin.left - margin.right,
+    height = 800 - margin.top - margin.bottom,
+	pad = 20,
+    left_pad = 50;
+	
+var x = d3.scale.linear()
+	.domain([-1.5,3])
+    .range([left_pad, width-pad]);
+
+
+var y = d3.scale.linear()
+	.domain([4,-1])
+   .range([pad, height-pad*2]);
+	
+	
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+	.append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+
+
+var xAxis = d3.svg.axis().scale(x).orient("bottom"),
+    yAxis = d3.svg.axis().scale(y).orient("left");
+
+svg.append("g")
+    .attr("class", "axis")
+    .attr("transform", "translate(0, "+(height-pad)+")")
+    .call(xAxis);
+ 
+
+svg.append("g")
+    .attr("class", "axis")
+    .attr("transform", "translate("+(left_pad-pad)+", 0)")
+    .call(yAxis);
+/*	
+svg.append("rect") 
+	.attr("class", "cRect")
+    .attr('x',x(-3))
+    .attr('y',y(3))
+    .attr('width',670)
+	.attr('height',230);
+*/
+	
+svg.append("rect") 
+	.attr("class", "qRect")
+    .attr('x',x(-1.25))
+    .attr('y',y(3.5))
+    .attr('width',440)
+	.attr('height',70);
+
+svg.append("text")
+    .attr("class", "rlabel")
+    .attr("x", x(0.8))
+    .attr("y", y(3.4)  )
+    .text("Core Creative");	
+/*	
+svg.append("rect") 
+	.attr("class", "qRect")
+    .attr('x',x(-1.05))
+    .attr('y',y(3))
+    .attr('width',140)
+	.attr('height',180);
+
+svg.append("text")
+    .attr("class", "rlabel")
+    .attr("x", x(-1.05)+ 3)
+    .attr("y", y(3) -10)
+    .text("High Creative - Low Analytic");	
+	
+svg.append("rect") 
+	.attr("class", "qRect")
+    .attr('x',x(-2.5))
+    .attr('y',y(-1.65))
+    .attr('width',100)
+	.attr('height',100);
+
+svg.append("text")
+    .attr("class", "rlabel")
+    .attr("x", x(3)-175)
+    .attr("y", y(-.63) )
+    .text("Low Creative - High Analytic");	
+	
+svg.append("rect") 
+	.attr("class", "qRect")
+    .attr('x',x(1.4))
+    .attr('y',y(.37))
+    .attr('width',120)
+	.attr('height',100);
+
+svg.append("text")
+    .attr("class", "rlabel")
+    .attr("x", x(-2.5))
+    .attr("y", y(-2.65) )
+    .text("Low Creative - Low Analytic");	
+*/	
+	
+//mean line
+svg.append("line") 
+	.attr("class", "mLine")
+    .attr('x1',x(0))
+    .attr('x2',x(0))
+    .attr('y1',y(-1))
+    .attr('y2',y(4));	
+	
+//mean line
+svg.append("line") 
+	.attr("class", "mLine")
+    .attr('x1',x(-1.5))
+    .attr('x2',x(3))
+    .attr('y1',y(0))
+    .attr('y2',y(0));	
+
+
+/*
+//cut line	
+svg.append("line") 
+	.attr("class", "cLine")
+    .attr('x1',x(-3))
+    .attr('x2',x(3))
+    .attr('y1',y(1))
+    .attr('y2',y(1));	 
+*/	
+svg.append("text")
+    .attr("class", "x label")
+    .attr("text-anchor", "end")
+    .attr("x", 550)
+    .attr("y", height + 16)
+    .text("Analytic Index - Standard Deviations from Mean");
+
+	/*
+svg.append("text")
+    .attr("class", "x label")
+    .attr("text-anchor", "end")
+    .attr("x", 200)
+    .attr("y", 40)
+    .text("Creative Occupations");	
+*/	
+svg.append("text")
+    .attr("class", "y label")
+    .attr("text-anchor", "end")
+	.attr("x", -210)
+    .attr("y", -20)
+    .attr("dy", ".75em")
+    .attr("transform", "rotate(-90)")
+    .text("Artistic Index - Standard Deviations from Mean");
+	
+var tooltip = d3.select("body")
+	.append("div")
+	.style("background", "rgba(256, 256, 256, 0.85)")
+	.style("position", "absolute")
+	.style("z-index", "10")
+	.style("visibility", "hidden")
+	.text("a simple tooltip");
+
+var dropDownX = d3.select("#XAxis")  
+	dropDownX.on("change", xOptionChanged );
+
+var dropDownY = d3.select("#YAxis")  
+	dropDownY.on("change", yOptionChanged );
+	
+	
+	
+function xOptionChanged() {
+	var selectedValue = d3.event.target.value; 
+	key = this.selectedIndex;
+	alert (selectedValue);
+}
+
+function yOptionChanged() {
+	var selectedValue = d3.event.target.value; 
+	alert (selectedValue);
+}
+	
+
+
+var data = d3.json("ksaData_v9.1a.json", function(occupations) {
+ 
+	var domainByTrait = {},
+		//xValues = d3.max(objects, function(d) { return d.PctBAPlus; })
+	
+		//yValues = d3.keys(ksaData[0]).filter(function(d) { return d == "CreativeIndex"; }),
+	
+		traits = d3.keys(occupations[0]).filter(function(d) { return d !== "ACEScore" && d !== "occupation" ; }),
+		n = traits.length;
+
+	//alert(n);
+		svg.selectAll(".loading").remove();
+		var g = svg.selectAll("circle")
+			.data(occupations)
+			.enter()
+			.append("circle")
+			.filter(function(d){ return d.zCreative >= 1; })
+			.attr("class", "circle")
+			.attr("cx", function (d) { return x(d.zAnalytic); })
+			.attr("cy", function (d) { return y(d.zIdxW_Artistic); })
+			.attr("r", 5)
+			.on("mouseover", function(d) {
+				var tiptext = d.occupation;
+				tooltip.style("visibility", "visible");
+				tooltip.text(tiptext);
+				})
+			.on("mousemove", function() {return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");})
+			.on("mouseout", function() {return tooltip.style("visibility", "hidden");})
+			.text(function(d) { return d.occupation; })
+			.transition()
+			.duration(800)
+			.style("fill-opacity", function (d) { return (d.zCreative+3)*(d.zCreative+3)*(d.zCreative+3)/(6*36); })   ;   // set the element opacity
+			//.attr("r", function (d) { return r(d.aceScore); });
+
+});
+
+
+</script>
